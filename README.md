@@ -54,6 +54,12 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
+#### Imminent RAT
+~~~
+00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-1.png "Imminent")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-2.png "Imminent")
 
 #### Lokibot
 
@@ -78,19 +84,19 @@ Connection: close
 
 flag on "38 00 00 00 17" pattern
 ~~~
-00000000  38 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   8.....K, .e.....g
-00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
-00000020  04 ea d0 16 f2 cf 3e 51  29 18 55 e5 1c 7a 6a 91   ......>Q ).U..zj.
-00000030  03 99 38 f7 ac 3b f7 89  85 2e c4 d8               ..8..;.. ....
+00000000  38 00 00 00 17 f5 4b 2c c3 65 ca 9f eb bc fd 67   8.....K, .e.....g
+00000010  ad 6d 0e c4 33 7d b6 40 17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
+00000020  04 ea d0 16 f2 cf 3e 51 29 18 55 e5 1c 7a 6a 91   ......>Q ).U..zj.
+00000030  03 99 38 f7 ac 3b f7 89 85 2e c4 d8               ..8..;.. ....
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-38.png "Nanocore 38")
 
 flag on "40 00 00 00 17" pattern:
 ~~~
-00000000  40 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   @.....K, .e.....g
-00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
-00000020  04 ea d0 16 87 30 8f fa  78 9d 2a 01 c2 51 ee 07   .....0.. x.*..Q..
-00000030  bd e7 23 95 3e ab a1 04  ca 56 b3 fb b7 9b b7 3a   ..#.>... .V.....:
+00000000  40 00 00 00 17 f5 4b 2c c3 65 ca 9f eb bc fd 67   @.....K, .e.....g
+00000010  ad 6d 0e c4 33 7d b6 40 17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
+00000020  04 ea d0 16 87 30 8f fa 78 9d 2a 01 c2 51 ee 07   .....0.. x.*..Q..
+00000030  bd e7 23 95 3e ab a1 04 ca 56 b3 fb b7 9b b7 3a   ..#.>... .V.....:
 00000040  13 e5 2b 52                                        ..+R
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
