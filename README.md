@@ -57,7 +57,7 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
-#### TA505 Loder:
+#### TA505 Loader:
 ~~~
 POST /2021 HTTP/1.1
 Connection: Keep-Alive
