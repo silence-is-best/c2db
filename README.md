@@ -37,6 +37,25 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
+#### Nanocore
+
+flag on "38 00 00 00 17" pattern
+00000000  38 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   8.....K, .e.....g
+00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
+00000020  04 ea d0 16 f2 cf 3e 51  29 18 55 e5 1c 7a 6a 91   ......>Q ).U..zj.
+00000030  03 99 38 f7 ac 3b f7 89  85 2e c4 d8               ..8..;.. ....
+
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-38.png "Nanocore 38")
+
+flag on "40 00 00 00 17" pattern:
+00000000  40 00 00 00 17 f5 4b 2c  c3 65 ca 9f eb bc fd 67   @.....K, .e.....g
+00000010  ad 6d 0e c4 33 7d b6 40  17 17 97 a1 d9 7c 3c b3   .m..3}.@ .....|<.
+00000020  04 ea d0 16 87 30 8f fa  78 9d 2a 01 c2 51 ee 07   .....0.. x.*..Q..
+00000030  bd e7 23 95 3e ab a1 04  ca 56 b3 fb b7 9b b7 3a   ..#.>... .V.....:
+00000040  13 e5 2b 52                                        ..+R
+
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
+
 #### TA505 Loder:
 
 POST /2021 HTTP/1.1
@@ -51,7 +70,6 @@ Server: nginx/1.10.3
 Date: Wed, 09 Oct 2019 18:53:18 GMT
 Content-Length: 0
 Connection: keep-alive
-
 
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
 
