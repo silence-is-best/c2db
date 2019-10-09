@@ -1,1 +1,1 @@
-###A repo for matching on known c2 traffic keywords (ctrl+f)
+### A repo for matching on known c2 traffic keywords (ctrl+f to search)
