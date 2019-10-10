@@ -480,7 +480,8 @@ SearchFilterHost.exe*null
 WINWORD.EXE*C:\Program Files\Microsoft Office\Office14\WINWORD.EXE
 WmiPrvSE.exe*null
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap.png "Ostap")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-1.png "Ostap")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
 
 #### Pony
 Follow tcp stream, not http stream in wireshark
