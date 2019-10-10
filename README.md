@@ -148,6 +148,25 @@ Host: domalo.online
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
 
+#### Dunihi
+~~~
+POST /is-ready HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: C4BA3647<|>USER-PC<|>admin<|>Microsoft Windows 7 Professional <|>+<|>undefined<|>false - 20/9/2019
+Accept-Encoding: gzip, deflate
+Host: 192.186.145.93:8885
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: text/html
+Server: Indy/9.0.18
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dunihi.png "Dunihi")
+
 #### Emotet
 ~~~
 POST /mult/tlb/ HTTP/1.1
