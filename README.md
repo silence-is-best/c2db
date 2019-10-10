@@ -591,6 +591,27 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Qbot
+usually url is /t3
+~~~
+POST /t3 HTTP/1.1
+Accept: application/x-shockwave-flash, image/gif, image/jpeg, image/pjpeg, */*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: 174.48.72.160
+Content-Length: 215
+Cache-Control: no-cache
+
+ycgizbarun=8e5ygoO+WS2h/ypd2ZEi8nHeEKPFyrdKrXgLyQd6Gi76j4KxXuMEm2K/lEHrTJqqWdDWXZQWcLyTbSnECgNFerjMjb9ittXV+rg/yqpLMLtOWYw6pCz2nDkPbGnUW3Z61/yZoSoh9zdJzkpTmYMCloxmblZ9Eos4QZHsiMecjlcmNjwU1D/9ShQ6cGKSJxHNVT2lNGCykNU=
+
+HTTP/1.1 200 OK
+Server: nginx/1.9.12
+Content-Length: 41
+
+ParseHttpResponse() failed pCurlResp=NULL
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qbot.png "Qbot Qakbot")
+
 #### Quasar RAT
 Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 ~~~
