@@ -175,7 +175,7 @@ flag on "40 00 00 00 17" pattern:
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
 #### Orcus RAT
-Macine name is SNI
+Machine name is SNI
 ~~~
 ....j...f..].....*".....L...^...xG.F..... ...../.5...
 .....	.
