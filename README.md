@@ -223,6 +223,13 @@ I6.$...Z,....
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evilpony.png "Evilpony")
 
+#### Flawedammyy
+~~~
+= ..">h..K...t.......N<.
+.Q..1....%S-.8z...id=53292686&os=7 SP1 x86&priv=User+UAC&cred=USER-PC\admin&pcname=USER-PC&avname=&build_time=08-08-2019 14:24:35 PM&card=0&
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/flawedammyy.png "Flawedammyy")
+
 #### Formbook
 formbook hostnames are almost always www
 ~~~
