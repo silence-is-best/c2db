@@ -76,7 +76,7 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
-#### Bladabindi - nJrat
+#### Bladabindi aka nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
 ~~~
@@ -278,7 +278,7 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
-#### Houdini
+#### Houdini aka vjworm vjw0rm
 ~~~
 POST /Vre HTTP/1.1
 Accept: */*
