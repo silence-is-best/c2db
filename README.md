@@ -57,6 +57,12 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Amadey")
 
+#### Arechclient2
+~~~
+....+.{"Type":"EncryptionStatus","Status":"Off"}....&.{"Type":"ConnectionType","ConnectionType":"Client","SessionID":"191003337","BotName":"admin","BotOS":"Microsoft Windows 7 Professional "}....-.{"Type":"SessionID","SessionID":"191003337"}......{"Type":"AfkSystem"}....).{"Type":"ServerAfkSystem","Status":"ok"}
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/arechclient2.png "Arechclient2")
+
 #### Azorult
 POST retrieve metod, unique pattern with lot's of '/' and ')'
 ~~~
