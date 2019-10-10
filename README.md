@@ -154,6 +154,27 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+#### Orcus RAT
+Macine name is SNI
+~~~
+....j...f..].....*".....L...^...xG.F..... ...../.5...
+.....	.
+.2.8.......%..........
+...USER-PC.
+......................M..]......~$....q.....d..o..t{8Y..& V5.....Xj..[...d.'v...3Y..9...}.....................0...0..0.......GY.I..l.C.!d.((n0
+.	*.H..
+.....0!1.0...U....OrcusServerCertificate0 .
+181004205345Z..20691004205345Z0!1.0...U....OrcusServerCertificate0..0
+.	*.H..
+.........0..........C.}q.
+.%/.J..U..+U!...Zk.&5.".	.on......w..NA..n..... ...ZM!...g..]....]Z...,
+~h..?.......i'........u..... .r.|.o....2..A1KU.....0
+.	*.H..
+...........}.#zu....*...eW.+..c8..qk^.8....F..S"u.:..=...C  .K.z....P...Y..M[..d.2p..U....O=.|*4-....S;.b...I......1t.~Z..e.ETxk...r(u_g........a...?.y$t..LR.:..>...3j..gT		.....DJH..N.MJD.eb...I...}.V^5a...\@.S..........4..u_...l$y....k*......|...D..Z
+.8S...i..z.9.&..5F.......A..V.c\.{..I...1|.W..td?...Y.....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/orcus.png "Orcus RAT")
+
 #### Predator the Thief
 ~~~
 POST /api/check.get HTTP/1.1
