@@ -278,6 +278,23 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
+#### Icedid
+URI is uually data2.php
+~~~
+GET /data2.php?1C00C7CC98D464FE HTTP/1.1
+Host: memphase.com
+Upgrade: websocket
+Connection: Upgrade
+
+HTTP/1.1 101 Switching Protocols
+Server: openresty
+Date: Thu, 10 Oct 2019 19:28:34 GMT
+Connection: upgrade
+Sec-WebSocket-Accept: Kfh9QIsMVZcl6xEPYxPHzW8SZ8w=
+Upgrade: websocket
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid")
+
 #### Imminent RAT
 ~~~
 00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
