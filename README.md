@@ -76,6 +76,20 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
 
+#### Blackrat
+~~~
+9.............................>Clientx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null......ProClient.Data.....data.bytes.............102622021F20414A5644044411072A755821285E472B1826013113651A28101927225D5B1037185F69394B2911291A1A3F031C113F696C1442754978280A031673281879480C2843582C0B032E41737D7E5B5C7A0F7C0D7521
+...............................>Clientx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null......ProClient.Data.....data.bytes..........."1A3A0F03142D5055131F585605383F4051
+
+...............................J2085182040988060201, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null.....
+BlackRAT.Data.....data.bytes...........(102622021F20415F0818765B27312642512C3103
+...............................J2085182040988060201, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null.....
+BlackRAT.Data.....data.bytes............123C3803363F73570B0552
+..$............................J2085182040988060201, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null.....
+BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ......................@.............................................	.!..L.!This program cannot be run in DOS mode.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
+
 #### Danabot
 Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet 
 ~~~
