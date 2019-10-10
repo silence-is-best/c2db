@@ -407,6 +407,17 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+#### Netwire
+flag on "41 00 00 00 99" pattern in initial packet
+~~~
+00000000  41 00 00 00 99 80 3a e0 e8 5f d7 ea 8c af 76 cc   A.....:. ._....v.
+00000010  c4 cc ad 5a 10 72 cc d0 5e 64 d8 50 80 fc b6 e6   ...Z.r.. ^d.P....
+00000020  54 25 bf e0 ea 7f 7b e4 ff 54 70 e8 eb c0 fa 80   T%....{. .Tp.....
+00000030  a0 a0 f3 a0 b0 0a 94 04 84 31 7c 3f e7 8c 90 c5   ........ .1|?....
+00000040  ce c4 11 97 d9                                     .....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netwire.png "Netwire 40")
+
 #### Orcus RAT
 Machine name is SNI
 ~~~
