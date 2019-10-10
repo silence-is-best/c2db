@@ -375,6 +375,15 @@ V....[.1..4h.-,.P....].	/;.b...N...:E8.4..Me";3..Q.}0m .>)&A.'9.P6'D.S.0..(_~!,.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
 
+#### Loda
+I've never seen this without the beta flah
+~~~
+x|lugocv|x|admin|WIN_7|X86| |Disabled|1.1.2|ddd|Pr720X21280X3|Desktop|0|beta
+
+ZeXro0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/loda.png "Loda")
+
 #### Lokibot
 
 follw tcp stream, not http stream in wireshark
