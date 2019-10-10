@@ -68,7 +68,7 @@ Cache-Control: no-cache
 
 J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/.I/.?/.>H.(9.(9.(9.(9.I
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Azorult")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
 #### Bladabindi - nJrat
 ~~~
