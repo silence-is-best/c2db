@@ -411,6 +411,17 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Quasar RAT
+Flag on "40 00 00 00" pattern, 68 data bytes on first packet
+~~~
+00000000  40 00 00 00 3e 83 58 08 ad d1 05 8d 77 20 53 1f   @...>.X. ....w S.
+00000010  dc 2e e8 99 0a f3 f1 bb 3a 8c c2 a1 9d 72 4a 69   ........ :....rJi
+00000020  e6 60 97 da 1e 76 87 16 91 f2 1b c4 f4 89 f9 8a   .`...v.. ........
+00000030  20 5b 19 e5 7c ae ed f1 b4 5a d2 ce 5f 86 17 20    [..|... .Z.._.. 
+00000040  c6 b3 03 8c                                        ....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
+
 #### Raccoon Stealer
 ~~~
 POST /gate/log.php HTTP/1.1
