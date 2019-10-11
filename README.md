@@ -781,6 +781,24 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Pyrogenic
+flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
+~~~
+00000000  53                                                 S
+00000001  e1 6d d3 9e ee 45 d4 ad  26 96 67 86 36 fb f7 cc   .m...E.. &.g.6...
+00000011  3f 15 13 b7 cf 5e 99 ac  dc 9d e6 36 cd 61 bd 91   ?....^.. ...6.a..
+00000021  37 5c db a0 15 ec f4 5a  9a 63 96 7f 2b e6 b3 3c   7\.....Z .c..+..<
+00000031  96 a9 aa fe d6 37 6d f5  1d 57 8f 26 f1 03 a4 7a   .....7m. .W.&...z
+00000041  7b d9 5f 01 8c 5e 87 c5  de 80 a2 52 15 24 e0 73   {._..^.. ...R.$.s
+00000051  51 70 b4 6f 60 7c a8 4c  df 36 ac df 96 b3 18 b5   Qp.o`|.L .6......
+00000061  54 37 74 9b d1 60 06 f1  46 b2 8f e2 23 f2 58 80   T7t..`.. F...#.X.
+00000071  de d9 8d d9 10 35 91 7f  d9 74 4b 6e 05 4c 13 9f   .....5.. .tKn.L..
+00000081  68 85 65 d0 bb f6 67 0c  78 ae 12 b6 ab 89 90 14   h.e...g. x.......
+00000091  e0 47 c5 56 c9 e0 0f 17  73 95 ee 30 08 fa 0e 47   .G.V.... s..0...G
+000000A1  cd ec dd 72 db e7 ff bf  b9 57 b3 61 c4 cb 4c      ...r.... .W.a..L
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pyrogenic.png "Pyrogenic")
+
 #### Qbot
 usually url is /t3
 ~~~
