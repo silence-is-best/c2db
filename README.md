@@ -456,6 +456,21 @@ V....[.1..4h.-,.P....].	/;.b...N...:E8.4..Me";3..Q.}0m .>)&A.'9.P6'D.S.0..(_~!,.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
 
+#### KrugBot
+~~~
+POST /absc/index.php HTTP/1.0
+Host: raiseyourdongers.wtf
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 224
+
+tSVkhHUFWeXjujTxCNBQl7h1QW2zElMRx+g8ceDNF/4mUj4PV8MaCjFjhqCGYGprTPLjXu5i
+w+xWBGqDB44jDCJcr66AgCqhZYhj04B5PCPqMNaf8It2IfuX9Ffysaqp+tjcUhGW3JH1nJk8
+ud1kko0C6+v/tp2PLOVR0ac3GacRi0dUf/+ASue6AJNOfh4WliURnubviRXJkcj+5f7vA3Xa
+jg==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krugbot.png "Krugbot")
+
 #### Loda
 I've never seen this without the beta flah
 ~~~
