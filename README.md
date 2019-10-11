@@ -456,7 +456,7 @@ V....[.1..4h.-,.P....].	/;.b...N...:E8.4..Me";3..Q.}0m .>)&A.'9.P6'D.S.0..(_~!,.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
 
-#### KungBot
+#### KrugBot
 ~~~
 POST /absc/index.php HTTP/1.0
 Host: raiseyourdongers.wtf
@@ -469,7 +469,7 @@ w+xWBGqDB44jDCJcr66AgCqhZYhj04B5PCPqMNaf8It2IfuX9Ffysaqp+tjcUhGW3JH1nJk8
 ud1kko0C6+v/tp2PLOVR0ac3GacRi0dUf/+ASue6AJNOfh4WliURnubviRXJkcj+5f7vA3Xa
 jg==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kungbot.png "Kungbot")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krugbot.png "Krugbot")
 
 #### Loda
 I've never seen this without the beta flah
