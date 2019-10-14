@@ -911,6 +911,12 @@ true"success"
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-1.png "Predator")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-2.png "Predator")
 
+#### Remcos RAT
+~~~
+[DataStart]x...K...SMILING BASES|cmd|M.K.Z.T.2.4.4.6.8.5.8.7.4.7.4./.h.g.M.y.Z.r.4.1.u.S.U.1.F.|cmd|US|cmd|Microsoft Windows XP (32 bit)|cmd||cmd|2095747072|cmd|2.5.0 Pro|cmd|C.:.\.D.o.c.u.m.e.n.t.s. .a.n.d. .S.e.t.t.i.n.g.s.\.A.d.m.i.n.i.s.t.r.a.t.o.r.\.A.p.p.l.i.c.a.t.i.o.n. .D.a.t.a.\.y.e.d.c.o.s.\.l.o.g.s...d.a.t.|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd||cmd||cmd|1|cmd|0|cmd|9562396|cmd|1|cmd|hangulcoxpw.pw|cmd|uCjp95GKXiHwd-AJJHX8|cmd|0|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd|Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
+
 #### Revenge RAT
 ~~~
 InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213Revenge-RATVVNFUi1QQyAvIGFkbWluRevenge-RATNoRevenge-RATTWljcm9zb2Z0IFdpbmRvd3MgNyBQcm9mZXNzaW9uYWwgIDMyRevenge-RATSW50ZWwoUikgQ29yZShUTSkgaTUtNjQwMCBDUFUgQCAyLjcwR0h6Revenge-RAT3757686784Revenge-RATTi9BRevenge-RATTi9BRevenge-RAT1000Revenge-RATTWljcm9zb2Z0IFBvd2VyUG9pbnQ=Revenge-RATZW4tVVM=Revenge-RATFalse*-]NK[-*
