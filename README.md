@@ -768,6 +768,28 @@ X-Powered-By: PHP/5.4.45
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony.png "Pony")
 
+#### Pony Loader
+~~~
+POST /eng/gate.php HTTP/1.0
+Host: www.jicago-jp.com
+Accept: */*
+Accept-Encoding: identity, *;q=0
+Content-Length: 199
+Connection: close
+Content-Type: application/octet-stream
+Content-Encoding: binary
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; Windows 98)
+
+HTTP/1.1 200 OK
+Date: Wed, 09 Oct 2019 08:44:06 GMT
+Server: Apache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+STATUS-IMPORT-OK
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony-loader.png "Pony Loader")
+
 #### Predator the Thief
 ~~~
 POST /api/check.get HTTP/1.1
