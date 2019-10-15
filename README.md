@@ -546,6 +546,20 @@ kk.:......m$....B.._.E........PK........G.IO................PASSWORDS/CBase/PK..
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-1.png "Milkyboy 1")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-2.png "Milkyboy 2")
 
+#### MirageFox
+~~~
+POST http://172.16.100.1/result%3Fhl%3Den%26meta%3Dghumeaylnlfdxfircvscxggbwkfnqdu HTTP/1.0
+Accept: *.*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+Proxy-Connection: Keep-Alive
+Content-Length: 528
+Encoding: gzip, deflate
+Accept-Language: en-us
+Host: 172.16.100.1
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/miragefox.png "MirageFox")
+
 #### Nanocore
 
 flag on "38 00 00 00 17" pattern
