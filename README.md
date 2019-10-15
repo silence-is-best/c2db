@@ -197,6 +197,47 @@ Host: domalo.online
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
 
+#### Delf Loader
+~~~
+GET /gate.php?serial=MTc4NS02NDU5LTQ2NDktMjQ0NA== HTTP/1.1
+Content-Type: text/html
+User-Agent: License
+Host: ddhook.000webhostapp.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Oct 2019 10:36:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: awex
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Request-ID: db10cf7bfe6a5d2a490182a808ccb458
+
+11d091d035fb3bd27625c54c622a7e48
+
+
+GET /check.php?serial=MTc4NS02NDU5LTQ2NDktMjQ0NA== HTTP/1.1
+Content-Type: text/html
+User-Agent: License
+Host: ddhook.000webhostapp.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Oct 2019 10:36:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: awex
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Request-ID: 4f25a2a515ae727693adbe820cf36edd
+
+bff12793b8731a7f138e454a576ed1b5
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/delf.png "Delf Loader")
+
 #### Dunihi
 ~~~
 POST /is-ready HTTP/1.1
