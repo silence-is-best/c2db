@@ -368,7 +368,7 @@ Host: moviedvdpower.com
 
 lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%13CUTGUD%0AT%00%04%0F%01%08T%05WUR%05%01%02U%0F%07S%08%03%02%07S%03%07%09%05%0E%00U%05V%13DYZP%0D%01%05%05%00%00%07%13EYS%08%06%02%05%13YT%0A%00%02%0A%02%01%0A%00%07%0F%04q%0Dtt%0A%05%04oeDPB%1Dgv%16@VRUo%5EQ%0D%5ERB%26_%267500
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdor.png "Fin7 JS Backdoor"
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdor.png "Fin7 JS Backdoor")
 
 #### Flawedammyy
 ~~~
