@@ -973,6 +973,16 @@ Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
 
+#### RaaLoader aka Pefsire
+~~~
+00000000  12 10 00 00 00 00 00 00  00 00 00 00               ........ ....
+    00000000  00 00 00 00 06                                     .....
+0000000C  00 00 00 00 06                                     .....
+    00000005  00 00 00 00 06                                     .....
+00000011  00 00 00 00 06                                     .....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raaloader.png "RaaLoader")
+
 #### Raccoon Stealer
 ~~~
 POST /gate/log.php HTTP/1.1
