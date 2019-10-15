@@ -702,6 +702,17 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+flag on "50 00 00 00 82" pattern:
+~~~
+00000000  50 00 00 00 82 c8 36 7a 87 1b 91 70 6b 20 7f 17   P.....6z ...pk ..
+00000010  ea 86 3a e9 07 fc 40 ae 0f ac bc f5 f2 6d f3 98   ..:...@. .....m..
+00000020  71 7a 0b 19 4c 8e 58 bb 6c 69 5a 99 55 4a 72 c6   qz..L.X. liZ.UJr.
+00000030  92 ed 39 fe 74 2a 9d b4 09 ca 5a 4a 83 dc 99 16   ..9.t*.. ..ZJ....
+00000040  0a ea 28 ad ba f6 87 d0 b7 4d 45 78 6a 71 84 19   ..(..... .MExjq..
+00000050  34 cc c6 79                                        4..y
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-50.png "Nanocore 50")
+
 #### NetSupport RAT
 ~~~
 POST http://179.43.159.246/fakeurl.htm HTTP/1.1
