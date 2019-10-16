@@ -529,7 +529,30 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
 #### Icedid
-URI is uually data2.php
+~~~
+GET /photo.png?id=0181B9BACBCF3080870000000000FF40000001 HTTP/1.1
+Connection: Keep-Alive
+Host: eurobable.com
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 16 Oct 2019 15:30:33 GMT
+Content-Type: application/octet-stream
+Content-Length: 605211
+Connection: keep-alive
+Last-Modified: Tue, 08 Oct 2019 11:43:19 GMT
+ETag: "5d9c7657-93c1b"
+Accept-Ranges: bytes
+
+.PNG
+.
+...
+IHDR..............N.T....sRGB.........gAMA......a....	pHYs..........o.d.	;.IDATOLrEV.....Le.D|...Rp.{..D...g`...a@.\8,E
+.~1Z..X.N...^G.....,f$.c.......ru.#O..'.~.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid-2.png "Icedid")
+
+URI for websocket is uually data2.php
 ~~~
 GET /data2.php?1C00C7CC98D464FE HTTP/1.1
 Host: memphase.com
@@ -543,7 +566,7 @@ Connection: upgrade
 Sec-WebSocket-Accept: Kfh9QIsMVZcl6xEPYxPHzW8SZ8w=
 Upgrade: websocket
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid websocket")
 
 #### Imminent RAT
 ~~~
