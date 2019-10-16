@@ -552,7 +552,7 @@ IHDR..............N.T....sRGB.........gAMA......a....	pHYs..........o.d.	;.IDATO
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid-2.png "Icedid")
 
-URI for websocket is uually data2.php
+URI for websocket is usually data2.php
 ~~~
 GET /data2.php?1C00C7CC98D464FE HTTP/1.1
 Host: memphase.com
