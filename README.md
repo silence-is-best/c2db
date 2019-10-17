@@ -90,6 +90,31 @@ BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$be
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/artra.png "Artraloader")
 
+#### Avemaria, aka ave_maria, warzone rat
+~~~
+    00000000  09 12 3b 42 2d 33 a2 44  fc 01 86 73               ..;B-3.D ...s
+00000000  09 12 3b 42 f7 33 a2 44  fd 01 86 73 69 3d ae 12   ..;B.3.D ...si=..
+00000010  bb c6 19 fd 1a 3a f3 11  c9 ae da 3c 30 bc 38 81   .....:.. ...<0.8.
+00000020  fc 00 0f ca 4e fb 05 c6  de b7 3c 6f 4e 01 a2 87   ....N... ..<oN...
+00000030  82 f5 2f 8e ed 2a 1f 0e  b7 43 0c a0 34 5d bd 80   ../..*.. .C..4]..
+00000040  50 56 66 1a 11 af f5 c8  a3 16 b0 d4 38 12 fe 66   PVf..... ....8..f
+00000050  6b 84 c4 4b 58 f4 d3 ce  87 45 75 54 60 f0 d5 3e   k..KX... .EuT`..>
+00000060  f1 79 73 5d 9f 1c c4 8e  1a c5 16 20 71 5e 55 06   .ys].... ... q^U.
+00000070  21 7b 8d 35 de 00 25 5d  6f d7 f2 ca a3 ea ef 73   !{.5..%] o......s
+00000080  90 1f 6e 10 d3 b1 0a 56  17 71 3b 48 bd 5c d9 36   ..n....V .q;H.\.6
+00000090  7e b4 f1 76 46 b8 48 ca  45 1e cd 66 90 d5 67 6b   ~..vF.H. E..f..gk
+000000A0  aa b7 98 ed 9d df 7e 36  c0 78 87 6b 56 03 86 67   ......~6 .x.kV..g
+000000B0  1f ed bb 9e e6 78 aa d5  94 e3 0e e2 c0 5e c7 87   .....x.. .....^..
+000000C0  57 60 34 e4 06 ea 10 ae  6e 38 c3 ca af 01 e2 2c   W`4..... n8.....,
+000000D0  ea d4 26 f9 3a 05 83 f7  aa 59 db 01 f5 2b 40 1e   ..&.:... .Y...+@.
+000000E0  74 28 36 1f ac 03                                  t(6...
+    0000000C  09 12 3b 42 2d 33 a2 44  dc 01 86 73               ..;B-3.D ...s
+000000E6  09 12 3b 42 29 33 a2 44  eb 01 86 73 bc 8d c4 e7   ..;B)3.D ...s....
+    00000018  09 12 3b 42 5d d9 a2 44  e2 01 86 73 bc 8d c4 e7   ..;B]..D ...s....
+    00000028  ca 69 41 01 ab 12 30 ff  ae 64 2d 93 dc 65 53 9b   .iA...0. .d-..eS.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria.png "Avemaria")
+
 #### Azorult
 POST retrieve metod, unique pattern with lot's of '/' and ')'
 ~~~
