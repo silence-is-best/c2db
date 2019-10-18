@@ -525,6 +525,30 @@ Content-Encoding: gzip
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/godzilla.png "Godzilla Loader")
 
+#### GrandSteal
+~~~
+GET /websocket HTTP/1.1
+Host: 162.218.122.115:2012
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Key: Yzg2MDllOTctZGYzMCOOZQ==
+Origin: ws://162.218.122.115:2012
+
+HTTP/1.1 101 Switching Protocols
+Server: nginx
+Date: Fri, 18 Oct 2019 00:41:37 GMT
+Connection: upgrade
+Upgrade: WebSocket
+Sec-WebSocket-Accept: 3pYl7XQW+GMu4ydBWBEUXbuIKJo=
+
+.þ... o>..Í8).i<. e-_A.Mjc.WjN.mjT.WaG.,.U.SnJ%._y.>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>
+. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>
+. o>. o>. o>. o>. o>. o>. o>. o>. o>. o>
+
+.~..."ª..Ê.......... .(.8.@...ugmajJAPYc
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/grandsteal.png "GrandSteal")
 
 #### Hancitor
 ~~~
