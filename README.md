@@ -128,6 +128,23 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
+#### Bandook RAT
+~~~
+00000000  64 4f 7a 54 30 46 72 56  44 51 4c 30 6f 32 49 48   dOzT0FrV DQL0o2IH
+00000010  6f 70 46 6c 31 69 37 48  4c 35 48 48 54 4f 6e 66   opFl1i7H L5HHTOnf
+00000020  6f 30 55 72 6a 47 7a 48  30 61 30 4f 62 54 37 69   o0UrjGzH 0a0ObT7i
+00000030  45 42 64 2b 54 4e 6a 4f  72 77 74 44 6d 4c 57 52   EBd+TNjO rwtDmLWR
+00000040  59 54 68 6f 36 6b 4c 2f  42 38 33 43 4d 75 49 2b   YTho6kL/ B83CMuI+
+00000050  6e 34 46 5a 55 66 49 4a  2f 70 6e 31 32 6a 62 73   n4FZUfIJ /pn12jbs
+00000060  4c 2f 4c 79 54 73 42 73  76 63 48 66 6e 6b 4a 53   L/LyTsBs vcHfnkJS
+00000070  5a 6a 6b 4b 59 34 2b 54  4b 48 44 76 6c 54 32 52   ZjkKY4+T KHDvlT2R
+00000080  59 57 69 59 4a 70 54 48  6d 70 68 4f 70 51 4d 47   YWiYJpTH mphOpQMG
+00000090  6d 77 3d 3d 26 26 26                               mw==&&&
+    00000000  64 4f 7a 54 30 46 6f 3d                            dOzT0Fo= 
+00000097  64 4f 7a 54 30 46 76 56  44 51 3d 3d 26 26 26      dOzT0FvV DQ==&&&
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bandook.png "Bandook")
+
 #### Bitter RAT (Patchwork)
 ~~~
 GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
