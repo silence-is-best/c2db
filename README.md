@@ -424,6 +424,13 @@ kyMjI5loUABYmLgimiKQCLDyklKqUpqSoqpjBAMjIw==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/exilerat.png "Exilerat")
 
+#### Expiro
+~~~
+POST dovamnabihede.ws HTTP/1.1
+User-Agent: Mozilla/4.0 (Compatible; msie 44; NT6.1.7601-90376708.ENU.3DA43F52-83C788-FF5FFC-15DD1711; .NET CLR 00000000/00000000)
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/expiro.png "Expiro")
+
 #### Fin7 JS Backdoor
 ~~~
 POST /pictures/delete?type=name HTTP/1.1
