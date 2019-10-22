@@ -842,7 +842,7 @@ Date: Tue, 22 Oct 2019 20:06:32 GMT
 Server: LiteSpeed
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho-1.png "Metamorpho")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorfo-1.png "Metamorpho")
 
 #### MilkyBoy
 ~~~
