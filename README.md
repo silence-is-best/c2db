@@ -431,6 +431,25 @@ User-Agent: Mozilla/4.0 (Compatible; msie 44; NT6.1.7601-90376708.ENU.3DA43F52-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/expiro.png "Expiro")
 
+#### Filecoder.STOP
+~~~
+GET /As73yhsyU34578hxxx/SDf565g/get.php?pid=2485E9F082250E269EA0EF635E0D382D&first=true HTTP/1.1
+User-Agent: Microsoft Internet Explorer
+Host: ring1.ug
+
+HTTP/1.1 200 OK
+Date: Fri, 25 Oct 2019 13:26:11 GMT
+Server: Apache/2.4.37 (Win64) PHP/5.6.40
+X-Powered-By: PHP/5.6.40
+Content-Length: 562
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+{"public_key":"-----BEGIN&#160;PUBLIC&#160;KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5pjgODTtZORmS4jeVWQV\\nvs71Fz\/NH7IWyR7an0L+rLo1S7Jrqn64J8LXlT\/1eiDN87tYle5AlB4\/vmf4Uo98\\ncMG\/E+NbFLtyRyxTq4RmaNDjyvTPIXbBl+cMU4yIwBKT89D8tuD6PhdfVVjMx71l\\niEPtuNb5pD38EYGv\/3+Yrwvg3sU1+aiIWdZgPX3ieFxAL3ZZkvlr5\/XeNpKqGAiT\\n6YBjLZg7R\/5j5Knhex+gKUR2Gkh2CG7mWqjcaNUK9Hzkgk3\/UmqopxokpSTkHmUT\\nSlN5mKAg438TmIUz4MCnnieexOtpcg7Fmn2wPObgdIG3OXK5yfxxExa+TBDTbCFc\\ngQIDAQAB\\n-----END&#160;PUBLIC&#160;KEY-----\\n","id":"Em9SPAhlG3hXHt713xEY92niynachhsXeWwCv6cB"}
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stopfilecoder.png "Expiro")
+
+
 #### Fin7 JS Backdoor
 ~~~
 POST /pictures/delete?type=name HTTP/1.1
