@@ -1386,6 +1386,13 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Proyecto (aka Nemours) RAT
+~~~
+0|New - 25-10-19/21:41|United States|USER-PC - admin|Windows 7 Professional - 32 Bits / Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz / 4 /  / 0|US|0|192.168.100.60|0 Cap.|oolkth|9090|OFF| - 0 / || Tiene Capturas de: |New - |||No Available
+13|Program Manager|OFF|OFF - 0 / ||
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/proyecto.png "Proyecto")
+
 #### Pyrogenic
 flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
 ~~~
