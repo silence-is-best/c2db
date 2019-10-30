@@ -1306,6 +1306,48 @@ Content-Type: text/html; charset=utf-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
 
+#### Plugx
+~~~
+POST /update?wd=b0b9d49c HTTP/1.1
+Accept: */*
+x-debug: 0
+x-request: 0
+x-content: 61456
+x-storage: 1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;SV1;
+Host: 185.239.226.61:8080
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+~~~
+~~~
+............?PEOJNOOBAAHDMKNGELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com.................?JJIOHDOBJEIEIBJJELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com.................?DBCGBLOBDMGFEIEMELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com.................?JJIOHDOBJEIEIBJJELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com................=.a.gtld-servers.net..nstld.verisign-grs..]..A.........	:...Q.............?PEOJNOOBAAHDMKNGELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com................=.a.gtld-servers.net..nstld.verisign-grs..]..2.........	:...Q.............?DBCGBLOBDMGFEIEMELEADFCKBPAEPIONNCMHLMKBJGILHAGFFKEPDECJBOADPHO?MNBMGLLKAJFIKIPHEGJFOEDDICNBCAHPLOANFMKLPKEJJIOHDGIFNECDHCMBBAG.PKOPNEMJMOLDKIJNIC.bca.udnudfer.com................=.a.gtld-servers.net..nstld.verisign-grs..]..2.........	:...Q.
+~~~
+~~~
+GET /EF003AAB6425775CD949B40C HTTP/1.1
+Accept: */*
+Cookie: QhTbeUW+YzYYsZWz0PQvBvYIgo8=
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: WOUDERFULU.impresstravel.ga
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 203 
+Server: nginx
+Date: Tue, 03 Sep 2019 14:37:02 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 660
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Server: ip-172-31-28-245
+Set-Cookie: JSESSIONID=4618E9008B004BEE8FE5C81AB063A332; Path=/; HttpOnly
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-1.png "Plugx")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-2.png "PlugxDNS")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-3.png "Plugx")
+
 #### Pony
 Follow tcp stream, not http stream in wireshark
 ~~~
