@@ -1843,7 +1843,7 @@ InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213R
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/rms.png "RMS RAT")
 
-#### Sarwent BOT"
+#### Sarwent BOT
 ~~~
 GET /gate/connect?os=Windows+7+Release+Preview+(Build%3A+7601+-+Service+Pack%3A+1.0)+&bits=x64&av=Not+found HTTP/1.1
 Host: shopstoregame.icu
@@ -1863,6 +1863,19 @@ Connection: Keep-Alive
 Content-Type: text/html; charset=UTF-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent.png "Sarwent BOT")
+
+#### SDBot
+~~~
+........g.ver=2.3
+domain=WORKGROUP
+pc=USER-PC
+geo=??
+os=6.1.7601 (x86) Service Pack 1
+rights=user
+proxyenabled=0
+....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sdbot.png "SDBot")
 
 #### Servhelper
 ~~~
