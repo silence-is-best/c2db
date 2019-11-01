@@ -2227,8 +2227,64 @@ ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zerobot2.png "zerobot2")
 
+#### Zeus
+~~~
+GET /panel/config.bin HTTP/1.1
+Accept: */*
+Connection: Close
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: www.ac-cofan.com
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Fri, 01 Nov 2019 17:19:17 GMT
+Server: Apache
+Last-Modified: Fri, 01 Nov 2019 12:12:54 GMT
+Accept-Ranges: bytes
+Content-Length: 34420
+Connection: close
+Content-Type: application/octet-stream
+
+V*<...5..Z*....,x .RVk...t..pm...M....>=..fD....W....R........"..J....f..........m@3..._.fX..d4i.lXp`.#.....L...b!.]&R~.4/.R.nQ.C7.<...e.jZ
+....F...f..0...
+........RQ.h..T..?..D.@1W..-.5......!.*....q...Y.z.ZID.(.;....xe.1.l4..Z.q.s......	..4.qCj...t.$b5.qb.S.....!)/W.&.^..#.J..@...}.u..F.84.Q<.`.X.....a..m..^.K6.g.h.....7...^.c.w..nVS.
+C8Y.G..........(.^.K.L.....3yG......frO)^..Q$.'f...8db.....o".I,....,.\>.h.w"..`..:.2..@
+(.@{........../.*...m...!.
+hm...&.P.T$g.
+.8D	.X.(.YJ......-~....&E#.#..........YQ.&......0.V.$..A.......
+.=W...K..........}.......'.:$.7..Y.....H_{....2........s..........Gi.z...t.
+~~~
+~~~
+POST /panel/gate.php HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: www.ac-cofan.com
+Content-Length: 376
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+....Lm...*...sk.eT.NF.';m.
+b..t...2
+..P..E.....m.=nK...u..7`V..b...%...^..$w..K%......E.....~...g....,.<.V*[.(.........7......g.3p.\..Q".)qU......r....@[:P=...m.o..,?	...5..a..t..j
+.\q.....Km..2..k.B..s8.O............
+..L........f.f......p..nI..OP....
+C..0&.
+.....M.....W.~....	%....D........a..I.....4.9.....t.4..j.U..K!!l....z.G.z...r..~YGR......*.....}.	.N......Kd9.......h
+
+HTTP/1.1 200 OK
+Date: Fri, 01 Nov 2019 17:19:46 GMT
+Server: Apache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+.U..w..F......_.0p .5.UI..x......MjI............9...?r...<...+..
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zeus.png "Zeus")
+
 ### Unknowns
-#################################################################################################
+###########################################################################################
+
 #### Unknownbotnet4
 hashes:
 ~~~
