@@ -302,6 +302,12 @@ Content-Length: 0
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
+#### Crimson RAT
+~~~
+.....info=command.....subdomain-info=user@....|USER-PC|admin||6>1|Ver-3.1||||C:\ProgramData\Dhrolas\|subdomain.....getavs=avpro.....subdomain-getavs=@....264>smss>0><352>explorer>0><796>svchost>0><348>csrss>0><1232>svchost>0><608>svchost>0><3720>windanr>0><692>svchost>0><708>ctfmon>0><864>svchost>0><1872>SearchIndexer>0><3520>SearchFilterHost>0><1384>IMEDICTUPDATE>0><404>csrss>0><1204>spoolsv>0><3484>SearchProtocolHost>0><1824>svchost>0><396>wininit>0><840>svchost>0><1460>qemu-ga>0><2704>audiodg>0><1000>svchost>0><1944>886c394c284f3f334c0e385fe36ec1022037585810b9e39629fcbdc2ac4d27e1>0><464>lsm>0><552>winlogon>0><1352>svchost>0><280>dwm>0><1080>svchost>0><456>lsass>0><4>System>0><448>services>0><2032>taskeng>0><0>Idle>0><
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/crimson.png "Crimson RAT")
+
 #### Cryptbot
 ~~~
 POST /index.php HTTP/1.1
