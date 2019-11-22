@@ -381,7 +381,7 @@ X-Frame-Options: SAMEORIGIN
 X-XSS-Protection: 1; mode=block
 Content-Length: 82480
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltsafe.png "Cobaltstrike safebrowsing")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobalt-safe.png "Cobaltstrike safebrowsing")
 
 #### Crimson RAT
 ~~~
