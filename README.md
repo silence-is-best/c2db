@@ -261,7 +261,7 @@ try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
 
-#### Cannibal RAT
+#### Cannibal RAT (aka Ares)
 ~~~
 POST /api/admin_90520735581359/hello HTTP/1.1
 Host: 35.192.197.199:8080
