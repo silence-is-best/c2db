@@ -356,6 +356,33 @@ Content-Length: 0
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
+Safebrowsing c2 profile
+~~~
+GET /safebrowsing/ref/eNKSXUTdWXGYAMHYg2df0Ev1wVrA7yp0T-WrSHSB53oha HTTP/1.1
+Accept-Language: en-US
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip
+Host: novote.azureedge.net
+Cookie: PREF=ID=foemmgjicmcnhjlacgackacadbclcmnfoeaeeignjhiphdgidlmahkgbchcahclpfcadjnegckejpiofbmllpnaeancgbikcdjohkekapgnkgiijobnknkgiahmkcjipnncehcamnopcmlngcboppjdplhhobhgekdcblgpkdggeklenpcabdkhhhaedogkacljhdgdphfanfbmcbnkgjmplhdkomllhnnoppchchejooiplahpgpmfaegdcpbnd
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Age: 1609
+Alternate-Protocol: 80:quic
+Cache-Control: public,max-age=172800
+Content-Type: application/vnd.google.safebrowsing-chunk
+Date: Fri, 22 Nov 2019 13:34:50 GMT
+Server: ECAcc (frb/67BC)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 82480
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltsage.png "Cobaltstrike safebrowsing")
+
 #### Crimson RAT
 ~~~
 .....info=command.....subdomain-info=user@....|USER-PC|admin||6>1|Ver-3.1||||C:\ProgramData\Dhrolas\|subdomain.....getavs=avpro.....subdomain-getavs=@....264>smss>0><352>explorer>0><796>svchost>0><348>csrss>0><1232>svchost>0><608>svchost>0><3720>windanr>0><692>svchost>0><708>ctfmon>0><864>svchost>0><1872>SearchIndexer>0><3520>SearchFilterHost>0><1384>IMEDICTUPDATE>0><404>csrss>0><1204>spoolsv>0><3484>SearchProtocolHost>0><1824>svchost>0><396>wininit>0><840>svchost>0><1460>qemu-ga>0><2704>audiodg>0><1000>svchost>0><1944>886c394c284f3f334c0e385fe36ec1022037585810b9e39629fcbdc2ac4d27e1>0><464>lsm>0><552>winlogon>0><1352>svchost>0><280>dwm>0><1080>svchost>0><456>lsass>0><4>System>0><448>services>0><2032>taskeng>0><0>Idle>0><
