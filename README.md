@@ -407,6 +407,27 @@ Content-Length: 0
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
+Amazon c2 profile
+~~~
+GET /s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books HTTP/1.1
+Host: www.amazon.com
+Accept: */*
+Cookie: skin=noskin;session-token=MM4bZQ5WUPUrn7TPQuCWct6G+WGXZaLdezMQVEv8PHnB7tnvTk7ct3W71pQmn2NMJQD7IFbjPnKJV27tKshA8AjgzpXoeUtOIrDiBEg0x3AesYq52s74IbjnsVA+wASo0D6L23fd87XNDUiBro5wNBzcybUOADAO1fjCobw5MAw=csm-hit=s-24KU11BB82RZSYGJ3BDK|1419899012996
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Fri, 13 Dec 2019 17:48:39 GMT
+Server: Server
+x-amz-id-1: THKUYEZKCKPGY5T42PZT
+x-amz-id-2: a21yZ2xrNDNtdGRsa212bGV3YW85amZuZW9ydG5rZmRuZ2tmZGl4aHRvNDVpbgo=
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+Content-Length: 0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltamazon.png "Cobaltstrike")
+
 Safebrowsing c2 profile
 ~~~
 GET /safebrowsing/ref/eNKSXUTdWXGYAMHYg2df0Ev1wVrA7yp0T-WrSHSB53oha HTTP/1.1
