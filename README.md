@@ -1370,7 +1370,7 @@ Connection: close
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
 
-#### Metamorpho BR Banker
+#### Metamorpho/Metamorfo BR Banker
 ~~~
 POST / HTTP/1.0
 Connection: keep-alive
