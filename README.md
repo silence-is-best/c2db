@@ -234,6 +234,22 @@ SIZE: #45#SRE: ##
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
 
+#### Blacknet
+~~~
+GET /black/BlackNETPanel/receive.php?command=UGluZw==&vicID=SGFjS2VkX0M0QkEzNjQ3 HTTP/1.1
+Host: meublesinde.in
+
+HTTP/1.1 200 OK
+Date: Fri, 17 Jan 2020 19:49:47 GMT
+Server: Apache
+X-Powered-By: PHP/7.1.33
+Upgrade: h2,h2c
+Connection: Upgrade, close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blacknet.png "Blacknet")
+
 #### Blackrat aka blackremote
 ~~~
 9.............................>Clientx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null......ProClient.Data.....data.bytes.............102622021F20414A5644044411072A755821285E472B1826013113651A28101927225D5B1037185F69394B2911291A1A3F031C113F696C1442754978280A031673281879480C2843582C0B032E41737D7E5B5C7A0F7C0D7521
