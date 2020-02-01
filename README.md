@@ -1902,7 +1902,7 @@ Content-Type: text/html; charset=utf-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
 
-#### Parasite Stealer
+#### Parasite Stealer aka Nexus
 ~~~
 POST /gate.php HTTP/1.1
 Content-Type: application/octet-stream;
