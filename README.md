@@ -1873,6 +1873,47 @@ WmiPrvSE.exe*null
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-1.png "Ostap")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
 
+#### Parallax RAT
+~~~
+00000000  04 c7 86 72 fd 82 d3 50  88 03 b3 9f bc 7f b1 f3   ...r...P ........
+00000010  2f 44 27 83 80 9d ab d2  22 72 ff 33 88 8f 85 17   /D'..... "r.3....
+00000020  fd af c9 1e 5e c9 68 88  70 a6 27 7e 6f 95 7b d5   ....^.h. p.'~o.{.
+00000030  ed 48 fd 08 40 83 c2 36  c8 82 e4 50 6a f0 4e 9f   .H..@..6 ...Pj.N.
+00000040  8a 7f eb f3 42 44 64 83  c8 9d e1 d2 65 72 bc 33   ....BDd. ....er.3
+00000050  fe 8e aa 17 b4 af 88 1e  16 c9 25 88 29 a6 6b 7e   ........ ..%.).k~
+00000060  26 95 4e d5 db 48 cc 08  3e d7 f8 0c 44 6e ff 59   &.N..H.. >...Dn.Y
+00000070  79 dc 64 86 8b c1 cd a6  64 c0 da 77 bf 95 77 dd   y.d..... d..w..w.
+00000080  7c a0 d5 f0 71 34 56 b2  80 d8 1e b6 89 22 cf 8b   |...q4V. ....."..
+00000090  55 e4 05 4b 7b 6d 07 ef  93 6d f2 f3 4d ee ee 23   U..K{m.. .m..M..#
+000000A0  8f 26 b1 7d 98 34 ae e7  26 08 d4 e8 1d 28 21 2a   .&.}.4.. &....(!*
+000000B0  35 3b c6 0c 01 01 6c ed  54 a4 a0 2f a2 ef e0 1d   5;....l. T../....
+000000C0  ce 34 b7 55 f8 2f fb 23  e9 50 cf e2 3a 35 50 bb   .4.U./.# .P..:5P.
+000000D0  85 04 0a 91 c3 91 64 54  52 63 1f 8a 41 3a 25 d9   ......dT Rc..A:%.
+000000E0  bf da af 3b ea 73 0b 9c  1f 58 02 f2 97 83 10 7b   ...;.s.. .X.....{
+000000F0  96 4a 7a 57 8a 38 54 76  c9 fa 6a 41 25 8a 10 37   .JzW.8Tv ..jA%..7
+00000100  03 52 d8 ca 85 2c 06 83  e3 ef 76 de 40 66 6c f0   .R...,.. ..v.@fl.
+00000110  a2 68 39 9a ef 9e 7d 93  56 99 e9 2a               .h9...}. V..*
+    00000000  04 c7 86 72 d6 82 d3 50  e5 a4 56 9f bc 7f b1 f3   ...r...P ..V.....
+    00000010  2f 44 27 83 80 9d ab d2  aa 2b f8 35 a0 8e 85 17   /D'..... .+.5....
+    00000020  fd af c9 1e 5e c9 68 88  70 a6 27 7e 6f 95 7b d5   ....^.h. p.'~o.{.
+    00000030  ed 48 fd 08                                        .H..
+0000011C  04 c7 86 72 d7 82 d3 50  e5 a4 56 9f a0 89 20 f3   ...r...P ..V... .
+0000012C  2f 44 27 83 80 9d ab d2  22 72 ff 33 02 8e 85 17   /D'..... "r.3....
+0000013C  fd af c9 1e 5e c9 68 88  70 a6 27 7e 6f 95 7b d5   ....^.h. p.'~o.{.
+0000014C  ed 48 fd 08 fe 7c 59 c9  91 82 ba 50 4d f0 4b 9f   .H...|Y. ...PM.K.
+0000015C  cf 7f c5 f3 5d 44 46 83  f4 9d c4 d2 50 72 c5 33   ....]DF. ....Pr.3
+0000016C  b4 8e c6 17 c7 af 95 1e  09 c9 01 88 1e a6 43 7e   ........ ......C~
+0000017C  00 95 0c d5 9e 48 a1 08  7f d7 b1 0c 05 6e b9 59   .....H.. .....n.Y
+0000018C  2b dc 09 86 b8 c1 00 59  c7 3f ee 1e bc f1 7c aa   +......Y .?....|.
+0000019C  21 80 87 d0 59 46 5c d4  e5 ab 92 20 19 b3 ae e7   !...YF\. ... ....
+000001AC  75 e4 05 4b 7b 6d                                  u..K{m
+    00000034  04 c7 86 72 d5 82 d3 50  23 f0 22 9f bc 7f b1 f3   ...r...P #.".....
+    00000044  2f 44 27 83 80 9d ab d2  22 72 ff 33 a0 8e 85 17   /D'..... "r.3....
+    00000054  fd af c9 1e 5e c9 68 88  70 a6 27 7e 6f 95 7b d5   ....^.h. p.'~o.{.
+    00000064  ed 48 fd 08                                        .H..
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parallax.png "Parallax")
+
 #### ParasiteHTTP Loader
 ~~~
 POST /index.php HTTP/1.1
