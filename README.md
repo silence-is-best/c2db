@@ -1950,8 +1950,15 @@ SearchFilterHost.exe*null
 WINWORD.EXE*C:\Program Files\Microsoft Office\Office14\WINWORD.EXE
 WmiPrvSE.exe*null
 ~~~
+~~~
+https://51.83.206.98/1/1.php?g=m4&b=4a01758c&c=ACCOUNTDOMAIN@@LARRY-ACCOUNTIN@@Larry@@*172.16.0.2%3A%3A%5B00000001%5D%20Intel%28R%29%20Ethernet%20Connection%20I217-LM&233137
+
+https://45.128.134.14/C821al/vc2Tmy.php?h=m2&j=4a01758c&l=ACCOUNTDOMAIN@@LARRY-ACCOUNTIN@@Larry@@*172.16.0.2%3A%3A%5B00000001%5D%20Intel%28R%29%20Ethernet%20Connection%20I217-LM&13742148
+~~~
+
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-1.png "Ostap")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-3.png "Ostap")
 
 #### Parallax RAT
 ~~~
