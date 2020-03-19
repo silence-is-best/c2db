@@ -966,6 +966,18 @@ lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%1
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdoor.png "Fin7 JS Backdoor")
 
+#### Firebird RAT
+~~~
+00000000  53 00 00 00 00 00 00 00                            S....... 
+00000008  00 01 00 00 00 ff ff ff  ff 01 00 00 00 00 00 00   ........ ........
+00000018  00 06 01 00 00 00 3b 56  5c 5a 48 4b 05 67 66 3c   ......;V \ZHK.gf<
+00000028  22 0c 04 13 14 10 41 41  32 02 1c 06 08 06 2e 5b   ".....AA 2......[
+00000038  5b 24 0c 1f 1a 5a 4d 59  61 50 32 15 01 0a 1f 5a   [$...ZMY aP2....Z
+00000048  29 53 56 2b 43 59 15 34  3d 3d 03 0c 3c 22 0c 04   )SV+CY.4 ==..<"..
+00000058  13 14 0b                                           ...
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/firebird.png "Firebird")
+
 #### Flawedammyy
 ~~~
 = ..">h..K...t.......N<.
