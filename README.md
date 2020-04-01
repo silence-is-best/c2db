@@ -1174,6 +1174,65 @@ Upgrade: websocket
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid websocket")
 
+New Loader
+~~~
+GET / HTTP/1.1
+Connection: Keep-Alive
+Host: karantino.xyz
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 27 Mar 2020 16:07:26 GMT
+Content-Type: text/html
+Content-Length: 489
+Connection: keep-alive
+Last-Modified: Wed, 29 Jan 2020 08:16:06 GMT
+ETag: "5e313f46-1e9"
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Site under reconstruction</title>
+		<style>
+		body
+		{
+			height:				90vh;
+			background-color: 	#59BAB1;
+			background-image:	url("background.png");
+			background-repeat:	no-repeat;
+			background-size: 	contain;
+		}
+		</style>
+	</head>
+	<body>
+	</body>
+</html>
+GET /background.png
+
+HTTP/1.1
+Connection: Keep-Alive
+Cookie: __gads=3341780230:0:418500:437:83; _gat=10.0.16299.64; _ga=1.329443.0.66; _u=4445534B544F502D4A474C4C4A4C44:61646D696E; __io=21_1693682860_607145093_2874071422; _gid=92AA106A8DB0
+Host: karantino.xyz
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 27 Mar 2020 16:07:27 GMT
+Content-Type: image/png
+Content-Length: 314160
+Connection: keep-alive
+
+.PNG
+.
+...
+IHDR...............#&....sRGB.........gAMA......a....	pHYs..."...".........IDATx^....lKz..e....>...0.f.s.... f...`...J..."$...!Qv.a9...p..............6....|...+..#.2M.2
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedidloader.png "IcedID Loader")
+
 #### Imminent RAT
 ~~~
 00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
