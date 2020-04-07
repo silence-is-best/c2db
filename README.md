@@ -3436,3 +3436,36 @@ Content-Type: text/html; charset=UTF-8
 2
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownbotnet4.png "Unknownbotnet4")
+
+#### UnknownMalware5
+~~~
+POST / HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.74 Safari/537.36 Edg/79.0.319.43
+Referer: admin|USER-PC|DELL|DELL||84e59dc13aa07c2ef07c5302e65608
+Host: microsoft-hohm.space
+Connection: Keep-Alive
+
+HTTP/1.1 201 Created
+Server: nginx
+Date: Tue, 07 Apr 2020 16:13:52 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Content-Encoding: identity
+Set-Cookie: dkv=7c2f9a0a70cfb720d03e55719b955df4
+Strict-Transport-Security: max-age=31536000;
+
+GET / HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.74 Safari/537.36 Edg/79.0.319.43
+Cookie: dkv=7c2f9a0a70cfb720d03e55719b955df4
+Host: microsoft-hohm.space
+
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Tue, 07 Apr 2020 16:14:22 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Content-Encoding: identity
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownmalware5.png "UnknownMalware5")
