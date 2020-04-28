@@ -3205,6 +3205,17 @@ Content-Disposition: form-data; name="upload_file"; filename="78C6.bin"
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursnif.png "Ursnif POST")
 
+#### Valak
+~~~
+GET /project.aspx?cwdTelemetry=2&regclid=bmtiZmE1WlxKXSJfTDVaXEpdIl9MNWluY3xqNTc%2FbDg%2FaTk7PTw1Ym5rODU9PA%3D%3D&agwHit=iniagz&cClass=za&ubwG=hnuhjdlqhguy HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Host: katedesktop64.com
+Connection: Keep-Alive
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/valak.png "Valak")
+
 #### Vidar Stealer
 ~~~
 POST / HTTP/1.1
