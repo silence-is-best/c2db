@@ -1606,6 +1606,10 @@ Connection: close
 
 AAEAAAD/////AQAAAAAAAAAEAQAAACJTeXN0ZW0uRGVsZWdhdGVTZXJpYWxpemF0aW9uSG9sZGVyAwAAAAhEZWxlZ2F0ZQd0YXJnZXQwB21ldGhvZDADAwMwU3lzdGVtLkRlbGVnYXRlU2VyaWFsaXphdGlvbkhvbGRlcitEZWxlZ2F0ZUVudHJ5IlN5c3RlbS5EZWxlZ2F0ZVNlcmlhbGl6YXRpb25Ib2xkZXIvU3lzdGVtLlJlZmxlY3Rpb24uTWVtYmVySW5mb1NlcmlhbGl6YXRpb25Ib2xkZXIJAgAAAAkDAAAACQQAAAAEAgAAADBTeXN0ZW0uRGVsZWdhdGVTZXJpYWxpemF0aW9uSG9sZGVyK0RlbGVnYXRlRW50cnkHAAAABHR5cGUIYXNzZW1ibHkGdGFyZ2V0EnRhcmdldFR5cGVBc3NlbWJseQ50YXJnZXRUeXBlTmFtZQptZXRob2ROYW
 ~~~
+Hex decoded cookie example from above:
+~~~
+C4BA3647_|_89a9c0f8-9556-4c9f-bccd-c074ddc14b09_|_USER-PC_|_admin_|_Microsoft Windows 7 Professional _|_6.1.7601_|_JsOutProx_|_ping
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jsoutprox.png "JsOutProx")
 
 #### JSSLoader
