@@ -3378,7 +3378,7 @@ FHTHSEPHJHWHWHTHWEPHWHJHXIAHRHJEPHSHJIDHYDVDSDVDSDVDSDVDSHHHTHSHXHYEPEPHHGAGMGBE
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursa.png "Ursa Loader")
 
-#### Ursnif:
+#### Ursnif
 ~~~
 POST /images/wsF0B4sp/ZaYjjdVgt73Q1BSOy_2Fofi/qF_2BfPTuK/5Ha_2F0xEvmbSfT_2/FluJ8ZF_2Fx8/g6xkZAZrZwN/2skHgzv92i_2BS/uPf4RDQvATKCgx0GZ5gez/ph_2BLcscLQkKDVw/HGZ6zA6DhGCqgPD/VTX09Q_2FUWIFyWps1/nfJ0I3rIZ/QNKbXjeu7xXa3W_2FZSX/bcWtE2zC4RafXFoRlqL/4EC4YHwclzkXrfX/58a3.bmp HTTP/1.1
 Cache-Control: no-cache
@@ -3517,6 +3517,31 @@ Content-Encoding: gzip
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-3.png "Vidar")
+
+#### Vikro Stealer
+~~~
+GET /getSettings?user_id=WqH4UfHnZ0QYjIVskHWDiQ%3D%3D HTTP/1.1
+Host: digicertificator.site
+Connection: Keep-Alive
+
+HTTP/1.1 200 OK
+Date: Tue, 07 Jul 2020 22:22:56 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=d5ec32a218aa5e5367539479571aed84a1594160576; expires=Thu, 06-Aug-20 22:22:56 GMT; path=/; domain=.digicertificator.site; HttpOnly; SameSite=Lax; Secure
+X-Powered-By: Express
+CF-Cache-Status: DYNAMIC
+cf-request-id: 03ccf910040000ee5044a20200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security: max-age=0; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 5af4f7933f21ee50-CDG
+
+DQ27u3FPe6q49xyqPW1NUwmiFepfoVnM3+bp29aXA6PnHDet4inH3Uz/amoP29gM60V90JzIDUG/SizOKUEZi4mBEbtN87zR2KNjUri2aTiiEsKLduXshceImkfhLKeeEp4p9ojbbzkhBkER/GMCSZiWOPwiP5u8ioMjwji3vjQFeyDwaUgmS9CoBPikS397afxOj6KAZLrXVH7BILZMzt0/wfmUfz/wsBfHJkJXETD9ZfbNDLCFSDXgQ7Jcf13R5MCnQQzjhUmO/11KJyegRVREt2ZHwKTIwrMaugYNpV18wxNJyUr8TQ5jF1+ch0yj4suoBjyZe12zNl/l1B6LsX189KhqbRc6+y8uefPV1DAGf+VY5+EC2uEj6xjrrni02ft7ofo3tcaoPsJgR8B2PtV1X6a+ggqYbrGqet3ghsqhj5rRfwbR2i+rW/L5eUJApsQTJYE5gRjDqS545Ul4jK/sqosuOqX6fvkWXqrozKNdvrqZf/4goN1pHm3i5/bggRR3sfZ1CZPTZbczHiw6cxU8ud+VR7F7d425drG2SW9lpzyPWeXInNSyS20muadOpWPPTU83wOpQO86eJ0hvYM6CaQaGJtzXXadrqVjbFYw=
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vikro.png "Vikro Stealer")
 
 #### Vjworm vjw0rm
 ~~~
