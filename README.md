@@ -1727,7 +1727,21 @@ e..9.z@.!=.f.l7.Mob.	.@fn..C"{2JT..=.|=x#=.m.r. V.^z-Z]...&Mc."1t._..`'<..%S?.7@
 ]30,
 V....[.1..4h.-,.P....].	/;.b...N...:E8.4..Me";3..Q.}0m .>)&A.'9.P6'D.S.0..(_~!,..hQ|y.zfR^~.gwpO	h[~p.IfP_M.arwL.QZ|
 ~~~
+~~~
+GET /admtest/configuration.php?botid=BEF522C314BC1291311131 HTTP/1.1
+Host: 213.226.100.184
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Server: nginx/1.10.3 (Ubuntu)
+Date: Mon, 13 Jul 2020 08:26:56 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot2.png "Kpot stealer")
 
 #### KrugBot
 ~~~
