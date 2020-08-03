@@ -3326,6 +3326,34 @@ Server: cloudflare
 CF-RAY: 59a0c1483f4acc9f-WAW
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/taurus.png "Taurus")
+~~~
+POST /cfg/ HTTP/1.1
+Content-Type: text/html
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 83.0.43.121 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Host: brightpatio.site
+Content-Length: 40
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+fiiEBkciEbcGGAhDLBzM5vXFT49egBu+n+AowMRW
+
+HTTP/1.1 200 OK
+Date: Mon, 03 Aug 2020 17:27:51 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 108
+Connection: keep-alive
+Set-Cookie: __cfduid=d16b2f3f98d16231a35d4b62af1e52ee61596475671; expires=Wed, 02-Sep-20 17:27:51 GMT; path=/; domain=.brightpatio.site; HttpOnly; SameSite=Lax; Secure
+Access-Control-Allow-Origin: *
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0456f69ca70000bc54ab143200000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 5bd1c0743f44bc54-LHR
+
+dMpxOSxhqkNKhUMze/eJIqACe7beduu+j+9JLQ11DUenzvsd2gvDgNl8PCQTAKwmkESu5dQ9jPymvbu8cXUzl2+wy02w7DG+oVxLZh4+wA==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/taurus1.png "Taurus")
 
 #### tRat
 ~~~
