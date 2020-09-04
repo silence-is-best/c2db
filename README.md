@@ -2822,6 +2822,25 @@ Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
 
+#### Qudox
+~~~
+GET /gate.php?check HTTP/1.1
+Host: 195.2.92.64
+
+HTTP/1.1 200 OK
+Date: Fri, 04 Sep 2020 13:08:34 GMT
+Server: Apache/2.4.25 (Debian)
+Content-Length: 12
+Content-Type: text/html; charset=UTF-8
+
+by+B+dC9UQ==GET /gate.php HTTP/1.1
+Host: 195.2.92.64
+Content-Length: 76
+
+TBOs3enZOi2/1kVNZdn9bAt1EnPmqL4g9GBGU95XoNzQo6hiYel7j0rkpapVu45CkORs54FJtg==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qudox.png "Qudox")
+
 #### Qulab Clipper
 ~~~
 GET /bot873737212:AAFatKVhb76Tb7yoLv3dCtDO9sgKAsUV_gg/getMe HTTP/1.1
