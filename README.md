@@ -240,6 +240,13 @@ X-Powered-By: PHP/5.5.38
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/betabot.png "Betabot")
 
+#### BitRAT
+Hash: 9e11c859c27b3696188e8b9ad95513dcc0a61980232dc4bf455df5d6f4454e46
+~~~
+con|1601670957699|281|MTE0NGRlZjhiNzc4ODM5ZXxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW8gICAgIFQ3NzAwICwgU3RhbmRhcmQgVkdBIEdyYXBoaWNzIEFkYXB0ZXJ8V2luIDcgICh4NjQpfFFXUnRhVzVwYzNSeVlYUnZjam9nUTI5dGJXRnVaQ0JRY205dGNIUT18MGQgMGggMG0gMHN8MTEwfC18MHw0IEdpQnxOL0F8MjUxNnwxOTIuMTY4LjEwMC4xMDF8MXwtMXxEZWZhdWx0fDEuMzA=@
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bitrat.png "Betabot")
+
 #### Bitter RAT (Patchwork)
 ~~~
 GET /ourtyaz/qwe.php?TIe=%3a116%3ad48.2431.52b5.c69e.3c86b%3a961e3g*Vtfs.QD*%3aACme%3b%217%2f2%2f8712%21Tfswjdf%21Qbdl%212 HTTP/1.1
