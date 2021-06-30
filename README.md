@@ -3887,6 +3887,16 @@ Content-Type: text/html; charset=UTF-8
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zeus.png "Zeus")
 
+#### zgRAT
+~~~
+00000000  40 00 00 00                                        @...
+00000004  2b 00 00 00 1f 8b 08 00  00 00 00 00 04 00 33 b6   +....... ......3.
+00000014  51 51 b5 b7 33 34 36 77  75 76 75 b5 34 b1 74 74   QQ..346w uvu.4.tt
+00000024  32 33 77 74 b3 34 33 76  75 75 32 34 70 74 33 75   23wt.43v uu24pt3u
+00000034  73 36 77 73 04 2b 02 00  c8 a1 5a d2 2b 00 00 00   s6ws.+.. ..Z.+...
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zgrat.png "zgRAT")
+
 #### Zyklon Loader
 ~~~
 POST /api/base.php HTTP/1.1
