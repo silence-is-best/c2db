@@ -159,6 +159,30 @@ BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$be
 con|1597172877123|285|ZTkyNGVhNzkxMjU1N2RlZHxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW8gICAgIFQ3NzAwICwgU3RhbmRhcmQgVkdBIEdyYXBoaWNzIEFkYXB0ZXJ8V2luIDcgICh4NjQpfFRXVm5ZVVIxYlhCbGNpQXhMakFnWW5rZ1EyOWtaVU55WVdOclpYSWdMeUJUYmtRPXwwZCAwaCAwbSAwc3w3NjZ8LXwwfDQgR2lCfE4vQXwyMzA0fDE5Mi4xNjguMTAwLjEwMXwxfC0xfERlZmF1bHQ=@
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria2.png "Avemaria")
+~~~
+    00000000  17 69 89 31 17 60 ba b0  02 23 a9 79               .i.1.`.. .#.y
+00000000  17 69 89 31 ab 60 ba b0  03 23 a9 79 ba 5d bb 30   .i.1.`.. .#.y.].0
+00000010  0f 57 5c a6 38 ca da 21  2a 61 66 45 19 f7 7f c6   .W\.8..! *afE....
+00000020  58 09 d3 89 cd 36 fe 88  43 f9 a3 33 40 f7 84 1c   X....6.. C..3@...
+00000030  19 47 dd 80 1c f2 e0 a4  8b af b9 f1 f7 25 53 48   .G...... .....%SH
+00000040  69 a0 32 da c8 1d 3e 07  38 44 3d 5d d6 e8 79 c8   i.2...>. 8D=]..y.
+00000050  aa ff bc d4 11 48 8d 9b  b2 6a 8e 7b 9a 9c b7 da   .....H.. .j.{....
+00000060  b5 fb d6 74 f1 e3 48 88  db 08 bf bf dd d8 a3 3a   ...t..H. .......:
+00000070  11 c0 4c 98 8d 0e f7 4f  2a 1d 19 12 25 dd ff 72   ..L....O *...%..r
+00000080  69 6e 43 c3 db 76 a1 05  2b 6b ef b6 29 8d 52 88   inC..v.. +k..).R.
+00000090  db 6e 9b 5b 77 e0 34 57  33 79 7b 95 72 60 65 cb   .n.[w.4W 3y{.r`e.
+000000A0  f7 38 3c f0 12 82 d6 1c  71 12 f7 26 e3 1a b9 49   .8<..... q..&...I
+000000B0  c8 eb 46 0f 54 cb f0 35  9c 3e 4d 08 7b 9f 4b 72   ..F.T..5 .>M.{.Kr
+000000C0  d5 c3 27 da 27 51 47 de                            ..'.'QG. 
+    0000000C  17 69 89 31 17 60 ba b0  2a 23 a9 79               .i.1.`.. *#.y
+    00000018  17 69 89 31 5f 60 ba b0  20 23 a9 79 79 fa d3 d9   .i.1_`..  #.yy...
+    00000028  1d 44 2c 26 8a c9 f5 58  76 a2 3e f6 1c 79 65 06   .D,&...X v.>..ye.
+    00000038  23 08 a7 89 d7 34 8c 88  36 f9 ca 33 35 f7 aa 1c   #....4.. 6..35...
+    00000048  72 47 b9 80 3f f2 c1 a4  e7 af 97 f1 db 25 31 48   rG..?... .....%1H
+    00000058  4a a0 14 da ab 1d 4e 07  57 44 7e 5d 42 a2 a0 0b   J.....N. WD~]B...
+    00000068  2d f8 d9 d4                                        -...
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria3.png "Avemaria")
 
 #### Azorult
 POST retrieve method, unique pattern with lot's of '/' and ')'
