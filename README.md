@@ -2535,6 +2535,13 @@ https://45.128.134.14/C821al/vc2Tmy.php?h=m2&j=4a01758c&l=ACCOUNTDOMAIN@@LARRY-A
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-3.png "Ostap")
 
+#### Ousaban (banker)
+~~~
+#PRINCIPAL##Convite##ConvitRC#<#>Windows 10 Pro<#>DESKTOP-JGLLJLD<#>Nao<#>Windows Defender#SocketMain#<#>723442#UploadFile##RECEBENDO#<#>DESKTOP-JGLLJLD#ON-LINE##strPingOk##ON-LINE##strPingOk##ON-LINE##strPingOk##PLUGIN#<#>Nao#ON-LINE##strPingOk##COMPLETOU#<#>DESKTOP-JGLLJLD
+~~~
+
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ousaban.png "Ousaban")
+
 #### Parallax RAT
 ~~~
 00000000  04 c7 86 72 fd 82 d3 50  88 03 b3 9f bc 7f b1 f3   ...r...P ........
