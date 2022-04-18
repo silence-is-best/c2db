@@ -1674,7 +1674,7 @@ Idle
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex2.png "iDex")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex3.png "iDex")
 
-#### iDex New
+#### iDex New aka MatrixMax stealer
 ~~~
 POST /gate.php HTTP/1.1
 Content-Type: application/x-www-form-urlencoded
